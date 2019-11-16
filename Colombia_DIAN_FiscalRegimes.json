@@ -1,0 +1,12 @@
+[
+  {
+    "FV_RFI_Id_Regimen_Fiscal": 1,
+    "FV_RFI_Codigo_Regimen_Fisca": "04",
+    "FV_RFI_Nombre_Regimen_Fiscal": "Régimen Simple"
+  },
+  {
+    "FV_RFI_Id_Regimen_Fiscal": 2,
+    "FV_RFI_Codigo_Regimen_Fisca": "05",
+    "FV_RFI_Nombre_Regimen_Fiscal": "Régimen Ordinario"
+  }
+]
