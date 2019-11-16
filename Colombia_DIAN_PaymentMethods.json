@@ -1,0 +1,302 @@
+[
+  {
+    "Código": 1,
+    "Medio": "Instrumento no definido"
+  },
+  {
+    "Código": 2,
+    "Medio": "Crédito ACH"
+  },
+  {
+    "Código": 3,
+    "Medio": "Débito ACH"
+  },
+  {
+    "Código": 4,
+    "Medio": "Reversión débito de demanda ACH"
+  },
+  {
+    "Código": 5,
+    "Medio": "Reversión crédito de demanda ACH"
+  },
+  {
+    "Código": 6,
+    "Medio": "Crédito de demanda ACH"
+  },
+  {
+    "Código": 7,
+    "Medio": "Débito de demanda ACH"
+  },
+  {
+    "Código": 8,
+    "Medio": "Mantener"
+  },
+  {
+    "Código": 9,
+    "Medio": "Clearing Nacional o Regional"
+  },
+  {
+    "Código": 10,
+    "Medio": "Efectivo"
+  },
+  {
+    "Código": 11,
+    "Medio": "Reversión Crédito Ahorro"
+  },
+  {
+    "Código": 12,
+    "Medio": "Reversión Débito Ahorro"
+  },
+  {
+    "Código": 13,
+    "Medio": "Crédito Ahorro"
+  },
+  {
+    "Código": 14,
+    "Medio": "Débito Ahorro"
+  },
+  {
+    "Código": 15,
+    "Medio": "Bookentry Crédito"
+  },
+  {
+    "Código": 16,
+    "Medio": "Bookentry Débito"
+  },
+  {
+    "Código": 17,
+    "Medio": "Concentración de la demanda en efectivo /Desembolso Crédito (CCD)"
+  },
+  {
+    "Código": 18,
+    "Medio": "Concentración de la demanda en efectivo / Desembolso (CCD) débito"
+  },
+  {
+    "Código": 19,
+    "Medio": "Crédito Pago negocio corporativo (CTP)"
+  },
+  {
+    "Código": 20,
+    "Medio": "Cheque"
+  },
+  {
+    "Código": 21,
+    "Medio": "Poyecto bancario"
+  },
+  {
+    "Código": 22,
+    "Medio": "Proyecto bancario certificado"
+  },
+  {
+    "Código": 23,
+    "Medio": "Cheque bancario"
+  },
+  {
+    "Código": 24,
+    "Medio": "Nota cambiaria esperando aceptación"
+  },
+  {
+    "Código": 25,
+    "Medio": "Cheque certificado"
+  },
+  {
+    "Código": 26,
+    "Medio": "Cheque Local"
+  },
+  {
+    "Código": 27,
+    "Medio": "Débito Pago Neogcio Corporativo (CTP)"
+  },
+  {
+    "Código": 28,
+    "Medio": "Crédito Negocio Intercambio Corporativo (CTX)"
+  },
+  {
+    "Código": 29,
+    "Medio": "Débito Negocio Intercambio Corporativo (CTX)"
+  },
+  {
+    "Código": 30,
+    "Medio": "Transferecia Crédito"
+  },
+  {
+    "Código": 31,
+    "Medio": "Transferencia Débito"
+  },
+  {
+    "Código": 32,
+    "Medio": "Concentración Efectivo / Desembolso Crédito plus (CCD+)"
+  },
+  {
+    "Código": 33,
+    "Medio": "Concentración Efectivo / Desembolso Débito plus (CCD+)"
+  },
+  {
+    "Código": 34,
+    "Medio": "Pago y depósito pre acordado (PPD)"
+  },
+  {
+    "Código": 35,
+    "Medio": "Concentración efectivo ahorros / Desembolso Crédito (CCD)"
+  },
+  {
+    "Código": 36,
+    "Medio": "Concentración efectivo ahorros / Desembolso Drédito (CCD)"
+  },
+  {
+    "Código": 37,
+    "Medio": "Pago Negocio Corporativo Ahorros Crédito (CTP)"
+  },
+  {
+    "Código": 38,
+    "Medio": "Pago Neogcio Corporativo Ahorros Débito (CTP)"
+  },
+  {
+    "Código": 39,
+    "Medio": "Crédito Negocio Intercambio Corporativo (CTX)"
+  },
+  {
+    "Código": 40,
+    "Medio": "Débito Negocio Intercambio Corporativo (CTX)"
+  },
+  {
+    "Código": 41,
+    "Medio": "Concentración efectivo/Desembolso Crédito plus (CCD+)"
+  },
+  {
+    "Código": 42,
+    "Medio": "Consiganción bancaria"
+  },
+  {
+    "Código": 43,
+    "Medio": "Concentración efectivo / Desembolso Débito plus (CCD+)"
+  },
+  {
+    "Código": 44,
+    "Medio": "Nota cambiaria"
+  },
+  {
+    "Código": 45,
+    "Medio": "Transferencia Crédito Bancario"
+  },
+  {
+    "Código": 46,
+    "Medio": "Transferencia Débito Interbancario"
+  },
+  {
+    "Código": 47,
+    "Medio": "Transferencia Débito Bancaria"
+  },
+  {
+    "Código": 48,
+    "Medio": "Tarjeta Crédito"
+  },
+  {
+    "Código": 49,
+    "Medio": "Tarjeta Débito"
+  },
+  {
+    "Código": 50,
+    "Medio": "Postgiro"
+  },
+  {
+    "Código": 51,
+    "Medio": "Telex estándar bancario francés"
+  },
+  {
+    "Código": 52,
+    "Medio": "Pago comercial urgente"
+  },
+  {
+    "Código": 53,
+    "Medio": "Pago Tesorería Urgente"
+  },
+  {
+    "Código": 60,
+    "Medio": "Nota promisoria"
+  },
+  {
+    "Código": 61,
+    "Medio": "Nota promisoria firmada por el acreedor"
+  },
+  {
+    "Código": 62,
+    "Medio": "Nota promisoria firmada por el acreedor, avalada por el banco"
+  },
+  {
+    "Código": 63,
+    "Medio": "Nota promisoria firmada por el acreedor, avalada por un tercero"
+  },
+  {
+    "Código": 64,
+    "Medio": "Nota promisoria firmada pro el banco"
+  },
+  {
+    "Código": 65,
+    "Medio": "Nota promisoria firmada por un banco avalada por otro banco"
+  },
+  {
+    "Código": 66,
+    "Medio": "Nota promisoria firmada"
+  },
+  {
+    "Código": 67,
+    "Medio": "Nota promisoria firmada por un tercero avalada por un banco"
+  },
+  {
+    "Código": 70,
+    "Medio": "Retiro de nota por el por el acreedor"
+  },
+  {
+    "Código": 74,
+    "Medio": "Retiro de nota por el por el acreedor sobre un banco"
+  },
+  {
+    "Código": 75,
+    "Medio": "Retiro de nota por el acreedor, avalada por otro banco"
+  },
+  {
+    "Código": 76,
+    "Medio": "Retiro de nota por el acreedor, sobre un banco avalada por un tercero"
+  },
+  {
+    "Código": 77,
+    "Medio": "Retiro de una nota por el acreedor sobre un tercero"
+  },
+  {
+    "Código": 78,
+    "Medio": "Retiro de una nota por el acreedor sobre un tercero avalada por un banco"
+  },
+  {
+    "Código": 91,
+    "Medio": "Nota bancaria tranferible"
+  },
+  {
+    "Código": 92,
+    "Medio": "Cheque local traferible"
+  },
+  {
+    "Código": 93,
+    "Medio": "Giro referenciado"
+  },
+  {
+    "Código": 94,
+    "Medio": "Giro urgente"
+  },
+  {
+    "Código": 95,
+    "Medio": "Giro formato abierto"
+  },
+  {
+    "Código": 96,
+    "Medio": "Método de pago solicitado no usuado"
+  },
+  {
+    "Código": 97,
+    "Medio": "Clearing entre partners"
+  },
+  {
+    "Código": "ZZZ",
+    "Medio": "Acuerdo mutuo"
+  }
+]
