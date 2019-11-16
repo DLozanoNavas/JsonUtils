@@ -1,0 +1,92 @@
+[
+  {
+    "FV_TRB_Id_Tributos": 1,
+    "FV_TRB_TaxSchemeID_Tributos": "01",
+    "FV_TRB_TaxSchemeName_Tributos": "IVA",
+    "FV_TRB_Descripción_Tributos": "Impuesto de Valor Agregado"
+  },
+  {
+    "FV_TRB_Id_Tributos": 2,
+    "FV_TRB_TaxSchemeID_Tributos": "02",
+    "FV_TRB_TaxSchemeName_Tributos": "IC",
+    "FV_TRB_Descripción_Tributos": "Impuesto al Consumo"
+  },
+  {
+    "FV_TRB_Id_Tributos": 3,
+    "FV_TRB_TaxSchemeID_Tributos": "03",
+    "FV_TRB_TaxSchemeName_Tributos": "ICA",
+    "FV_TRB_Descripción_Tributos": "Impuesto de Industria, Comercio y Aviso"
+  },
+  {
+    "FV_TRB_Id_Tributos": 4,
+    "FV_TRB_TaxSchemeID_Tributos": "04",
+    "FV_TRB_TaxSchemeName_Tributos": "INC",
+    "FV_TRB_Descripción_Tributos": "Impuesto Nacional al Consumo"
+  },
+  {
+    "FV_TRB_Id_Tributos": 5,
+    "FV_TRB_TaxSchemeID_Tributos": "05",
+    "FV_TRB_TaxSchemeName_Tributos": "ReteIVA",
+    "FV_TRB_Descripción_Tributos": "Retención sobre el IVA"
+  },
+  {
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TRB_TaxSchemeID_Tributos": "06",
+    "FV_TRB_TaxSchemeName_Tributos": "ReteFuente",
+    "FV_TRB_Descripción_Tributos": "Retención sobre Renta"
+  },
+  {
+    "FV_TRB_Id_Tributos": 7,
+    "FV_TRB_TaxSchemeID_Tributos": "07",
+    "FV_TRB_TaxSchemeName_Tributos": "ReteICA",
+    "FV_TRB_Descripción_Tributos": "Retención sobre el ICA"
+  },
+  {
+    "FV_TRB_Id_Tributos": 8,
+    "FV_TRB_TaxSchemeID_Tributos": 20,
+    "FV_TRB_TaxSchemeName_Tributos": "FtoHorticultura",
+    "FV_TRB_Descripción_Tributos": "Cuota de Fomento Hortifrutícula"
+  },
+  {
+    "FV_TRB_Id_Tributos": 9,
+    "FV_TRB_TaxSchemeID_Tributos": 21,
+    "FV_TRB_TaxSchemeName_Tributos": "Timbre",
+    "FV_TRB_Descripción_Tributos": "Impuesto de Timbre"
+  },
+  {
+    "FV_TRB_Id_Tributos": 10,
+    "FV_TRB_TaxSchemeID_Tributos": 22,
+    "FV_TRB_TaxSchemeName_Tributos": "Bolsas",
+    "FV_TRB_Descripción_Tributos": "Impuesto al Consumo de Bolsa Plástica"
+  },
+  {
+    "FV_TRB_Id_Tributos": 11,
+    "FV_TRB_TaxSchemeID_Tributos": 23,
+    "FV_TRB_TaxSchemeName_Tributos": "INCarbono",
+    "FV_TRB_Descripción_Tributos": "Impuesto Nacional al Carbono"
+  },
+  {
+    "FV_TRB_Id_Tributos": 12,
+    "FV_TRB_TaxSchemeID_Tributos": 24,
+    "FV_TRB_TaxSchemeName_Tributos": "INCombustibles",
+    "FV_TRB_Descripción_Tributos": "Impuesto Nacional a los Combustibles"
+  },
+  {
+    "FV_TRB_Id_Tributos": 13,
+    "FV_TRB_TaxSchemeID_Tributos": 25,
+    "FV_TRB_TaxSchemeName_Tributos": "Sobretasa Combustibles",
+    "FV_TRB_Descripción_Tributos": "Sobretasa a los combustibles"
+  },
+  {
+    "FV_TRB_Id_Tributos": 14,
+    "FV_TRB_TaxSchemeID_Tributos": 26,
+    "FV_TRB_TaxSchemeName_Tributos": "Sordicom",
+    "FV_TRB_Descripción_Tributos": "Contribución minoristas (Combustibles)"
+  },
+  {
+    "FV_TRB_Id_Tributos": 15,
+    "FV_TRB_TaxSchemeID_Tributos": "ZZ",
+    "FV_TRB_TaxSchemeName_Tributos": "Nombre de la figura tributaria",
+    "FV_TRB_Descripción_Tributos": "Otros tributos, tasas, contribuciones, y similares"
+  }
+]
