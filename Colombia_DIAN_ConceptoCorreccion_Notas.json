@@ -1,0 +1,62 @@
+[
+  {
+    "FV_CCN_Id_Concepto_CorreccionNotas": 1,
+    "FV_CCN_Codigo_Concepto_CorreccionNotas": 1,
+    "FV_CCN_Descripcion_Concepto_CorreccionNotas": "Devolución de parte de los bienes; no aceptación de partes del servicio",
+    "FV_CCN_TipoDocumento_Concepto_CorreccionNota": "NC"
+  },
+  {
+    "FV_CCN_Id_Concepto_CorreccionNotas": 2,
+    "FV_CCN_Codigo_Concepto_CorreccionNotas": 2,
+    "FV_CCN_Descripcion_Concepto_CorreccionNotas": "Anulación de factura electrónica",
+    "FV_CCN_TipoDocumento_Concepto_CorreccionNota": "NC"
+  },
+  {
+    "FV_CCN_Id_Concepto_CorreccionNotas": 3,
+    "FV_CCN_Codigo_Concepto_CorreccionNotas": 3,
+    "FV_CCN_Descripcion_Concepto_CorreccionNotas": "Rebaja total aplicada",
+    "FV_CCN_TipoDocumento_Concepto_CorreccionNota": "NC"
+  },
+  {
+    "FV_CCN_Id_Concepto_CorreccionNotas": 4,
+    "FV_CCN_Codigo_Concepto_CorreccionNotas": 4,
+    "FV_CCN_Descripcion_Concepto_CorreccionNotas": "Descuento total aplicado",
+    "FV_CCN_TipoDocumento_Concepto_CorreccionNota": "NC"
+  },
+  {
+    "FV_CCN_Id_Concepto_CorreccionNotas": 5,
+    "FV_CCN_Codigo_Concepto_CorreccionNotas": 5,
+    "FV_CCN_Descripcion_Concepto_CorreccionNotas": "Rescisión: nulidad por falta de requisitos",
+    "FV_CCN_TipoDocumento_Concepto_CorreccionNota": "NC"
+  },
+  {
+    "FV_CCN_Id_Concepto_CorreccionNotas": 6,
+    "FV_CCN_Codigo_Concepto_CorreccionNotas": 6,
+    "FV_CCN_Descripcion_Concepto_CorreccionNotas": "Otros",
+    "FV_CCN_TipoDocumento_Concepto_CorreccionNota": "NC"
+  },
+  {
+    "FV_CCN_Id_Concepto_CorreccionNotas": 7,
+    "FV_CCN_Codigo_Concepto_CorreccionNotas": 1,
+    "FV_CCN_Descripcion_Concepto_CorreccionNotas": "Intereses",
+    "FV_CCN_TipoDocumento_Concepto_CorreccionNota": "ND"
+  },
+  {
+    "FV_CCN_Id_Concepto_CorreccionNotas": 8,
+    "FV_CCN_Codigo_Concepto_CorreccionNotas": 2,
+    "FV_CCN_Descripcion_Concepto_CorreccionNotas": "Gastos por cobrar",
+    "FV_CCN_TipoDocumento_Concepto_CorreccionNota": "ND"
+  },
+  {
+    "FV_CCN_Id_Concepto_CorreccionNotas": 9,
+    "FV_CCN_Codigo_Concepto_CorreccionNotas": 3,
+    "FV_CCN_Descripcion_Concepto_CorreccionNotas": "Cambio del valor",
+    "FV_CCN_TipoDocumento_Concepto_CorreccionNota": "ND"
+  },
+  {
+    "FV_CCN_Id_Concepto_CorreccionNotas": 10,
+    "FV_CCN_Codigo_Concepto_CorreccionNotas": 4,
+    "FV_CCN_Descripcion_Concepto_CorreccionNotas": "Otro",
+    "FV_CCN_TipoDocumento_Concepto_CorreccionNota": "ND"
+  }
+]
