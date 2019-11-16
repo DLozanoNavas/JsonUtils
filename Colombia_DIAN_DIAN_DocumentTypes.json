@@ -1,0 +1,27 @@
+[
+  {
+    "FV_TDD_Id_TipoDocumentoDIAN": 1,
+    "FV_TDD_Codigo_TipoDocumentoDIAN": "01",
+    "FV_TDD_Significado_TipoDOcumentoDIAN": "Factura de Venta Nacional"
+  },
+  {
+    "FV_TDD_Id_TipoDocumentoDIAN": 2,
+    "FV_TDD_Codigo_TipoDocumentoDIAN": "02",
+    "FV_TDD_Significado_TipoDOcumentoDIAN": "Factura de Exportación"
+  },
+  {
+    "FV_TDD_Id_TipoDocumentoDIAN": 3,
+    "FV_TDD_Codigo_TipoDocumentoDIAN": "03",
+    "FV_TDD_Significado_TipoDOcumentoDIAN": "Factura de Contingencia"
+  },
+  {
+    "FV_TDD_Id_TipoDocumentoDIAN": 4,
+    "FV_TDD_Codigo_TipoDocumentoDIAN": 91,
+    "FV_TDD_Significado_TipoDOcumentoDIAN": "Nota Crédito"
+  },
+  {
+    "FV_TDD_Id_TipoDocumentoDIAN": 5,
+    "FV_TDD_Codigo_TipoDocumentoDIAN": 92,
+    "FV_TDD_Significado_TipoDOcumentoDIAN": "Nota Débito"
+  }
+]
