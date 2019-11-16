@@ -1,0 +1,5762 @@
+[
+  {
+    "FV_UNN_id_Unidades": 1,
+    "FV_UNN_Descripcion": "spray pequeño",
+    "FV_UNN_Codigo_DIAN": "04"
+  },
+  {
+    "FV_UNN_id_Unidades": 2,
+    "FV_UNN_Descripcion": "levantar",
+    "FV_UNN_Codigo_DIAN": "05"
+  },
+  {
+    "FV_UNN_id_Unidades": 3,
+    "FV_UNN_Descripcion": "Lote calor",
+    "FV_UNN_Codigo_DIAN": "08"
+  },
+  {
+    "FV_UNN_id_Unidades": 4,
+    "FV_UNN_Descripcion": "grupo",
+    "FV_UNN_Codigo_DIAN": 10
+  },
+  {
+    "FV_UNN_id_Unidades": 5,
+    "FV_UNN_Descripcion": "equipar",
+    "FV_UNN_Codigo_DIAN": 11
+  },
+  {
+    "FV_UNN_id_Unidades": 6,
+    "FV_UNN_Descripcion": "ración",
+    "FV_UNN_Codigo_DIAN": 13
+  },
+  {
+    "FV_UNN_id_Unidades": 7,
+    "FV_UNN_Descripcion": "Disparo",
+    "FV_UNN_Codigo_DIAN": 14
+  },
+  {
+    "FV_UNN_id_Unidades": 8,
+    "FV_UNN_Descripcion": "palo",
+    "FV_UNN_Codigo_DIAN": 15
+  },
+  {
+    "FV_UNN_id_Unidades": 9,
+    "FV_UNN_Descripcion": "tambor de ciento quince kg",
+    "FV_UNN_Codigo_DIAN": 16
+  },
+  {
+    "FV_UNN_id_Unidades": 10,
+    "FV_UNN_Descripcion": "tambor de cien libras",
+    "FV_UNN_Codigo_DIAN": 17
+  },
+  {
+    "FV_UNN_id_Unidades": 11,
+    "FV_UNN_Descripcion": "tambor de cincuenta y cinco galones (US)",
+    "FV_UNN_Codigo_DIAN": 18
+  },
+  {
+    "FV_UNN_id_Unidades": 12,
+    "FV_UNN_Descripcion": "camión cisterna",
+    "FV_UNN_Codigo_DIAN": 19
+  },
+  {
+    "FV_UNN_id_Unidades": 13,
+    "FV_UNN_Descripcion": "contenedor de veinte pies",
+    "FV_UNN_Codigo_DIAN": 20
+  },
+  {
+    "FV_UNN_id_Unidades": 14,
+    "FV_UNN_Descripcion": "contenedor de cuarenta pies",
+    "FV_UNN_Codigo_DIAN": 21
+  },
+  {
+    "FV_UNN_id_Unidades": 15,
+    "FV_UNN_Descripcion": "decilitro por gramo",
+    "FV_UNN_Codigo_DIAN": 22
+  },
+  {
+    "FV_UNN_id_Unidades": 16,
+    "FV_UNN_Descripcion": "gramo por centímetro cúbico",
+    "FV_UNN_Codigo_DIAN": 23
+  },
+  {
+    "FV_UNN_id_Unidades": 17,
+    "FV_UNN_Descripcion": "libra teórica",
+    "FV_UNN_Codigo_DIAN": 24
+  },
+  {
+    "FV_UNN_id_Unidades": 18,
+    "FV_UNN_Descripcion": "gramo por centímetro cuadrado",
+    "FV_UNN_Codigo_DIAN": 25
+  },
+  {
+    "FV_UNN_id_Unidades": 19,
+    "FV_UNN_Descripcion": "tonelada real",
+    "FV_UNN_Codigo_DIAN": 26
+  },
+  {
+    "FV_UNN_id_Unidades": 20,
+    "FV_UNN_Descripcion": "tonelada teórica",
+    "FV_UNN_Codigo_DIAN": 27
+  },
+  {
+    "FV_UNN_id_Unidades": 21,
+    "FV_UNN_Descripcion": "kilogramo por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": 28
+  },
+  {
+    "FV_UNN_id_Unidades": 22,
+    "FV_UNN_Descripcion": "libra por mil pies cuadrados",
+    "FV_UNN_Codigo_DIAN": 29
+  },
+  {
+    "FV_UNN_id_Unidades": 24,
+    "FV_UNN_Descripcion": "coger peso",
+    "FV_UNN_Codigo_DIAN": 31
+  },
+  {
+    "FV_UNN_id_Unidades": 25,
+    "FV_UNN_Descripcion": "kilogramo por aire seco tonelada métrica",
+    "FV_UNN_Codigo_DIAN": 32
+  },
+  {
+    "FV_UNN_id_Unidades": 26,
+    "FV_UNN_Descripcion": "kilopascales metros cuadrados por gramo",
+    "FV_UNN_Codigo_DIAN": 33
+  },
+  {
+    "FV_UNN_id_Unidades": 27,
+    "FV_UNN_Descripcion": "kilopascales por milímetro",
+    "FV_UNN_Codigo_DIAN": 34
+  },
+  {
+    "FV_UNN_id_Unidades": 28,
+    "FV_UNN_Descripcion": "mililitros por centímetro cuadrado segundo",
+    "FV_UNN_Codigo_DIAN": 35
+  },
+  {
+    "FV_UNN_id_Unidades": 29,
+    "FV_UNN_Descripcion": "pies cúbicos por minuto por pie cuadrado",
+    "FV_UNN_Codigo_DIAN": 36
+  },
+  {
+    "FV_UNN_id_Unidades": 30,
+    "FV_UNN_Descripcion": "onza por pie cuadrado",
+    "FV_UNN_Codigo_DIAN": 37
+  },
+  {
+    "FV_UNN_id_Unidades": 31,
+    "FV_UNN_Descripcion": "onzas por pie cuadrado por 0,01 pulgadas",
+    "FV_UNN_Codigo_DIAN": 38
+  },
+  {
+    "FV_UNN_id_Unidades": 32,
+    "FV_UNN_Descripcion": "mililitro por segundo",
+    "FV_UNN_Codigo_DIAN": 40
+  },
+  {
+    "FV_UNN_id_Unidades": 33,
+    "FV_UNN_Descripcion": "mililitro por minuto",
+    "FV_UNN_Codigo_DIAN": 41
+  },
+  {
+    "FV_UNN_id_Unidades": 34,
+    "FV_UNN_Descripcion": "bolsa súper a granel",
+    "FV_UNN_Codigo_DIAN": 43
+  },
+  {
+    "FV_UNN_id_Unidades": 35,
+    "FV_UNN_Descripcion": "bolsa a granel de quinientos kg",
+    "FV_UNN_Codigo_DIAN": 44
+  },
+  {
+    "FV_UNN_id_Unidades": 36,
+    "FV_UNN_Descripcion": "bolsa a granel de trescientos kg",
+    "FV_UNN_Codigo_DIAN": 45
+  },
+  {
+    "FV_UNN_id_Unidades": 37,
+    "FV_UNN_Descripcion": "bolsa a granel de cincuenta libras",
+    "FV_UNN_Codigo_DIAN": 46
+  },
+  {
+    "FV_UNN_id_Unidades": 38,
+    "FV_UNN_Descripcion": "bolsa de cincuenta libras",
+    "FV_UNN_Codigo_DIAN": 47
+  },
+  {
+    "FV_UNN_id_Unidades": 39,
+    "FV_UNN_Descripcion": "carga de automóviles a granel",
+    "FV_UNN_Codigo_DIAN": 48
+  },
+  {
+    "FV_UNN_id_Unidades": 40,
+    "FV_UNN_Descripcion": "kilogramos teóricos",
+    "FV_UNN_Codigo_DIAN": 53
+  },
+  {
+    "FV_UNN_id_Unidades": 23,
+    "FV_UNN_Descripcion": "Día de potencia del caballo por tonelada métrica seca al aire.",
+    "FV_UNN_Codigo_DIAN": 30
+  },
+  {
+    "FV_UNN_id_Unidades": 41,
+    "FV_UNN_Descripcion": "tonelada teórica",
+    "FV_UNN_Codigo_DIAN": 54
+  },
+  {
+    "FV_UNN_id_Unidades": 42,
+    "FV_UNN_Descripcion": "sitas",
+    "FV_UNN_Codigo_DIAN": 56
+  },
+  {
+    "FV_UNN_id_Unidades": 43,
+    "FV_UNN_Descripcion": "malla",
+    "FV_UNN_Codigo_DIAN": 57
+  },
+  {
+    "FV_UNN_id_Unidades": 44,
+    "FV_UNN_Descripcion": "kilogramo neto",
+    "FV_UNN_Codigo_DIAN": 58
+  },
+  {
+    "FV_UNN_id_Unidades": 45,
+    "FV_UNN_Descripcion": "parte por millón",
+    "FV_UNN_Codigo_DIAN": 59
+  },
+  {
+    "FV_UNN_id_Unidades": 46,
+    "FV_UNN_Descripcion": "porcentaje de peso",
+    "FV_UNN_Codigo_DIAN": 60
+  },
+  {
+    "FV_UNN_id_Unidades": 47,
+    "FV_UNN_Descripcion": "parte por billón (US)",
+    "FV_UNN_Codigo_DIAN": 61
+  },
+  {
+    "FV_UNN_id_Unidades": 48,
+    "FV_UNN_Descripcion": "porcentaje por 1000 horas",
+    "FV_UNN_Codigo_DIAN": 62
+  },
+  {
+    "FV_UNN_id_Unidades": 49,
+    "FV_UNN_Descripcion": "tasa de fracaso en el tiempo",
+    "FV_UNN_Codigo_DIAN": 63
+  },
+  {
+    "FV_UNN_id_Unidades": 50,
+    "FV_UNN_Descripcion": "libra por pulgada cuadrada, calibre",
+    "FV_UNN_Codigo_DIAN": 64
+  },
+  {
+    "FV_UNN_id_Unidades": 51,
+    "FV_UNN_Descripcion": "Oersted",
+    "FV_UNN_Codigo_DIAN": 66
+  },
+  {
+    "FV_UNN_id_Unidades": 52,
+    "FV_UNN_Descripcion": "prueba de escala específica",
+    "FV_UNN_Codigo_DIAN": 69
+  },
+  {
+    "FV_UNN_id_Unidades": 53,
+    "FV_UNN_Descripcion": "voltio amperio por libra",
+    "FV_UNN_Codigo_DIAN": 71
+  },
+  {
+    "FV_UNN_id_Unidades": 54,
+    "FV_UNN_Descripcion": "vatio por libra",
+    "FV_UNN_Codigo_DIAN": 72
+  },
+  {
+    "FV_UNN_id_Unidades": 55,
+    "FV_UNN_Descripcion": "amperio tum por centímetro",
+    "FV_UNN_Codigo_DIAN": 73
+  },
+  {
+    "FV_UNN_id_Unidades": 56,
+    "FV_UNN_Descripcion": "milipascal",
+    "FV_UNN_Codigo_DIAN": 74
+  },
+  {
+    "FV_UNN_id_Unidades": 57,
+    "FV_UNN_Descripcion": "gauss",
+    "FV_UNN_Codigo_DIAN": 76
+  },
+  {
+    "FV_UNN_id_Unidades": 58,
+    "FV_UNN_Descripcion": "mili pulgadas",
+    "FV_UNN_Codigo_DIAN": 77
+  },
+  {
+    "FV_UNN_id_Unidades": 59,
+    "FV_UNN_Descripcion": "kilogauss",
+    "FV_UNN_Codigo_DIAN": 78
+  },
+  {
+    "FV_UNN_id_Unidades": 60,
+    "FV_UNN_Descripcion": "libras por pulgada cuadrada absoluta",
+    "FV_UNN_Codigo_DIAN": 80
+  },
+  {
+    "FV_UNN_id_Unidades": 61,
+    "FV_UNN_Descripcion": "Enrique",
+    "FV_UNN_Codigo_DIAN": 81
+  },
+  {
+    "FV_UNN_id_Unidades": 62,
+    "FV_UNN_Descripcion": "kilopound por pulgada cuadrada",
+    "FV_UNN_Codigo_DIAN": 84
+  },
+  {
+    "FV_UNN_id_Unidades": 63,
+    "FV_UNN_Descripcion": "fuerza libra pie",
+    "FV_UNN_Codigo_DIAN": 85
+  },
+  {
+    "FV_UNN_id_Unidades": 64,
+    "FV_UNN_Descripcion": "libra por pie cúbico",
+    "FV_UNN_Codigo_DIAN": 87
+  },
+  {
+    "FV_UNN_id_Unidades": 65,
+    "FV_UNN_Descripcion": "equilibrio",
+    "FV_UNN_Codigo_DIAN": 89
+  },
+  {
+    "FV_UNN_id_Unidades": 66,
+    "FV_UNN_Descripcion": "Saybold segundo universal",
+    "FV_UNN_Codigo_DIAN": 90
+  },
+  {
+    "FV_UNN_id_Unidades": 67,
+    "FV_UNN_Descripcion": "alimenta",
+    "FV_UNN_Codigo_DIAN": 91
+  },
+  {
+    "FV_UNN_id_Unidades": 68,
+    "FV_UNN_Descripcion": "calorías por centímetro cúbico",
+    "FV_UNN_Codigo_DIAN": 92
+  },
+  {
+    "FV_UNN_id_Unidades": 69,
+    "FV_UNN_Descripcion": "calorías por gramo",
+    "FV_UNN_Codigo_DIAN": 93
+  },
+  {
+    "FV_UNN_id_Unidades": 70,
+    "FV_UNN_Descripcion": "unidad",
+    "FV_UNN_Codigo_DIAN": 94
+  },
+  {
+    "FV_UNN_id_Unidades": 71,
+    "FV_UNN_Descripcion": "veinte mil galones (US) de carros",
+    "FV_UNN_Codigo_DIAN": 95
+  },
+  {
+    "FV_UNN_id_Unidades": 72,
+    "FV_UNN_Descripcion": "diez mil galones (US) de carros",
+    "FV_UNN_Codigo_DIAN": 96
+  },
+  {
+    "FV_UNN_id_Unidades": 73,
+    "FV_UNN_Descripcion": "tambor de diez kg",
+    "FV_UNN_Codigo_DIAN": 97
+  },
+  {
+    "FV_UNN_id_Unidades": 74,
+    "FV_UNN_Descripcion": "tambor de quince kg",
+    "FV_UNN_Codigo_DIAN": 98
+  },
+  {
+    "FV_UNN_id_Unidades": 75,
+    "FV_UNN_Descripcion": "milla de coche",
+    "FV_UNN_Codigo_DIAN": "1ª"
+  },
+  {
+    "FV_UNN_id_Unidades": 76,
+    "FV_UNN_Descripcion": "recuento de coches",
+    "FV_UNN_Codigo_DIAN": "1B"
+  },
+  {
+    "FV_UNN_id_Unidades": 77,
+    "FV_UNN_Descripcion": "recuento de locomotoras",
+    "FV_UNN_Codigo_DIAN": "1C"
+  },
+  {
+    "FV_UNN_id_Unidades": 78,
+    "FV_UNN_Descripcion": "recuento de cabos",
+    "FV_UNN_Codigo_DIAN": "1D"
+  },
+  {
+    "FV_UNN_id_Unidades": 79,
+    "FV_UNN_Descripcion": "carro vacio",
+    "FV_UNN_Codigo_DIAN": "1E"
+  },
+  {
+    "FV_UNN_id_Unidades": 80,
+    "FV_UNN_Descripcion": "millas de tren",
+    "FV_UNN_Codigo_DIAN": "1F"
+  },
+  {
+    "FV_UNN_id_Unidades": 81,
+    "FV_UNN_Descripcion": "uso de combustible galón (US)",
+    "FV_UNN_Codigo_DIAN": "1G"
+  },
+  {
+    "FV_UNN_id_Unidades": 82,
+    "FV_UNN_Descripcion": "milla del caboose",
+    "FV_UNN_Codigo_DIAN": "1H"
+  },
+  {
+    "FV_UNN_id_Unidades": 83,
+    "FV_UNN_Descripcion": "tipo de interés fijo",
+    "FV_UNN_Codigo_DIAN": "1I"
+  },
+  {
+    "FV_UNN_id_Unidades": 84,
+    "FV_UNN_Descripcion": "tonelada milla",
+    "FV_UNN_Codigo_DIAN": "1J"
+  },
+  {
+    "FV_UNN_id_Unidades": 85,
+    "FV_UNN_Descripcion": "milla locomotora",
+    "FV_UNN_Codigo_DIAN": "1K"
+  },
+  {
+    "FV_UNN_id_Unidades": 86,
+    "FV_UNN_Descripcion": "recuento total de coches",
+    "FV_UNN_Codigo_DIAN": "1L"
+  },
+  {
+    "FV_UNN_id_Unidades": 87,
+    "FV_UNN_Descripcion": "milla de coche total",
+    "FV_UNN_Codigo_DIAN": "1M"
+  },
+  {
+    "FV_UNN_id_Unidades": 88,
+    "FV_UNN_Descripcion": "cuarto de milla",
+    "FV_UNN_Codigo_DIAN": "1X"
+  },
+  {
+    "FV_UNN_id_Unidades": 89,
+    "FV_UNN_Descripcion": "radianes por segundo",
+    "FV_UNN_Codigo_DIAN": "2ª"
+  },
+  {
+    "FV_UNN_id_Unidades": 90,
+    "FV_UNN_Descripcion": "radianes por segundo al cuadrado",
+    "FV_UNN_Codigo_DIAN": "2B"
+  },
+  {
+    "FV_UNN_id_Unidades": 91,
+    "FV_UNN_Descripcion": "Röntgen",
+    "FV_UNN_Codigo_DIAN": "2C"
+  },
+  {
+    "FV_UNN_id_Unidades": 92,
+    "FV_UNN_Descripcion": "Unidad térmica británica por hora.",
+    "FV_UNN_Codigo_DIAN": "2I"
+  },
+  {
+    "FV_UNN_id_Unidades": 93,
+    "FV_UNN_Descripcion": "centímetro cúbico por segundo",
+    "FV_UNN_Codigo_DIAN": "2J"
+  },
+  {
+    "FV_UNN_id_Unidades": 94,
+    "FV_UNN_Descripcion": "pie cúbico por hora",
+    "FV_UNN_Codigo_DIAN": "2K"
+  },
+  {
+    "FV_UNN_id_Unidades": 95,
+    "FV_UNN_Descripcion": "pie cúbico por minuto",
+    "FV_UNN_Codigo_DIAN": "2L"
+  },
+  {
+    "FV_UNN_id_Unidades": 96,
+    "FV_UNN_Descripcion": "centímetro por segundo",
+    "FV_UNN_Codigo_DIAN": "2M"
+  },
+  {
+    "FV_UNN_id_Unidades": 97,
+    "FV_UNN_Descripcion": "decibel",
+    "FV_UNN_Codigo_DIAN": "2N"
+  },
+  {
+    "FV_UNN_id_Unidades": 98,
+    "FV_UNN_Descripcion": "kilobyte",
+    "FV_UNN_Codigo_DIAN": "2P"
+  },
+  {
+    "FV_UNN_id_Unidades": 99,
+    "FV_UNN_Descripcion": "kilobecquerel",
+    "FV_UNN_Codigo_DIAN": "2Q"
+  },
+  {
+    "FV_UNN_id_Unidades": 100,
+    "FV_UNN_Descripcion": "kilocurie",
+    "FV_UNN_Codigo_DIAN": "2R"
+  },
+  {
+    "FV_UNN_id_Unidades": 101,
+    "FV_UNN_Descripcion": "megagramo",
+    "FV_UNN_Codigo_DIAN": "2U"
+  },
+  {
+    "FV_UNN_id_Unidades": 102,
+    "FV_UNN_Descripcion": "megagramo por hora",
+    "FV_UNN_Codigo_DIAN": "2V"
+  },
+  {
+    "FV_UNN_id_Unidades": 103,
+    "FV_UNN_Descripcion": "compartimiento",
+    "FV_UNN_Codigo_DIAN": "2W"
+  },
+  {
+    "FV_UNN_id_Unidades": 104,
+    "FV_UNN_Descripcion": "metro por minuto",
+    "FV_UNN_Codigo_DIAN": "2X"
+  },
+  {
+    "FV_UNN_id_Unidades": 105,
+    "FV_UNN_Descripcion": "milliröntgen",
+    "FV_UNN_Codigo_DIAN": "2Y"
+  },
+  {
+    "FV_UNN_id_Unidades": 106,
+    "FV_UNN_Descripcion": "milivoltios",
+    "FV_UNN_Codigo_DIAN": "2Z"
+  },
+  {
+    "FV_UNN_id_Unidades": 107,
+    "FV_UNN_Descripcion": "megajulio",
+    "FV_UNN_Codigo_DIAN": "3B"
+  },
+  {
+    "FV_UNN_id_Unidades": 108,
+    "FV_UNN_Descripcion": "manmonth",
+    "FV_UNN_Codigo_DIAN": "3C"
+  },
+  {
+    "FV_UNN_id_Unidades": 109,
+    "FV_UNN_Descripcion": "libra por libra de producto",
+    "FV_UNN_Codigo_DIAN": "3E"
+  },
+  {
+    "FV_UNN_id_Unidades": 110,
+    "FV_UNN_Descripcion": "libra por pieza de producto",
+    "FV_UNN_Codigo_DIAN": "3G"
+  },
+  {
+    "FV_UNN_id_Unidades": 111,
+    "FV_UNN_Descripcion": "kilogramo por kilogramo de producto",
+    "FV_UNN_Codigo_DIAN": "3H"
+  },
+  {
+    "FV_UNN_id_Unidades": 112,
+    "FV_UNN_Descripcion": "kilogramo por pieza de producto",
+    "FV_UNN_Codigo_DIAN": "3I"
+  },
+  {
+    "FV_UNN_id_Unidades": 113,
+    "FV_UNN_Descripcion": "bobina",
+    "FV_UNN_Codigo_DIAN": "4ª"
+  },
+  {
+    "FV_UNN_id_Unidades": 114,
+    "FV_UNN_Descripcion": "gorra",
+    "FV_UNN_Codigo_DIAN": "4B"
+  },
+  {
+    "FV_UNN_id_Unidades": 115,
+    "FV_UNN_Descripcion": "centistokes",
+    "FV_UNN_Codigo_DIAN": "4C"
+  },
+  {
+    "FV_UNN_id_Unidades": 116,
+    "FV_UNN_Descripcion": "paquete de veinte",
+    "FV_UNN_Codigo_DIAN": "4E"
+  },
+  {
+    "FV_UNN_id_Unidades": 117,
+    "FV_UNN_Descripcion": "microlitro",
+    "FV_UNN_Codigo_DIAN": "4G"
+  },
+  {
+    "FV_UNN_id_Unidades": 118,
+    "FV_UNN_Descripcion": "micrometro",
+    "FV_UNN_Codigo_DIAN": "4H"
+  },
+  {
+    "FV_UNN_id_Unidades": 119,
+    "FV_UNN_Descripcion": "miliamperio",
+    "FV_UNN_Codigo_DIAN": "4K"
+  },
+  {
+    "FV_UNN_id_Unidades": 120,
+    "FV_UNN_Descripcion": "megabyte",
+    "FV_UNN_Codigo_DIAN": "4L"
+  },
+  {
+    "FV_UNN_id_Unidades": 121,
+    "FV_UNN_Descripcion": "miligramo por hora",
+    "FV_UNN_Codigo_DIAN": "4M"
+  },
+  {
+    "FV_UNN_id_Unidades": 122,
+    "FV_UNN_Descripcion": "megabecquerel",
+    "FV_UNN_Codigo_DIAN": "4N"
+  },
+  {
+    "FV_UNN_id_Unidades": 123,
+    "FV_UNN_Descripcion": "microfarad",
+    "FV_UNN_Codigo_DIAN": "4º"
+  },
+  {
+    "FV_UNN_id_Unidades": 124,
+    "FV_UNN_Descripcion": "newton por metro",
+    "FV_UNN_Codigo_DIAN": "4P"
+  },
+  {
+    "FV_UNN_id_Unidades": 125,
+    "FV_UNN_Descripcion": "onza pulgada",
+    "FV_UNN_Codigo_DIAN": "4Q"
+  },
+  {
+    "FV_UNN_id_Unidades": 126,
+    "FV_UNN_Descripcion": "pie onza",
+    "FV_UNN_Codigo_DIAN": "4R"
+  },
+  {
+    "FV_UNN_id_Unidades": 127,
+    "FV_UNN_Descripcion": "picofarad",
+    "FV_UNN_Codigo_DIAN": "4T"
+  },
+  {
+    "FV_UNN_id_Unidades": 128,
+    "FV_UNN_Descripcion": "libra por hora",
+    "FV_UNN_Codigo_DIAN": "4U"
+  },
+  {
+    "FV_UNN_id_Unidades": 129,
+    "FV_UNN_Descripcion": "tonelada (US) por hora",
+    "FV_UNN_Codigo_DIAN": "4W"
+  },
+  {
+    "FV_UNN_id_Unidades": 130,
+    "FV_UNN_Descripcion": "kilolitro por hora",
+    "FV_UNN_Codigo_DIAN": "4X"
+  },
+  {
+    "FV_UNN_id_Unidades": 131,
+    "FV_UNN_Descripcion": "Unidad Térmica Británica",
+    "FV_UNN_Codigo_DIAN": "BTU"
+  },
+  {
+    "FV_UNN_id_Unidades": 132,
+    "FV_UNN_Descripcion": "bushel (EE. UU.)",
+    "FV_UNN_Codigo_DIAN": "BUA"
+  },
+  {
+    "FV_UNN_id_Unidades": 133,
+    "FV_UNN_Descripcion": "bushel (Reino Unido)",
+    "FV_UNN_Codigo_DIAN": "BUI"
+  },
+  {
+    "FV_UNN_id_Unidades": 134,
+    "FV_UNN_Descripcion": "peso base",
+    "FV_UNN_Codigo_DIAN": "BW"
+  },
+  {
+    "FV_UNN_id_Unidades": 135,
+    "FV_UNN_Descripcion": "BX",
+    "FV_UNN_Codigo_DIAN": "caja"
+  },
+  {
+    "FV_UNN_id_Unidades": 136,
+    "FV_UNN_Descripcion": "millones de BTUs",
+    "FV_UNN_Codigo_DIAN": "BZ"
+  },
+  {
+    "FV_UNN_id_Unidades": 137,
+    "FV_UNN_Descripcion": "llamada",
+    "FV_UNN_Codigo_DIAN": "C0"
+  },
+  {
+    "FV_UNN_id_Unidades": 138,
+    "FV_UNN_Descripcion": "producto compuesto libra (peso total)",
+    "FV_UNN_Codigo_DIAN": "C1"
+  },
+  {
+    "FV_UNN_id_Unidades": 139,
+    "FV_UNN_Descripcion": "millifarad",
+    "FV_UNN_Codigo_DIAN": "C10"
+  },
+  {
+    "FV_UNN_id_Unidades": 140,
+    "FV_UNN_Descripcion": "miligal",
+    "FV_UNN_Codigo_DIAN": "C11"
+  },
+  {
+    "FV_UNN_id_Unidades": 141,
+    "FV_UNN_Descripcion": "miligramo por metro",
+    "FV_UNN_Codigo_DIAN": "C12"
+  },
+  {
+    "FV_UNN_id_Unidades": 142,
+    "FV_UNN_Descripcion": "miligray",
+    "FV_UNN_Codigo_DIAN": "C13"
+  },
+  {
+    "FV_UNN_id_Unidades": 143,
+    "FV_UNN_Descripcion": "milihenry",
+    "FV_UNN_Codigo_DIAN": "C14"
+  },
+  {
+    "FV_UNN_id_Unidades": 144,
+    "FV_UNN_Descripcion": "milijoule",
+    "FV_UNN_Codigo_DIAN": "C15"
+  },
+  {
+    "FV_UNN_id_Unidades": 145,
+    "FV_UNN_Descripcion": "milímetro por segundo",
+    "FV_UNN_Codigo_DIAN": "C16"
+  },
+  {
+    "FV_UNN_id_Unidades": 146,
+    "FV_UNN_Descripcion": "milímetro cuadrado por segundo",
+    "FV_UNN_Codigo_DIAN": "C17"
+  },
+  {
+    "FV_UNN_id_Unidades": 147,
+    "FV_UNN_Descripcion": "milimol",
+    "FV_UNN_Codigo_DIAN": "C18"
+  },
+  {
+    "FV_UNN_id_Unidades": 148,
+    "FV_UNN_Descripcion": "mol por kilogramo",
+    "FV_UNN_Codigo_DIAN": "C19"
+  },
+  {
+    "FV_UNN_id_Unidades": 149,
+    "FV_UNN_Descripcion": "carset",
+    "FV_UNN_Codigo_DIAN": "C2"
+  },
+  {
+    "FV_UNN_id_Unidades": 150,
+    "FV_UNN_Descripcion": "millinewton",
+    "FV_UNN_Codigo_DIAN": "C20"
+  },
+  {
+    "FV_UNN_id_Unidades": 151,
+    "FV_UNN_Descripcion": "millinewton por metro",
+    "FV_UNN_Codigo_DIAN": "C22"
+  },
+  {
+    "FV_UNN_id_Unidades": 152,
+    "FV_UNN_Descripcion": "medidor de miliohm",
+    "FV_UNN_Codigo_DIAN": "C23"
+  },
+  {
+    "FV_UNN_id_Unidades": 153,
+    "FV_UNN_Descripcion": "segundo milipascal",
+    "FV_UNN_Codigo_DIAN": "C24"
+  },
+  {
+    "FV_UNN_id_Unidades": 154,
+    "FV_UNN_Descripcion": "miliradian",
+    "FV_UNN_Codigo_DIAN": "C25"
+  },
+  {
+    "FV_UNN_id_Unidades": 155,
+    "FV_UNN_Descripcion": "milisegundo",
+    "FV_UNN_Codigo_DIAN": "C26"
+  },
+  {
+    "FV_UNN_id_Unidades": 156,
+    "FV_UNN_Descripcion": "milisiemens",
+    "FV_UNN_Codigo_DIAN": "C27"
+  },
+  {
+    "FV_UNN_id_Unidades": 157,
+    "FV_UNN_Descripcion": "milisievert",
+    "FV_UNN_Codigo_DIAN": "C28"
+  },
+  {
+    "FV_UNN_id_Unidades": 158,
+    "FV_UNN_Descripcion": "millitesla",
+    "FV_UNN_Codigo_DIAN": "C29"
+  },
+  {
+    "FV_UNN_id_Unidades": 159,
+    "FV_UNN_Descripcion": "microvoltios por metro",
+    "FV_UNN_Codigo_DIAN": "C3"
+  },
+  {
+    "FV_UNN_id_Unidades": 160,
+    "FV_UNN_Descripcion": "pulgada cuadrada",
+    "FV_UNN_Codigo_DIAN": "INK"
+  },
+  {
+    "FV_UNN_id_Unidades": 161,
+    "FV_UNN_Descripcion": "pulgada en cubos",
+    "FV_UNN_Codigo_DIAN": "INQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 162,
+    "FV_UNN_Descripcion": "póliza de seguros",
+    "FV_UNN_Codigo_DIAN": "IP"
+  },
+  {
+    "FV_UNN_id_Unidades": 163,
+    "FV_UNN_Descripcion": "conteo por centímetro",
+    "FV_UNN_Codigo_DIAN": "IT"
+  },
+  {
+    "FV_UNN_id_Unidades": 164,
+    "FV_UNN_Descripcion": "pulgada por segundo (velocidad lineal)",
+    "FV_UNN_Codigo_DIAN": "IU"
+  },
+  {
+    "FV_UNN_id_Unidades": 165,
+    "FV_UNN_Descripcion": "pulgada por segundo al cuadrado (aceleración)",
+    "FV_UNN_Codigo_DIAN": "IV"
+  },
+  {
+    "FV_UNN_id_Unidades": 166,
+    "FV_UNN_Descripcion": "julios por kilogramo",
+    "FV_UNN_Codigo_DIAN": "J2"
+  },
+  {
+    "FV_UNN_id_Unidades": 167,
+    "FV_UNN_Descripcion": "jumbo",
+    "FV_UNN_Codigo_DIAN": "JB"
+  },
+  {
+    "FV_UNN_id_Unidades": 168,
+    "FV_UNN_Descripcion": "joule por kelvin",
+    "FV_UNN_Codigo_DIAN": "JE"
+  },
+  {
+    "FV_UNN_id_Unidades": 169,
+    "FV_UNN_Descripcion": "jarra",
+    "FV_UNN_Codigo_DIAN": "JG"
+  },
+  {
+    "FV_UNN_id_Unidades": 170,
+    "FV_UNN_Descripcion": "megajulio por kilogramo",
+    "FV_UNN_Codigo_DIAN": "JK"
+  },
+  {
+    "FV_UNN_id_Unidades": 171,
+    "FV_UNN_Descripcion": "megajulio por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "JM"
+  },
+  {
+    "FV_UNN_id_Unidades": 172,
+    "FV_UNN_Descripcion": "articulación",
+    "FV_UNN_Codigo_DIAN": "JO"
+  },
+  {
+    "FV_UNN_id_Unidades": 173,
+    "FV_UNN_Descripcion": "joule",
+    "FV_UNN_Codigo_DIAN": "JOU"
+  },
+  {
+    "FV_UNN_id_Unidades": 174,
+    "FV_UNN_Descripcion": "tarro",
+    "FV_UNN_Codigo_DIAN": "JR"
+  },
+  {
+    "FV_UNN_id_Unidades": 175,
+    "FV_UNN_Descripcion": "demanda de kilovatios",
+    "FV_UNN_Codigo_DIAN": "K1"
+  },
+  {
+    "FV_UNN_id_Unidades": 176,
+    "FV_UNN_Descripcion": "kilovoltios amperios reactivos de demanda",
+    "FV_UNN_Codigo_DIAN": "K2"
+  },
+  {
+    "FV_UNN_id_Unidades": 177,
+    "FV_UNN_Descripcion": "kilovoltio amperio hora reactiva",
+    "FV_UNN_Codigo_DIAN": "K3"
+  },
+  {
+    "FV_UNN_id_Unidades": 178,
+    "FV_UNN_Descripcion": "amperios kilovoltios (reactivos)",
+    "FV_UNN_Codigo_DIAN": "K5"
+  },
+  {
+    "FV_UNN_id_Unidades": 179,
+    "FV_UNN_Descripcion": "kilolitro",
+    "FV_UNN_Codigo_DIAN": "K6"
+  },
+  {
+    "FV_UNN_id_Unidades": 180,
+    "FV_UNN_Descripcion": "pastel",
+    "FV_UNN_Codigo_DIAN": "KA"
+  },
+  {
+    "FV_UNN_id_Unidades": 181,
+    "FV_UNN_Descripcion": "kilocharacter",
+    "FV_UNN_Codigo_DIAN": "KB"
+  },
+  {
+    "FV_UNN_id_Unidades": 182,
+    "FV_UNN_Descripcion": "kilobar",
+    "FV_UNN_Codigo_DIAN": "KBA"
+  },
+  {
+    "FV_UNN_id_Unidades": 183,
+    "FV_UNN_Descripcion": "kilogramo decimal",
+    "FV_UNN_Codigo_DIAN": "KD"
+  },
+  {
+    "FV_UNN_id_Unidades": 184,
+    "FV_UNN_Descripcion": "kelvin",
+    "FV_UNN_Codigo_DIAN": "KEL"
+  },
+  {
+    "FV_UNN_id_Unidades": 185,
+    "FV_UNN_Descripcion": "kilopacket",
+    "FV_UNN_Codigo_DIAN": "KF"
+  },
+  {
+    "FV_UNN_id_Unidades": 186,
+    "FV_UNN_Descripcion": "barrilete",
+    "FV_UNN_Codigo_DIAN": "KG"
+  },
+  {
+    "FV_UNN_id_Unidades": 187,
+    "FV_UNN_Descripcion": "kilogramo",
+    "FV_UNN_Codigo_DIAN": "KGM"
+  },
+  {
+    "FV_UNN_id_Unidades": 188,
+    "FV_UNN_Descripcion": "kilogramo por segundo",
+    "FV_UNN_Codigo_DIAN": "KGS"
+  },
+  {
+    "FV_UNN_id_Unidades": 189,
+    "FV_UNN_Descripcion": "kilohercio",
+    "FV_UNN_Codigo_DIAN": "KHZ"
+  },
+  {
+    "FV_UNN_id_Unidades": 190,
+    "FV_UNN_Descripcion": "barril por minuto",
+    "FV_UNN_Codigo_DIAN": "5ª"
+  },
+  {
+    "FV_UNN_id_Unidades": 191,
+    "FV_UNN_Descripcion": "5B",
+    "FV_UNN_Codigo_DIAN": "lote"
+  },
+  {
+    "FV_UNN_id_Unidades": 192,
+    "FV_UNN_Descripcion": "galón (US) por mil",
+    "FV_UNN_Codigo_DIAN": "5C"
+  },
+  {
+    "FV_UNN_id_Unidades": 193,
+    "FV_UNN_Descripcion": "MMSCF / día",
+    "FV_UNN_Codigo_DIAN": "5E"
+  },
+  {
+    "FV_UNN_id_Unidades": 194,
+    "FV_UNN_Descripcion": "libras por mil",
+    "FV_UNN_Codigo_DIAN": "5F"
+  },
+  {
+    "FV_UNN_id_Unidades": 195,
+    "FV_UNN_Descripcion": "bomba",
+    "FV_UNN_Codigo_DIAN": "5G"
+  },
+  {
+    "FV_UNN_id_Unidades": 196,
+    "FV_UNN_Descripcion": "escenario",
+    "FV_UNN_Codigo_DIAN": "5H"
+  },
+  {
+    "FV_UNN_id_Unidades": 197,
+    "FV_UNN_Descripcion": "pie cúbico estándar",
+    "FV_UNN_Codigo_DIAN": "5I"
+  },
+  {
+    "FV_UNN_id_Unidades": 198,
+    "FV_UNN_Descripcion": "potencia hidráulica de caballos",
+    "FV_UNN_Codigo_DIAN": "5J"
+  },
+  {
+    "FV_UNN_id_Unidades": 199,
+    "FV_UNN_Descripcion": "contar por minuto",
+    "FV_UNN_Codigo_DIAN": "5K"
+  },
+  {
+    "FV_UNN_id_Unidades": 200,
+    "FV_UNN_Descripcion": "nivel sismico",
+    "FV_UNN_Codigo_DIAN": "5P"
+  },
+  {
+    "FV_UNN_id_Unidades": 201,
+    "FV_UNN_Descripcion": "260nfor sismica",
+    "FV_UNN_Codigo_DIAN": "5Q"
+  },
+  {
+    "FV_UNN_id_Unidades": 202,
+    "FV_UNN_Descripcion": "15 calorías C",
+    "FV_UNN_Codigo_DIAN": "A1"
+  },
+  {
+    "FV_UNN_id_Unidades": 203,
+    "FV_UNN_Descripcion": "amperio metro cuadrado por joule segundo",
+    "FV_UNN_Codigo_DIAN": "A10"
+  },
+  {
+    "FV_UNN_id_Unidades": 204,
+    "FV_UNN_Descripcion": "Ã ¥ ngström",
+    "FV_UNN_Codigo_DIAN": "A11"
+  },
+  {
+    "FV_UNN_id_Unidades": 205,
+    "FV_UNN_Descripcion": "unidad astronómica",
+    "FV_UNN_Codigo_DIAN": "A12"
+  },
+  {
+    "FV_UNN_id_Unidades": 206,
+    "FV_UNN_Descripcion": "attojoule",
+    "FV_UNN_Codigo_DIAN": "A13"
+  },
+  {
+    "FV_UNN_id_Unidades": 207,
+    "FV_UNN_Descripcion": "granero",
+    "FV_UNN_Codigo_DIAN": "A14"
+  },
+  {
+    "FV_UNN_id_Unidades": 208,
+    "FV_UNN_Descripcion": "granero por electrón voltio",
+    "FV_UNN_Codigo_DIAN": "A15"
+  },
+  {
+    "FV_UNN_id_Unidades": 209,
+    "FV_UNN_Descripcion": "granero por voltio de electrones esteradiano,",
+    "FV_UNN_Codigo_DIAN": "A16"
+  },
+  {
+    "FV_UNN_id_Unidades": 210,
+    "FV_UNN_Descripcion": "granero por sterdian",
+    "FV_UNN_Codigo_DIAN": "A17"
+  },
+  {
+    "FV_UNN_id_Unidades": 211,
+    "FV_UNN_Descripcion": "becquerel por kilogramo",
+    "FV_UNN_Codigo_DIAN": "A18"
+  },
+  {
+    "FV_UNN_id_Unidades": 212,
+    "FV_UNN_Descripcion": "becquerel por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "A19"
+  },
+  {
+    "FV_UNN_id_Unidades": 213,
+    "FV_UNN_Descripcion": "amperio por centímetro",
+    "FV_UNN_Codigo_DIAN": "A2"
+  },
+  {
+    "FV_UNN_id_Unidades": 214,
+    "FV_UNN_Descripcion": "Unidad térmica británica por segundo pie cuadrado grado Rankin",
+    "FV_UNN_Codigo_DIAN": "A20"
+  },
+  {
+    "FV_UNN_id_Unidades": 215,
+    "FV_UNN_Descripcion": "Unidad térmica británica por libra grado Rankin",
+    "FV_UNN_Codigo_DIAN": "A21"
+  },
+  {
+    "FV_UNN_id_Unidades": 216,
+    "FV_UNN_Descripcion": "Unidad térmica británica por segundo pie grado Rankin",
+    "FV_UNN_Codigo_DIAN": "A22"
+  },
+  {
+    "FV_UNN_id_Unidades": 217,
+    "FV_UNN_Descripcion": "Unidad térmica británica por hora pie cuadrado grado Rankin",
+    "FV_UNN_Codigo_DIAN": "A23"
+  },
+  {
+    "FV_UNN_id_Unidades": 218,
+    "FV_UNN_Descripcion": "candela por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "A24"
+  },
+  {
+    "FV_UNN_id_Unidades": 219,
+    "FV_UNN_Descripcion": "cheval vapeur",
+    "FV_UNN_Codigo_DIAN": "A25"
+  },
+  {
+    "FV_UNN_id_Unidades": 220,
+    "FV_UNN_Descripcion": "medidor de culombio",
+    "FV_UNN_Codigo_DIAN": "A26"
+  },
+  {
+    "FV_UNN_id_Unidades": 221,
+    "FV_UNN_Descripcion": "medidor de culombio al cuadrado por voltio",
+    "FV_UNN_Codigo_DIAN": "A27"
+  },
+  {
+    "FV_UNN_id_Unidades": 222,
+    "FV_UNN_Descripcion": "Coulomb por centímetro cúbico",
+    "FV_UNN_Codigo_DIAN": "A28"
+  },
+  {
+    "FV_UNN_id_Unidades": 223,
+    "FV_UNN_Descripcion": "Coulomb por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "A29"
+  },
+  {
+    "FV_UNN_id_Unidades": 224,
+    "FV_UNN_Descripcion": "amperio por milímetro",
+    "FV_UNN_Codigo_DIAN": "A3"
+  },
+  {
+    "FV_UNN_id_Unidades": 225,
+    "FV_UNN_Descripcion": "Coulomb por milímetro cúbico",
+    "FV_UNN_Codigo_DIAN": "A30"
+  },
+  {
+    "FV_UNN_id_Unidades": 226,
+    "FV_UNN_Descripcion": "Coulomb por kilogramo segundo",
+    "FV_UNN_Codigo_DIAN": "A31"
+  },
+  {
+    "FV_UNN_id_Unidades": 227,
+    "FV_UNN_Descripcion": "Coulomb por mol",
+    "FV_UNN_Codigo_DIAN": "A32"
+  },
+  {
+    "FV_UNN_id_Unidades": 228,
+    "FV_UNN_Descripcion": "Coulomb por centímetro cuadrado",
+    "FV_UNN_Codigo_DIAN": "A33"
+  },
+  {
+    "FV_UNN_id_Unidades": 229,
+    "FV_UNN_Descripcion": "Coulomb por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "A34"
+  },
+  {
+    "FV_UNN_id_Unidades": 230,
+    "FV_UNN_Descripcion": "Coulomb por milímetro cuadrado",
+    "FV_UNN_Codigo_DIAN": "A35"
+  },
+  {
+    "FV_UNN_id_Unidades": 231,
+    "FV_UNN_Descripcion": "centímetro cúbico por mol",
+    "FV_UNN_Codigo_DIAN": "A36"
+  },
+  {
+    "FV_UNN_id_Unidades": 232,
+    "FV_UNN_Descripcion": "261nformaci cúbico por mol",
+    "FV_UNN_Codigo_DIAN": "A37"
+  },
+  {
+    "FV_UNN_id_Unidades": 233,
+    "FV_UNN_Descripcion": "metro cúbico por coulomb",
+    "FV_UNN_Codigo_DIAN": "A38"
+  },
+  {
+    "FV_UNN_id_Unidades": 234,
+    "FV_UNN_Descripcion": "metro cúbico por kilogramo",
+    "FV_UNN_Codigo_DIAN": "A39"
+  },
+  {
+    "FV_UNN_id_Unidades": 235,
+    "FV_UNN_Descripcion": "amperio por centímetro cuadrado",
+    "FV_UNN_Codigo_DIAN": "A4"
+  },
+  {
+    "FV_UNN_id_Unidades": 236,
+    "FV_UNN_Descripcion": "metro cúbico por mol",
+    "FV_UNN_Codigo_DIAN": "A40"
+  },
+  {
+    "FV_UNN_id_Unidades": 237,
+    "FV_UNN_Descripcion": "amperio por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "A41"
+  },
+  {
+    "FV_UNN_id_Unidades": 238,
+    "FV_UNN_Descripcion": "curie por kilogramo",
+    "FV_UNN_Codigo_DIAN": "A42"
+  },
+  {
+    "FV_UNN_id_Unidades": 239,
+    "FV_UNN_Descripcion": "tonelaje de peso muerto",
+    "FV_UNN_Codigo_DIAN": "A43"
+  },
+  {
+    "FV_UNN_id_Unidades": 240,
+    "FV_UNN_Descripcion": "decalitro",
+    "FV_UNN_Codigo_DIAN": "A44"
+  },
+  {
+    "FV_UNN_id_Unidades": 241,
+    "FV_UNN_Descripcion": "decámetro",
+    "FV_UNN_Codigo_DIAN": "A45"
+  },
+  {
+    "FV_UNN_id_Unidades": 242,
+    "FV_UNN_Descripcion": "decitex",
+    "FV_UNN_Codigo_DIAN": "A47"
+  },
+  {
+    "FV_UNN_id_Unidades": 243,
+    "FV_UNN_Descripcion": "grado Rankin",
+    "FV_UNN_Codigo_DIAN": "A48"
+  },
+  {
+    "FV_UNN_id_Unidades": 244,
+    "FV_UNN_Descripcion": "negador",
+    "FV_UNN_Codigo_DIAN": "A49"
+  },
+  {
+    "FV_UNN_id_Unidades": 245,
+    "FV_UNN_Descripcion": "amperio metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "A5"
+  },
+  {
+    "FV_UNN_id_Unidades": 246,
+    "FV_UNN_Descripcion": "dyn segundo por centímetro cúbico",
+    "FV_UNN_Codigo_DIAN": "A50"
+  },
+  {
+    "FV_UNN_id_Unidades": 247,
+    "FV_UNN_Descripcion": "dina segundo por centímetro",
+    "FV_UNN_Codigo_DIAN": "A51"
+  },
+  {
+    "FV_UNN_id_Unidades": 248,
+    "FV_UNN_Descripcion": "dina segundo por centímetro al quinto",
+    "FV_UNN_Codigo_DIAN": "A52"
+  },
+  {
+    "FV_UNN_id_Unidades": 249,
+    "FV_UNN_Descripcion": "electronvolt",
+    "FV_UNN_Codigo_DIAN": "A53"
+  },
+  {
+    "FV_UNN_id_Unidades": 250,
+    "FV_UNN_Descripcion": "electronvoltio por metro",
+    "FV_UNN_Codigo_DIAN": "A54"
+  },
+  {
+    "FV_UNN_id_Unidades": 251,
+    "FV_UNN_Descripcion": "metro electronvolt cuadrado",
+    "FV_UNN_Codigo_DIAN": "A55"
+  },
+  {
+    "FV_UNN_id_Unidades": 252,
+    "FV_UNN_Descripcion": "electronvoltio de metro cuadrado por kilogramo",
+    "FV_UNN_Codigo_DIAN": "A56"
+  },
+  {
+    "FV_UNN_id_Unidades": 253,
+    "FV_UNN_Descripcion": "ergio",
+    "FV_UNN_Codigo_DIAN": "A57"
+  },
+  {
+    "FV_UNN_id_Unidades": 254,
+    "FV_UNN_Descripcion": "erg por centímetro",
+    "FV_UNN_Codigo_DIAN": "A58"
+  },
+  {
+    "FV_UNN_id_Unidades": 255,
+    "FV_UNN_Descripcion": "amperio por metro cuadrado kelvin al cuadrado",
+    "FV_UNN_Codigo_DIAN": "A6"
+  },
+  {
+    "FV_UNN_id_Unidades": 256,
+    "FV_UNN_Descripcion": "erg por centímetro cúbico",
+    "FV_UNN_Codigo_DIAN": "A60"
+  },
+  {
+    "FV_UNN_id_Unidades": 257,
+    "FV_UNN_Descripcion": "erg por gramo",
+    "FV_UNN_Codigo_DIAN": "A61"
+  },
+  {
+    "FV_UNN_id_Unidades": 258,
+    "FV_UNN_Descripcion": "erg por gramo de segundo",
+    "FV_UNN_Codigo_DIAN": "A62"
+  },
+  {
+    "FV_UNN_id_Unidades": 259,
+    "FV_UNN_Descripcion": "erg por segundo",
+    "FV_UNN_Codigo_DIAN": "A63"
+  },
+  {
+    "FV_UNN_id_Unidades": 260,
+    "FV_UNN_Descripcion": "erg por segundo centímetro cuadrado",
+    "FV_UNN_Codigo_DIAN": "A64"
+  },
+  {
+    "FV_UNN_id_Unidades": 261,
+    "FV_UNN_Descripcion": "erg por centímetro cuadrado segundo",
+    "FV_UNN_Codigo_DIAN": "A65"
+  },
+  {
+    "FV_UNN_id_Unidades": 262,
+    "FV_UNN_Descripcion": "erg centímetro cuadrado",
+    "FV_UNN_Codigo_DIAN": "A66"
+  },
+  {
+    "FV_UNN_id_Unidades": 263,
+    "FV_UNN_Descripcion": "ergímetro cuadrado por gramo",
+    "FV_UNN_Codigo_DIAN": "A67"
+  },
+  {
+    "FV_UNN_id_Unidades": 264,
+    "FV_UNN_Descripcion": "exajulio",
+    "FV_UNN_Codigo_DIAN": "A68"
+  },
+  {
+    "FV_UNN_id_Unidades": 265,
+    "FV_UNN_Descripcion": "faradio por metro",
+    "FV_UNN_Codigo_DIAN": "A69"
+  },
+  {
+    "FV_UNN_id_Unidades": 266,
+    "FV_UNN_Descripcion": "amperio por milímetro cuadrado",
+    "FV_UNN_Codigo_DIAN": "A7"
+  },
+  {
+    "FV_UNN_id_Unidades": 267,
+    "FV_UNN_Descripcion": "femtojoule",
+    "FV_UNN_Codigo_DIAN": "A70"
+  },
+  {
+    "FV_UNN_id_Unidades": 268,
+    "FV_UNN_Descripcion": "femtometro",
+    "FV_UNN_Codigo_DIAN": "A71"
+  },
+  {
+    "FV_UNN_id_Unidades": 269,
+    "FV_UNN_Descripcion": "pie por segundo al cuadrado",
+    "FV_UNN_Codigo_DIAN": "A73"
+  },
+  {
+    "FV_UNN_id_Unidades": 270,
+    "FV_UNN_Descripcion": "pie-fuerza de la libra por segundo",
+    "FV_UNN_Codigo_DIAN": "A74"
+  },
+  {
+    "FV_UNN_id_Unidades": 271,
+    "FV_UNN_Descripcion": "tonelada de carga",
+    "FV_UNN_Codigo_DIAN": "A75"
+  },
+  {
+    "FV_UNN_id_Unidades": 272,
+    "FV_UNN_Descripcion": "galón",
+    "FV_UNN_Codigo_DIAN": "A76"
+  },
+  {
+    "FV_UNN_id_Unidades": 273,
+    "FV_UNN_Descripcion": "Unidad de desplazamiento CGS gaussiana",
+    "FV_UNN_Codigo_DIAN": "A77"
+  },
+  {
+    "FV_UNN_id_Unidades": 274,
+    "FV_UNN_Descripcion": "Unidad gaussiana CGS de corriente eléctrica.",
+    "FV_UNN_Codigo_DIAN": "A78"
+  },
+  {
+    "FV_UNN_id_Unidades": 275,
+    "FV_UNN_Descripcion": "Unidad Gaussian CGS de carga eléctrica.",
+    "FV_UNN_Codigo_DIAN": "A79"
+  },
+  {
+    "FV_UNN_id_Unidades": 276,
+    "FV_UNN_Descripcion": "amperio segundo",
+    "FV_UNN_Codigo_DIAN": "A8"
+  },
+  {
+    "FV_UNN_id_Unidades": 277,
+    "FV_UNN_Descripcion": "Unidad Gaussian CGS de intensidad de campo eléctrico.",
+    "FV_UNN_Codigo_DIAN": "A80"
+  },
+  {
+    "FV_UNN_id_Unidades": 278,
+    "FV_UNN_Descripcion": "Unidad Gaussian CGS de polarización eléctrica.",
+    "FV_UNN_Codigo_DIAN": "A81"
+  },
+  {
+    "FV_UNN_id_Unidades": 279,
+    "FV_UNN_Descripcion": "Unidad Gaussian CGS de potencial eléctrico.",
+    "FV_UNN_Codigo_DIAN": "A82"
+  },
+  {
+    "FV_UNN_id_Unidades": 280,
+    "FV_UNN_Descripcion": "Unidad Gaussiana CGS de magnetización.",
+    "FV_UNN_Codigo_DIAN": "A83"
+  },
+  {
+    "FV_UNN_id_Unidades": 281,
+    "FV_UNN_Descripcion": "gigacoulomb por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "A84"
+  },
+  {
+    "FV_UNN_id_Unidades": 282,
+    "FV_UNN_Descripcion": "Gigaelectronvolt",
+    "FV_UNN_Codigo_DIAN": "A85"
+  },
+  {
+    "FV_UNN_id_Unidades": 283,
+    "FV_UNN_Descripcion": "gigahercios",
+    "FV_UNN_Codigo_DIAN": "A86"
+  },
+  {
+    "FV_UNN_id_Unidades": 284,
+    "FV_UNN_Descripcion": "gigaohm",
+    "FV_UNN_Codigo_DIAN": "A87"
+  },
+  {
+    "FV_UNN_id_Unidades": 285,
+    "FV_UNN_Descripcion": "medidor de gigaohm",
+    "FV_UNN_Codigo_DIAN": "A88"
+  },
+  {
+    "FV_UNN_id_Unidades": 286,
+    "FV_UNN_Descripcion": "gigapascal",
+    "FV_UNN_Codigo_DIAN": "A89"
+  },
+  {
+    "FV_UNN_id_Unidades": 287,
+    "FV_UNN_Descripcion": "tarifa",
+    "FV_UNN_Codigo_DIAN": "A9"
+  },
+  {
+    "FV_UNN_id_Unidades": 288,
+    "FV_UNN_Descripcion": "gigavatios",
+    "FV_UNN_Codigo_DIAN": "A90"
+  },
+  {
+    "FV_UNN_id_Unidades": 289,
+    "FV_UNN_Descripcion": "A91",
+    "FV_UNN_Codigo_DIAN": "gon"
+  },
+  {
+    "FV_UNN_id_Unidades": 290,
+    "FV_UNN_Descripcion": "gramo por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "A93"
+  },
+  {
+    "FV_UNN_id_Unidades": 291,
+    "FV_UNN_Descripcion": "gramo por mol",
+    "FV_UNN_Codigo_DIAN": "A94"
+  },
+  {
+    "FV_UNN_id_Unidades": 292,
+    "FV_UNN_Descripcion": "A95",
+    "FV_UNN_Codigo_DIAN": "gris"
+  },
+  {
+    "FV_UNN_id_Unidades": 293,
+    "FV_UNN_Descripcion": "gris por segundo",
+    "FV_UNN_Codigo_DIAN": "A96"
+  },
+  {
+    "FV_UNN_id_Unidades": 294,
+    "FV_UNN_Descripcion": "hectopascal",
+    "FV_UNN_Codigo_DIAN": "A97"
+  },
+  {
+    "FV_UNN_id_Unidades": 295,
+    "FV_UNN_Descripcion": "Henry por metro",
+    "FV_UNN_Codigo_DIAN": "A98"
+  },
+  {
+    "FV_UNN_id_Unidades": 296,
+    "FV_UNN_Descripcion": "AA",
+    "FV_UNN_Codigo_DIAN": "bola"
+  },
+  {
+    "FV_UNN_id_Unidades": 297,
+    "FV_UNN_Descripcion": "paquete a granel",
+    "FV_UNN_Codigo_DIAN": "AB"
+  },
+  {
+    "FV_UNN_id_Unidades": 298,
+    "FV_UNN_Descripcion": "ACR",
+    "FV_UNN_Codigo_DIAN": "acre"
+  },
+  {
+    "FV_UNN_id_Unidades": 299,
+    "FV_UNN_Descripcion": "AD",
+    "FV_UNN_Codigo_DIAN": "byte"
+  },
+  {
+    "FV_UNN_id_Unidades": 300,
+    "FV_UNN_Descripcion": "amperio por metro",
+    "FV_UNN_Codigo_DIAN": "AE"
+  },
+  {
+    "FV_UNN_id_Unidades": 301,
+    "FV_UNN_Descripcion": "minuto adicional",
+    "FV_UNN_Codigo_DIAN": "AH"
+  },
+  {
+    "FV_UNN_id_Unidades": 302,
+    "FV_UNN_Descripcion": "minuto promedio por llamada",
+    "FV_UNN_Codigo_DIAN": "AI"
+  },
+  {
+    "FV_UNN_id_Unidades": 303,
+    "FV_UNN_Descripcion": "policía",
+    "FV_UNN_Codigo_DIAN": "AJ"
+  },
+  {
+    "FV_UNN_id_Unidades": 304,
+    "FV_UNN_Descripcion": "braza",
+    "FV_UNN_Codigo_DIAN": "AK"
+  },
+  {
+    "FV_UNN_id_Unidades": 305,
+    "FV_UNN_Descripcion": "263nfor de acceso",
+    "FV_UNN_Codigo_DIAN": "AL"
+  },
+  {
+    "FV_UNN_id_Unidades": 306,
+    "FV_UNN_Descripcion": "ampolla",
+    "FV_UNN_Codigo_DIAN": "AM"
+  },
+  {
+    "FV_UNN_id_Unidades": 307,
+    "FV_UNN_Descripcion": "hora amperio",
+    "FV_UNN_Codigo_DIAN": "AMH"
+  },
+  {
+    "FV_UNN_id_Unidades": 308,
+    "FV_UNN_Descripcion": "amperio",
+    "FV_UNN_Codigo_DIAN": "AMP"
+  },
+  {
+    "FV_UNN_id_Unidades": 309,
+    "FV_UNN_Descripcion": "ANA",
+    "FV_UNN_Codigo_DIAN": "año"
+  },
+  {
+    "FV_UNN_id_Unidades": 310,
+    "FV_UNN_Descripcion": "solo libra de aluminio",
+    "FV_UNN_Codigo_DIAN": "AP"
+  },
+  {
+    "FV_UNN_id_Unidades": 311,
+    "FV_UNN_Descripcion": "onza troy o onza de boticarios",
+    "FV_UNN_Codigo_DIAN": "APZ"
+  },
+  {
+    "FV_UNN_id_Unidades": 312,
+    "FV_UNN_Descripcion": "Unidad de factor antihemofílico (AHF)",
+    "FV_UNN_Codigo_DIAN": "AQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 313,
+    "FV_UNN_Descripcion": "supositorio",
+    "FV_UNN_Codigo_DIAN": "AR"
+  },
+  {
+    "FV_UNN_id_Unidades": 314,
+    "FV_UNN_Descripcion": "SON",
+    "FV_UNN_Codigo_DIAN": "son"
+  },
+  {
+    "FV_UNN_id_Unidades": 315,
+    "FV_UNN_Descripcion": "surtido",
+    "FV_UNN_Codigo_DIAN": "COMO"
+  },
+  {
+    "FV_UNN_id_Unidades": 316,
+    "FV_UNN_Descripcion": "fuerza alcohólica en masa",
+    "FV_UNN_Codigo_DIAN": "ASM"
+  },
+  {
+    "FV_UNN_id_Unidades": 317,
+    "FV_UNN_Descripcion": "fuerza alcohólica por volumen",
+    "FV_UNN_Codigo_DIAN": "ASU"
+  },
+  {
+    "FV_UNN_id_Unidades": 318,
+    "FV_UNN_Descripcion": "ambiente estándar",
+    "FV_UNN_Codigo_DIAN": "ATM"
+  },
+  {
+    "FV_UNN_id_Unidades": 319,
+    "FV_UNN_Descripcion": "ambiente técnico",
+    "FV_UNN_Codigo_DIAN": "ATT"
+  },
+  {
+    "FV_UNN_id_Unidades": 320,
+    "FV_UNN_Descripcion": "cápsula",
+    "FV_UNN_Codigo_DIAN": "AV"
+  },
+  {
+    "FV_UNN_id_Unidades": 321,
+    "FV_UNN_Descripcion": "vial lleno de polvo",
+    "FV_UNN_Codigo_DIAN": "AW"
+  },
+  {
+    "FV_UNN_id_Unidades": 322,
+    "FV_UNN_Descripcion": "montaje",
+    "FV_UNN_Codigo_DIAN": "SÍ"
+  },
+  {
+    "FV_UNN_id_Unidades": 323,
+    "FV_UNN_Descripcion": "Unidad térmica británica por libra",
+    "FV_UNN_Codigo_DIAN": "AZ"
+  },
+  {
+    "FV_UNN_id_Unidades": 324,
+    "FV_UNN_Descripcion": "Btu por pie cúbico",
+    "FV_UNN_Codigo_DIAN": "B0"
+  },
+  {
+    "FV_UNN_id_Unidades": 325,
+    "FV_UNN_Descripcion": "barril (US) por día",
+    "FV_UNN_Codigo_DIAN": "B1"
+  },
+  {
+    "FV_UNN_id_Unidades": 326,
+    "FV_UNN_Descripcion": "julios por kilogramo kelvin",
+    "FV_UNN_Codigo_DIAN": "B11"
+  },
+  {
+    "FV_UNN_id_Unidades": 327,
+    "FV_UNN_Descripcion": "julios por metro",
+    "FV_UNN_Codigo_DIAN": "B12"
+  },
+  {
+    "FV_UNN_id_Unidades": 328,
+    "FV_UNN_Descripcion": "julios por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "B13"
+  },
+  {
+    "FV_UNN_id_Unidades": 329,
+    "FV_UNN_Descripcion": "julios por metro a la cuarta potencia",
+    "FV_UNN_Codigo_DIAN": "B14"
+  },
+  {
+    "FV_UNN_id_Unidades": 330,
+    "FV_UNN_Descripcion": "julios por mol",
+    "FV_UNN_Codigo_DIAN": "B15"
+  },
+  {
+    "FV_UNN_id_Unidades": 331,
+    "FV_UNN_Descripcion": "julios por mol kelvin",
+    "FV_UNN_Codigo_DIAN": "B16"
+  },
+  {
+    "FV_UNN_id_Unidades": 332,
+    "FV_UNN_Descripcion": "joule segundo",
+    "FV_UNN_Codigo_DIAN": "B18"
+  },
+  {
+    "FV_UNN_id_Unidades": 333,
+    "FV_UNN_Descripcion": "litera",
+    "FV_UNN_Codigo_DIAN": "B2"
+  },
+  {
+    "FV_UNN_id_Unidades": 334,
+    "FV_UNN_Descripcion": "joule metro cuadrado por kilogramo",
+    "FV_UNN_Codigo_DIAN": "B20"
+  },
+  {
+    "FV_UNN_id_Unidades": 335,
+    "FV_UNN_Descripcion": "kelvin por vatio",
+    "FV_UNN_Codigo_DIAN": "B21"
+  },
+  {
+    "FV_UNN_id_Unidades": 336,
+    "FV_UNN_Descripcion": "Kiloampere",
+    "FV_UNN_Codigo_DIAN": "B22"
+  },
+  {
+    "FV_UNN_id_Unidades": 337,
+    "FV_UNN_Descripcion": "kiloampere por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "B23"
+  },
+  {
+    "FV_UNN_id_Unidades": 338,
+    "FV_UNN_Descripcion": "kiloampere por metro",
+    "FV_UNN_Codigo_DIAN": "B24"
+  },
+  {
+    "FV_UNN_id_Unidades": 339,
+    "FV_UNN_Descripcion": "kilobecquerel por kilogramo",
+    "FV_UNN_Codigo_DIAN": "B25"
+  },
+  {
+    "FV_UNN_id_Unidades": 340,
+    "FV_UNN_Descripcion": "kilocoulomb",
+    "FV_UNN_Codigo_DIAN": "B26"
+  },
+  {
+    "FV_UNN_id_Unidades": 341,
+    "FV_UNN_Descripcion": "kilocoulomb por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "B27"
+  },
+  {
+    "FV_UNN_id_Unidades": 342,
+    "FV_UNN_Descripcion": "kilocoulomb por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "B28"
+  },
+  {
+    "FV_UNN_id_Unidades": 343,
+    "FV_UNN_Descripcion": "kiloelectronvolt",
+    "FV_UNN_Codigo_DIAN": "B29"
+  },
+  {
+    "FV_UNN_id_Unidades": 344,
+    "FV_UNN_Descripcion": "libra de bateo",
+    "FV_UNN_Codigo_DIAN": "B3"
+  },
+  {
+    "FV_UNN_id_Unidades": 345,
+    "FV_UNN_Descripcion": "kilogramo metro por segundo",
+    "FV_UNN_Codigo_DIAN": "B31"
+  },
+  {
+    "FV_UNN_id_Unidades": 346,
+    "FV_UNN_Descripcion": "kilogramo metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "B32"
+  },
+  {
+    "FV_UNN_id_Unidades": 347,
+    "FV_UNN_Descripcion": "kilogramo metro cuadrado por segundo",
+    "FV_UNN_Codigo_DIAN": "B33"
+  },
+  {
+    "FV_UNN_id_Unidades": 348,
+    "FV_UNN_Descripcion": "kilogramo por decímetro cúbico",
+    "FV_UNN_Codigo_DIAN": "B34"
+  },
+  {
+    "FV_UNN_id_Unidades": 349,
+    "FV_UNN_Descripcion": "kilogramo por litro",
+    "FV_UNN_Codigo_DIAN": "B35"
+  },
+  {
+    "FV_UNN_id_Unidades": 350,
+    "FV_UNN_Descripcion": "caloría termoquímica por gramo",
+    "FV_UNN_Codigo_DIAN": "B36"
+  },
+  {
+    "FV_UNN_id_Unidades": 351,
+    "FV_UNN_Descripcion": "kilogramo de fuerza",
+    "FV_UNN_Codigo_DIAN": "B37"
+  },
+  {
+    "FV_UNN_id_Unidades": 352,
+    "FV_UNN_Descripcion": "metro de fuerza de kilogramo",
+    "FV_UNN_Codigo_DIAN": "B38"
+  },
+  {
+    "FV_UNN_id_Unidades": 353,
+    "FV_UNN_Descripcion": "metro de fuerza de kilogramo por segundo",
+    "FV_UNN_Codigo_DIAN": "B39"
+  },
+  {
+    "FV_UNN_id_Unidades": 354,
+    "FV_UNN_Descripcion": "barril, imperial",
+    "FV_UNN_Codigo_DIAN": "B4"
+  },
+  {
+    "FV_UNN_id_Unidades": 355,
+    "FV_UNN_Descripcion": "kilogramo de fuerza por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "B40"
+  },
+  {
+    "FV_UNN_id_Unidades": 356,
+    "FV_UNN_Descripcion": "kilojoule per kelvin",
+    "FV_UNN_Codigo_DIAN": "B41"
+  },
+  {
+    "FV_UNN_id_Unidades": 357,
+    "FV_UNN_Descripcion": "kilojoule por kilogramo",
+    "FV_UNN_Codigo_DIAN": "B42"
+  },
+  {
+    "FV_UNN_id_Unidades": 358,
+    "FV_UNN_Descripcion": "kilojoule por kilogramo kelvin",
+    "FV_UNN_Codigo_DIAN": "B43"
+  },
+  {
+    "FV_UNN_id_Unidades": 359,
+    "FV_UNN_Descripcion": "kilojoule por mol",
+    "FV_UNN_Codigo_DIAN": "B44"
+  },
+  {
+    "FV_UNN_id_Unidades": 360,
+    "FV_UNN_Descripcion": "kilomol",
+    "FV_UNN_Codigo_DIAN": "B45"
+  },
+  {
+    "FV_UNN_id_Unidades": 361,
+    "FV_UNN_Descripcion": "kilomol por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "B46"
+  },
+  {
+    "FV_UNN_id_Unidades": 362,
+    "FV_UNN_Descripcion": "Kilonewton",
+    "FV_UNN_Codigo_DIAN": "B47"
+  },
+  {
+    "FV_UNN_id_Unidades": 363,
+    "FV_UNN_Descripcion": "medidor de kilonewton",
+    "FV_UNN_Codigo_DIAN": "B48"
+  },
+  {
+    "FV_UNN_id_Unidades": 364,
+    "FV_UNN_Descripcion": "kiloohm",
+    "FV_UNN_Codigo_DIAN": "B49"
+  },
+  {
+    "FV_UNN_id_Unidades": 365,
+    "FV_UNN_Descripcion": "palanquilla",
+    "FV_UNN_Codigo_DIAN": "B5"
+  },
+  {
+    "FV_UNN_id_Unidades": 366,
+    "FV_UNN_Descripcion": "medidor de kiloohm",
+    "FV_UNN_Codigo_DIAN": "B50"
+  },
+  {
+    "FV_UNN_id_Unidades": 367,
+    "FV_UNN_Descripcion": "kilopond",
+    "FV_UNN_Codigo_DIAN": "B51"
+  },
+  {
+    "FV_UNN_id_Unidades": 368,
+    "FV_UNN_Descripcion": "kilosegundo",
+    "FV_UNN_Codigo_DIAN": "B52"
+  },
+  {
+    "FV_UNN_id_Unidades": 369,
+    "FV_UNN_Descripcion": "kilosiemens",
+    "FV_UNN_Codigo_DIAN": "B53"
+  },
+  {
+    "FV_UNN_id_Unidades": 370,
+    "FV_UNN_Descripcion": "kilosiemens por metro",
+    "FV_UNN_Codigo_DIAN": "B54"
+  },
+  {
+    "FV_UNN_id_Unidades": 371,
+    "FV_UNN_Descripcion": "kilovoltios por metro",
+    "FV_UNN_Codigo_DIAN": "B55"
+  },
+  {
+    "FV_UNN_id_Unidades": 372,
+    "FV_UNN_Descripcion": "kiloveber por metro",
+    "FV_UNN_Codigo_DIAN": "B56"
+  },
+  {
+    "FV_UNN_id_Unidades": 373,
+    "FV_UNN_Descripcion": "año luz",
+    "FV_UNN_Codigo_DIAN": "B57"
+  },
+  {
+    "FV_UNN_id_Unidades": 374,
+    "FV_UNN_Descripcion": "litro por mol",
+    "FV_UNN_Codigo_DIAN": "B58"
+  },
+  {
+    "FV_UNN_id_Unidades": 375,
+    "FV_UNN_Descripcion": "hora lumen",
+    "FV_UNN_Codigo_DIAN": "B59"
+  },
+  {
+    "FV_UNN_id_Unidades": 376,
+    "FV_UNN_Descripcion": "bollo",
+    "FV_UNN_Codigo_DIAN": "B6"
+  },
+  {
+    "FV_UNN_id_Unidades": 377,
+    "FV_UNN_Descripcion": "lumen por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "B60"
+  },
+  {
+    "FV_UNN_id_Unidades": 378,
+    "FV_UNN_Descripcion": "lumen por vatio",
+    "FV_UNN_Codigo_DIAN": "B61"
+  },
+  {
+    "FV_UNN_id_Unidades": 379,
+    "FV_UNN_Descripcion": "lumen segundo",
+    "FV_UNN_Codigo_DIAN": "B62"
+  },
+  {
+    "FV_UNN_id_Unidades": 380,
+    "FV_UNN_Descripcion": "hora de lux",
+    "FV_UNN_Codigo_DIAN": "B63"
+  },
+  {
+    "FV_UNN_id_Unidades": 381,
+    "FV_UNN_Descripcion": "lux segundo",
+    "FV_UNN_Codigo_DIAN": "B64"
+  },
+  {
+    "FV_UNN_id_Unidades": 382,
+    "FV_UNN_Descripcion": "Maxwell",
+    "FV_UNN_Codigo_DIAN": "B65"
+  },
+  {
+    "FV_UNN_id_Unidades": 383,
+    "FV_UNN_Descripcion": "megaamperios por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "B66"
+  },
+  {
+    "FV_UNN_id_Unidades": 384,
+    "FV_UNN_Descripcion": "megabecquerel por kilogramo",
+    "FV_UNN_Codigo_DIAN": "B67"
+  },
+  {
+    "FV_UNN_id_Unidades": 385,
+    "FV_UNN_Descripcion": "megacoulomb por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "B69"
+  },
+  {
+    "FV_UNN_id_Unidades": 386,
+    "FV_UNN_Descripcion": "ciclo",
+    "FV_UNN_Codigo_DIAN": "B7"
+  },
+  {
+    "FV_UNN_id_Unidades": 387,
+    "FV_UNN_Descripcion": "megacoulomb por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "B70"
+  },
+  {
+    "FV_UNN_id_Unidades": 388,
+    "FV_UNN_Descripcion": "megaelectronvolt",
+    "FV_UNN_Codigo_DIAN": "B71"
+  },
+  {
+    "FV_UNN_id_Unidades": 389,
+    "FV_UNN_Descripcion": "megagramo por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "B72"
+  },
+  {
+    "FV_UNN_id_Unidades": 390,
+    "FV_UNN_Descripcion": "meganewton",
+    "FV_UNN_Codigo_DIAN": "B73"
+  },
+  {
+    "FV_UNN_id_Unidades": 391,
+    "FV_UNN_Descripcion": "medidor de meganewton",
+    "FV_UNN_Codigo_DIAN": "B74"
+  },
+  {
+    "FV_UNN_id_Unidades": 392,
+    "FV_UNN_Descripcion": "megaohm",
+    "FV_UNN_Codigo_DIAN": "B75"
+  },
+  {
+    "FV_UNN_id_Unidades": 393,
+    "FV_UNN_Descripcion": "metro megaohm",
+    "FV_UNN_Codigo_DIAN": "B76"
+  },
+  {
+    "FV_UNN_id_Unidades": 394,
+    "FV_UNN_Descripcion": "megasiemens por metro",
+    "FV_UNN_Codigo_DIAN": "B77"
+  },
+  {
+    "FV_UNN_id_Unidades": 395,
+    "FV_UNN_Descripcion": "megavoltio",
+    "FV_UNN_Codigo_DIAN": "B78"
+  },
+  {
+    "FV_UNN_id_Unidades": 396,
+    "FV_UNN_Descripcion": "megavolt por metro",
+    "FV_UNN_Codigo_DIAN": "B79"
+  },
+  {
+    "FV_UNN_id_Unidades": 397,
+    "FV_UNN_Descripcion": "julios por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "B8"
+  },
+  {
+    "FV_UNN_id_Unidades": 398,
+    "FV_UNN_Descripcion": "metro recíproco cuadrado recíproco segundo",
+    "FV_UNN_Codigo_DIAN": "B81"
+  },
+  {
+    "FV_UNN_id_Unidades": 399,
+    "FV_UNN_Descripcion": "metro a la cuarta potencia",
+    "FV_UNN_Codigo_DIAN": "B83"
+  },
+  {
+    "FV_UNN_id_Unidades": 400,
+    "FV_UNN_Descripcion": "microamperios",
+    "FV_UNN_Codigo_DIAN": "B84"
+  },
+  {
+    "FV_UNN_id_Unidades": 401,
+    "FV_UNN_Descripcion": "microbar",
+    "FV_UNN_Codigo_DIAN": "B85"
+  },
+  {
+    "FV_UNN_id_Unidades": 402,
+    "FV_UNN_Descripcion": "microcoulomb",
+    "FV_UNN_Codigo_DIAN": "B86"
+  },
+  {
+    "FV_UNN_id_Unidades": 403,
+    "FV_UNN_Descripcion": "microcoulomb por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "B87"
+  },
+  {
+    "FV_UNN_id_Unidades": 404,
+    "FV_UNN_Descripcion": "microcoulomb por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "B88"
+  },
+  {
+    "FV_UNN_id_Unidades": 405,
+    "FV_UNN_Descripcion": "microfarada por metro",
+    "FV_UNN_Codigo_DIAN": "B89"
+  },
+  {
+    "FV_UNN_id_Unidades": 406,
+    "FV_UNN_Descripcion": "B9",
+    "FV_UNN_Codigo_DIAN": "batt"
+  },
+  {
+    "FV_UNN_id_Unidades": 407,
+    "FV_UNN_Descripcion": "microhenry",
+    "FV_UNN_Codigo_DIAN": "B90"
+  },
+  {
+    "FV_UNN_id_Unidades": 408,
+    "FV_UNN_Descripcion": "microhenry por metro",
+    "FV_UNN_Codigo_DIAN": "B91"
+  },
+  {
+    "FV_UNN_id_Unidades": 409,
+    "FV_UNN_Descripcion": "micronewton",
+    "FV_UNN_Codigo_DIAN": "B92"
+  },
+  {
+    "FV_UNN_id_Unidades": 410,
+    "FV_UNN_Descripcion": "medidor de micronewton",
+    "FV_UNN_Codigo_DIAN": "B93"
+  },
+  {
+    "FV_UNN_id_Unidades": 411,
+    "FV_UNN_Descripcion": "microohm",
+    "FV_UNN_Codigo_DIAN": "B94"
+  },
+  {
+    "FV_UNN_id_Unidades": 412,
+    "FV_UNN_Descripcion": "medidor de microohmios",
+    "FV_UNN_Codigo_DIAN": "B95"
+  },
+  {
+    "FV_UNN_id_Unidades": 413,
+    "FV_UNN_Descripcion": "micropascal",
+    "FV_UNN_Codigo_DIAN": "B96"
+  },
+  {
+    "FV_UNN_id_Unidades": 414,
+    "FV_UNN_Descripcion": "microradiano",
+    "FV_UNN_Codigo_DIAN": "B97"
+  },
+  {
+    "FV_UNN_id_Unidades": 415,
+    "FV_UNN_Descripcion": "microsegundo",
+    "FV_UNN_Codigo_DIAN": "B98"
+  },
+  {
+    "FV_UNN_id_Unidades": 416,
+    "FV_UNN_Descripcion": "microsiemens",
+    "FV_UNN_Codigo_DIAN": "B99"
+  },
+  {
+    "FV_UNN_id_Unidades": 417,
+    "FV_UNN_Descripcion": "BAR",
+    "FV_UNN_Codigo_DIAN": "bar"
+  },
+  {
+    "FV_UNN_id_Unidades": 418,
+    "FV_UNN_Descripcion": "caja base",
+    "FV_UNN_Codigo_DIAN": "BB"
+  },
+  {
+    "FV_UNN_id_Unidades": 419,
+    "FV_UNN_Descripcion": "tablero",
+    "FV_UNN_Codigo_DIAN": "BD"
+  },
+  {
+    "FV_UNN_id_Unidades": 420,
+    "FV_UNN_Descripcion": "SER",
+    "FV_UNN_Codigo_DIAN": "haz"
+  },
+  {
+    "FV_UNN_id_Unidades": 421,
+    "FV_UNN_Descripcion": "pie de tabla",
+    "FV_UNN_Codigo_DIAN": "BFT"
+  },
+  {
+    "FV_UNN_id_Unidades": 422,
+    "FV_UNN_Descripcion": "bolso",
+    "FV_UNN_Codigo_DIAN": "BG"
+  },
+  {
+    "FV_UNN_id_Unidades": 423,
+    "FV_UNN_Descripcion": "cepillo",
+    "FV_UNN_Codigo_DIAN": "BH"
+  },
+  {
+    "FV_UNN_id_Unidades": 424,
+    "FV_UNN_Descripcion": "potencia al freno",
+    "FV_UNN_Codigo_DIAN": "BHP"
+  },
+  {
+    "FV_UNN_id_Unidades": 425,
+    "FV_UNN_Descripcion": "trillón de dólares",
+    "FV_UNN_Codigo_DIAN": "BIL"
+  },
+  {
+    "FV_UNN_id_Unidades": 426,
+    "FV_UNN_Descripcion": "cangilón",
+    "FV_UNN_Codigo_DIAN": "BJ"
+  },
+  {
+    "FV_UNN_id_Unidades": 427,
+    "FV_UNN_Descripcion": "cesta",
+    "FV_UNN_Codigo_DIAN": "BK"
+  },
+  {
+    "FV_UNN_id_Unidades": 428,
+    "FV_UNN_Descripcion": "BL",
+    "FV_UNN_Codigo_DIAN": "bala"
+  },
+  {
+    "FV_UNN_id_Unidades": 429,
+    "FV_UNN_Descripcion": "barril seco",
+    "FV_UNN_Codigo_DIAN": "BLD"
+  },
+  {
+    "FV_UNN_id_Unidades": 430,
+    "FV_UNN_Descripcion": "barril (EE. UU.) (petróleo, etc.)",
+    "FV_UNN_Codigo_DIAN": "BLL"
+  },
+  {
+    "FV_UNN_id_Unidades": 431,
+    "FV_UNN_Descripcion": "botella",
+    "FV_UNN_Codigo_DIAN": "BO"
+  },
+  {
+    "FV_UNN_id_Unidades": 432,
+    "FV_UNN_Descripcion": "cien pies de tabla",
+    "FV_UNN_Codigo_DIAN": "BP"
+  },
+  {
+    "FV_UNN_id_Unidades": 433,
+    "FV_UNN_Descripcion": "becquerel",
+    "FV_UNN_Codigo_DIAN": "BQL"
+  },
+  {
+    "FV_UNN_id_Unidades": 434,
+    "FV_UNN_Descripcion": "BR",
+    "FV_UNN_Codigo_DIAN": "bar"
+  },
+  {
+    "FV_UNN_id_Unidades": 435,
+    "FV_UNN_Descripcion": "tornillo",
+    "FV_UNN_Codigo_DIAN": "BT"
+  },
+  {
+    "FV_UNN_id_Unidades": 436,
+    "FV_UNN_Descripcion": "Unidad Térmica Británica",
+    "FV_UNN_Codigo_DIAN": "BTU"
+  },
+  {
+    "FV_UNN_id_Unidades": 437,
+    "FV_UNN_Descripcion": "bushel (EE. UU.)",
+    "FV_UNN_Codigo_DIAN": "BUA"
+  },
+  {
+    "FV_UNN_id_Unidades": 438,
+    "FV_UNN_Descripcion": "bushel (Reino Unido)",
+    "FV_UNN_Codigo_DIAN": "BUI"
+  },
+  {
+    "FV_UNN_id_Unidades": 439,
+    "FV_UNN_Descripcion": "peso base",
+    "FV_UNN_Codigo_DIAN": "BW"
+  },
+  {
+    "FV_UNN_id_Unidades": 440,
+    "FV_UNN_Descripcion": "BX",
+    "FV_UNN_Codigo_DIAN": "caja"
+  },
+  {
+    "FV_UNN_id_Unidades": 441,
+    "FV_UNN_Descripcion": "millones de BTUs",
+    "FV_UNN_Codigo_DIAN": "BZ"
+  },
+  {
+    "FV_UNN_id_Unidades": 442,
+    "FV_UNN_Descripcion": "llamada",
+    "FV_UNN_Codigo_DIAN": "C0"
+  },
+  {
+    "FV_UNN_id_Unidades": 443,
+    "FV_UNN_Descripcion": "producto compuesto libra (peso total)",
+    "FV_UNN_Codigo_DIAN": "C1"
+  },
+  {
+    "FV_UNN_id_Unidades": 444,
+    "FV_UNN_Descripcion": "millifarad",
+    "FV_UNN_Codigo_DIAN": "C10"
+  },
+  {
+    "FV_UNN_id_Unidades": 445,
+    "FV_UNN_Descripcion": "miligal",
+    "FV_UNN_Codigo_DIAN": "C11"
+  },
+  {
+    "FV_UNN_id_Unidades": 446,
+    "FV_UNN_Descripcion": "miligramo por metro",
+    "FV_UNN_Codigo_DIAN": "C12"
+  },
+  {
+    "FV_UNN_id_Unidades": 447,
+    "FV_UNN_Descripcion": "miligray",
+    "FV_UNN_Codigo_DIAN": "C13"
+  },
+  {
+    "FV_UNN_id_Unidades": 448,
+    "FV_UNN_Descripcion": "milihenry",
+    "FV_UNN_Codigo_DIAN": "C14"
+  },
+  {
+    "FV_UNN_id_Unidades": 449,
+    "FV_UNN_Descripcion": "milijoule",
+    "FV_UNN_Codigo_DIAN": "C15"
+  },
+  {
+    "FV_UNN_id_Unidades": 450,
+    "FV_UNN_Descripcion": "milímetro por segundo",
+    "FV_UNN_Codigo_DIAN": "C16"
+  },
+  {
+    "FV_UNN_id_Unidades": 451,
+    "FV_UNN_Descripcion": "milímetro cuadrado por segundo",
+    "FV_UNN_Codigo_DIAN": "C17"
+  },
+  {
+    "FV_UNN_id_Unidades": 452,
+    "FV_UNN_Descripcion": "milimol",
+    "FV_UNN_Codigo_DIAN": "C18"
+  },
+  {
+    "FV_UNN_id_Unidades": 453,
+    "FV_UNN_Descripcion": "mol por kilogramo",
+    "FV_UNN_Codigo_DIAN": "C19"
+  },
+  {
+    "FV_UNN_id_Unidades": 454,
+    "FV_UNN_Descripcion": "carset",
+    "FV_UNN_Codigo_DIAN": "C2"
+  },
+  {
+    "FV_UNN_id_Unidades": 455,
+    "FV_UNN_Descripcion": "millinewton",
+    "FV_UNN_Codigo_DIAN": "C20"
+  },
+  {
+    "FV_UNN_id_Unidades": 456,
+    "FV_UNN_Descripcion": "millinewton por metro",
+    "FV_UNN_Codigo_DIAN": "C22"
+  },
+  {
+    "FV_UNN_id_Unidades": 457,
+    "FV_UNN_Descripcion": "medidor de miliohm",
+    "FV_UNN_Codigo_DIAN": "C23"
+  },
+  {
+    "FV_UNN_id_Unidades": 458,
+    "FV_UNN_Descripcion": "segundo milipascal",
+    "FV_UNN_Codigo_DIAN": "C24"
+  },
+  {
+    "FV_UNN_id_Unidades": 459,
+    "FV_UNN_Descripcion": "miliradian",
+    "FV_UNN_Codigo_DIAN": "C25"
+  },
+  {
+    "FV_UNN_id_Unidades": 460,
+    "FV_UNN_Descripcion": "milisegundo",
+    "FV_UNN_Codigo_DIAN": "C26"
+  },
+  {
+    "FV_UNN_id_Unidades": 461,
+    "FV_UNN_Descripcion": "milisiemens",
+    "FV_UNN_Codigo_DIAN": "C27"
+  },
+  {
+    "FV_UNN_id_Unidades": 462,
+    "FV_UNN_Descripcion": "milisievert",
+    "FV_UNN_Codigo_DIAN": "C28"
+  },
+  {
+    "FV_UNN_id_Unidades": 463,
+    "FV_UNN_Descripcion": "millitesla",
+    "FV_UNN_Codigo_DIAN": "C29"
+  },
+  {
+    "FV_UNN_id_Unidades": 464,
+    "FV_UNN_Descripcion": "microvoltios por metro",
+    "FV_UNN_Codigo_DIAN": "C3"
+  },
+  {
+    "FV_UNN_id_Unidades": 465,
+    "FV_UNN_Descripcion": "milivoltios por metro",
+    "FV_UNN_Codigo_DIAN": "C30"
+  },
+  {
+    "FV_UNN_id_Unidades": 466,
+    "FV_UNN_Descripcion": "milivatios",
+    "FV_UNN_Codigo_DIAN": "C31"
+  },
+  {
+    "FV_UNN_id_Unidades": 467,
+    "FV_UNN_Descripcion": "milivatios por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "C32"
+  },
+  {
+    "FV_UNN_id_Unidades": 468,
+    "FV_UNN_Descripcion": "milliweber",
+    "FV_UNN_Codigo_DIAN": "C33"
+  },
+  {
+    "FV_UNN_id_Unidades": 469,
+    "FV_UNN_Descripcion": "C34",
+    "FV_UNN_Codigo_DIAN": "Topo"
+  },
+  {
+    "FV_UNN_id_Unidades": 470,
+    "FV_UNN_Descripcion": "mol por decímetro cúbico",
+    "FV_UNN_Codigo_DIAN": "C35"
+  },
+  {
+    "FV_UNN_id_Unidades": 471,
+    "FV_UNN_Descripcion": "mol por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "C36"
+  },
+  {
+    "FV_UNN_id_Unidades": 472,
+    "FV_UNN_Descripcion": "mol por litro",
+    "FV_UNN_Codigo_DIAN": "C38"
+  },
+  {
+    "FV_UNN_id_Unidades": 473,
+    "FV_UNN_Descripcion": "Nanoampere",
+    "FV_UNN_Codigo_DIAN": "C39"
+  },
+  {
+    "FV_UNN_id_Unidades": 474,
+    "FV_UNN_Descripcion": "partido de carga",
+    "FV_UNN_Codigo_DIAN": "C4"
+  },
+  {
+    "FV_UNN_id_Unidades": 475,
+    "FV_UNN_Descripcion": "nanocoulomb",
+    "FV_UNN_Codigo_DIAN": "C40"
+  },
+  {
+    "FV_UNN_id_Unidades": 476,
+    "FV_UNN_Descripcion": "nanofarad",
+    "FV_UNN_Codigo_DIAN": "C41"
+  },
+  {
+    "FV_UNN_id_Unidades": 477,
+    "FV_UNN_Descripcion": "nanofarad por metro",
+    "FV_UNN_Codigo_DIAN": "C42"
+  },
+  {
+    "FV_UNN_id_Unidades": 478,
+    "FV_UNN_Descripcion": "nanohenry",
+    "FV_UNN_Codigo_DIAN": "C43"
+  },
+  {
+    "FV_UNN_id_Unidades": 479,
+    "FV_UNN_Descripcion": "nanohenry por metro",
+    "FV_UNN_Codigo_DIAN": "C44"
+  },
+  {
+    "FV_UNN_id_Unidades": 480,
+    "FV_UNN_Descripcion": "nanometro",
+    "FV_UNN_Codigo_DIAN": "C45"
+  },
+  {
+    "FV_UNN_id_Unidades": 481,
+    "FV_UNN_Descripcion": "medidor de nanoohm",
+    "FV_UNN_Codigo_DIAN": "C46"
+  },
+  {
+    "FV_UNN_id_Unidades": 482,
+    "FV_UNN_Descripcion": "nanosegundo",
+    "FV_UNN_Codigo_DIAN": "C47"
+  },
+  {
+    "FV_UNN_id_Unidades": 483,
+    "FV_UNN_Descripcion": "nanotesla",
+    "FV_UNN_Codigo_DIAN": "C48"
+  },
+  {
+    "FV_UNN_id_Unidades": 484,
+    "FV_UNN_Descripcion": "nanovatio",
+    "FV_UNN_Codigo_DIAN": "C49"
+  },
+  {
+    "FV_UNN_id_Unidades": 485,
+    "FV_UNN_Descripcion": "costo",
+    "FV_UNN_Codigo_DIAN": "C5"
+  },
+  {
+    "FV_UNN_id_Unidades": 486,
+    "FV_UNN_Descripcion": "neper",
+    "FV_UNN_Codigo_DIAN": "C50"
+  },
+  {
+    "FV_UNN_id_Unidades": 487,
+    "FV_UNN_Descripcion": "neper por segundo",
+    "FV_UNN_Codigo_DIAN": "C51"
+  },
+  {
+    "FV_UNN_id_Unidades": 488,
+    "FV_UNN_Descripcion": "picometro",
+    "FV_UNN_Codigo_DIAN": "C52"
+  },
+  {
+    "FV_UNN_id_Unidades": 489,
+    "FV_UNN_Descripcion": "metro de newton segundo",
+    "FV_UNN_Codigo_DIAN": "C53"
+  },
+  {
+    "FV_UNN_id_Unidades": 490,
+    "FV_UNN_Descripcion": "newton metro cuadrado kilogramo cuadrado",
+    "FV_UNN_Codigo_DIAN": "C54"
+  },
+  {
+    "FV_UNN_id_Unidades": 491,
+    "FV_UNN_Descripcion": "newton por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "C55"
+  },
+  {
+    "FV_UNN_id_Unidades": 492,
+    "FV_UNN_Descripcion": "newton por milímetro cuadrado",
+    "FV_UNN_Codigo_DIAN": "C56"
+  },
+  {
+    "FV_UNN_id_Unidades": 493,
+    "FV_UNN_Descripcion": "newton segundo",
+    "FV_UNN_Codigo_DIAN": "C57"
+  },
+  {
+    "FV_UNN_id_Unidades": 494,
+    "FV_UNN_Descripcion": "newton segundo por metro",
+    "FV_UNN_Codigo_DIAN": "C58"
+  },
+  {
+    "FV_UNN_id_Unidades": 495,
+    "FV_UNN_Descripcion": "octava",
+    "FV_UNN_Codigo_DIAN": "C59"
+  },
+  {
+    "FV_UNN_id_Unidades": 496,
+    "FV_UNN_Descripcion": "célula",
+    "FV_UNN_Codigo_DIAN": "C6"
+  },
+  {
+    "FV_UNN_id_Unidades": 497,
+    "FV_UNN_Descripcion": "ohm centímetro",
+    "FV_UNN_Codigo_DIAN": "C60"
+  },
+  {
+    "FV_UNN_id_Unidades": 498,
+    "FV_UNN_Descripcion": "ohm metro",
+    "FV_UNN_Codigo_DIAN": "C61"
+  },
+  {
+    "FV_UNN_id_Unidades": 499,
+    "FV_UNN_Descripcion": "C62",
+    "FV_UNN_Codigo_DIAN": "uno"
+  },
+  {
+    "FV_UNN_id_Unidades": 500,
+    "FV_UNN_Descripcion": "parsec",
+    "FV_UNN_Codigo_DIAN": "C63"
+  },
+  {
+    "FV_UNN_id_Unidades": 501,
+    "FV_UNN_Descripcion": "pascal por kelvin",
+    "FV_UNN_Codigo_DIAN": "C64"
+  },
+  {
+    "FV_UNN_id_Unidades": 502,
+    "FV_UNN_Descripcion": "segundo pascal",
+    "FV_UNN_Codigo_DIAN": "C65"
+  },
+  {
+    "FV_UNN_id_Unidades": 503,
+    "FV_UNN_Descripcion": "segundo pascal por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "C66"
+  },
+  {
+    "FV_UNN_id_Unidades": 504,
+    "FV_UNN_Descripcion": "segundo pascal por metro",
+    "FV_UNN_Codigo_DIAN": "C67"
+  },
+  {
+    "FV_UNN_id_Unidades": 505,
+    "FV_UNN_Descripcion": "petajoule",
+    "FV_UNN_Codigo_DIAN": "C68"
+  },
+  {
+    "FV_UNN_id_Unidades": 506,
+    "FV_UNN_Descripcion": "telefono",
+    "FV_UNN_Codigo_DIAN": "C69"
+  },
+  {
+    "FV_UNN_id_Unidades": 507,
+    "FV_UNN_Descripcion": "centipoise",
+    "FV_UNN_Codigo_DIAN": "C7"
+  },
+  {
+    "FV_UNN_id_Unidades": 508,
+    "FV_UNN_Descripcion": "picoampere",
+    "FV_UNN_Codigo_DIAN": "C70"
+  },
+  {
+    "FV_UNN_id_Unidades": 509,
+    "FV_UNN_Descripcion": "picocoulomb",
+    "FV_UNN_Codigo_DIAN": "C71"
+  },
+  {
+    "FV_UNN_id_Unidades": 510,
+    "FV_UNN_Descripcion": "picofarad por metro",
+    "FV_UNN_Codigo_DIAN": "C72"
+  },
+  {
+    "FV_UNN_id_Unidades": 511,
+    "FV_UNN_Descripcion": "picohenry",
+    "FV_UNN_Codigo_DIAN": "C73"
+  },
+  {
+    "FV_UNN_id_Unidades": 512,
+    "FV_UNN_Descripcion": "picowatt",
+    "FV_UNN_Codigo_DIAN": "C75"
+  },
+  {
+    "FV_UNN_id_Unidades": 513,
+    "FV_UNN_Descripcion": "picowatt por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "C76"
+  },
+  {
+    "FV_UNN_id_Unidades": 514,
+    "FV_UNN_Descripcion": "medidor de libras",
+    "FV_UNN_Codigo_DIAN": "C77"
+  },
+  {
+    "FV_UNN_id_Unidades": 515,
+    "FV_UNN_Descripcion": "fuerza de libra",
+    "FV_UNN_Codigo_DIAN": "C78"
+  },
+  {
+    "FV_UNN_id_Unidades": 516,
+    "FV_UNN_Descripcion": "Millicoulomb por kilogramo",
+    "FV_UNN_Codigo_DIAN": "C8"
+  },
+  {
+    "FV_UNN_id_Unidades": 517,
+    "FV_UNN_Descripcion": "C80",
+    "FV_UNN_Codigo_DIAN": "rad"
+  },
+  {
+    "FV_UNN_id_Unidades": 518,
+    "FV_UNN_Descripcion": "radián",
+    "FV_UNN_Codigo_DIAN": "C81"
+  },
+  {
+    "FV_UNN_id_Unidades": 519,
+    "FV_UNN_Descripcion": "medidor de radianes al cuadrado por mol",
+    "FV_UNN_Codigo_DIAN": "C82"
+  },
+  {
+    "FV_UNN_id_Unidades": 520,
+    "FV_UNN_Descripcion": "medidor de radianes al cuadrado por kilogramo",
+    "FV_UNN_Codigo_DIAN": "C83"
+  },
+  {
+    "FV_UNN_id_Unidades": 521,
+    "FV_UNN_Descripcion": "radian por metro",
+    "FV_UNN_Codigo_DIAN": "C84"
+  },
+  {
+    "FV_UNN_id_Unidades": 522,
+    "FV_UNN_Descripcion": "â € ngstr recíproco “m",
+    "FV_UNN_Codigo_DIAN": "C85"
+  },
+  {
+    "FV_UNN_id_Unidades": 523,
+    "FV_UNN_Descripcion": "metro cúbico recíproco",
+    "FV_UNN_Codigo_DIAN": "C86"
+  },
+  {
+    "FV_UNN_id_Unidades": 524,
+    "FV_UNN_Descripcion": "metro cúbico recíproco por segundo",
+    "FV_UNN_Codigo_DIAN": "C87"
+  },
+  {
+    "FV_UNN_id_Unidades": 525,
+    "FV_UNN_Descripcion": "voltios de electrones recíprocos por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "C88"
+  },
+  {
+    "FV_UNN_id_Unidades": 526,
+    "FV_UNN_Descripcion": "Henry Recíproco",
+    "FV_UNN_Codigo_DIAN": "C89"
+  },
+  {
+    "FV_UNN_id_Unidades": 527,
+    "FV_UNN_Descripcion": "grupo de bobina",
+    "FV_UNN_Codigo_DIAN": "C9"
+  },
+  {
+    "FV_UNN_id_Unidades": 528,
+    "FV_UNN_Descripcion": "Joule recíproco por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "C90"
+  },
+  {
+    "FV_UNN_id_Unidades": 529,
+    "FV_UNN_Descripcion": "kelvin recíproco o kelvin al poder menos uno",
+    "FV_UNN_Codigo_DIAN": "C91"
+  },
+  {
+    "FV_UNN_id_Unidades": 530,
+    "FV_UNN_Descripcion": "medidor recíproco",
+    "FV_UNN_Codigo_DIAN": "C92"
+  },
+  {
+    "FV_UNN_id_Unidades": 531,
+    "FV_UNN_Descripcion": "metro cuadrado recíproco",
+    "FV_UNN_Codigo_DIAN": "C93"
+  },
+  {
+    "FV_UNN_id_Unidades": 532,
+    "FV_UNN_Descripcion": "minuto recíproco",
+    "FV_UNN_Codigo_DIAN": "C94"
+  },
+  {
+    "FV_UNN_id_Unidades": 533,
+    "FV_UNN_Descripcion": "mole recíproco",
+    "FV_UNN_Codigo_DIAN": "C95"
+  },
+  {
+    "FV_UNN_id_Unidades": 534,
+    "FV_UNN_Descripcion": "Pascal recíproco o pascal a la potencia menos uno.",
+    "FV_UNN_Codigo_DIAN": "C96"
+  },
+  {
+    "FV_UNN_id_Unidades": 535,
+    "FV_UNN_Descripcion": "segundo recíproco",
+    "FV_UNN_Codigo_DIAN": "C97"
+  },
+  {
+    "FV_UNN_id_Unidades": 536,
+    "FV_UNN_Descripcion": "segundo recíproco por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "C98"
+  },
+  {
+    "FV_UNN_id_Unidades": 537,
+    "FV_UNN_Descripcion": "segundo recíproco por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "C99"
+  },
+  {
+    "FV_UNN_id_Unidades": 538,
+    "FV_UNN_Descripcion": "CA",
+    "FV_UNN_Codigo_DIAN": "Caja"
+  },
+  {
+    "FV_UNN_id_Unidades": 539,
+    "FV_UNN_Descripcion": "Capacidad de carga en toneladas métricas.",
+    "FV_UNN_Codigo_DIAN": "CCT"
+  },
+  {
+    "FV_UNN_id_Unidades": 540,
+    "FV_UNN_Descripcion": "candela",
+    "FV_UNN_Codigo_DIAN": "CDL"
+  },
+  {
+    "FV_UNN_id_Unidades": 541,
+    "FV_UNN_Descripcion": "grado Celsius",
+    "FV_UNN_Codigo_DIAN": "CEL"
+  },
+  {
+    "FV_UNN_id_Unidades": 542,
+    "FV_UNN_Descripcion": "CEN",
+    "FV_UNN_Codigo_DIAN": "cien"
+  },
+  {
+    "FV_UNN_id_Unidades": 543,
+    "FV_UNN_Descripcion": "tarjeta",
+    "FV_UNN_Codigo_DIAN": "CG"
+  },
+  {
+    "FV_UNN_id_Unidades": 544,
+    "FV_UNN_Descripcion": "centigramo",
+    "FV_UNN_Codigo_DIAN": "CGM"
+  },
+  {
+    "FV_UNN_id_Unidades": 545,
+    "FV_UNN_Descripcion": "envase",
+    "FV_UNN_Codigo_DIAN": "CH"
+  },
+  {
+    "FV_UNN_id_Unidades": 546,
+    "FV_UNN_Descripcion": "CJ",
+    "FV_UNN_Codigo_DIAN": "cono"
+  },
+  {
+    "FV_UNN_id_Unidades": 547,
+    "FV_UNN_Descripcion": "conector",
+    "FV_UNN_Codigo_DIAN": "CK"
+  },
+  {
+    "FV_UNN_id_Unidades": 548,
+    "FV_UNN_Descripcion": "Coulomb por kilogramo",
+    "FV_UNN_Codigo_DIAN": "CKG"
+  },
+  {
+    "FV_UNN_id_Unidades": 549,
+    "FV_UNN_Descripcion": "bobina",
+    "FV_UNN_Codigo_DIAN": "CL"
+  },
+  {
+    "FV_UNN_id_Unidades": 550,
+    "FV_UNN_Descripcion": "cientos de licencia",
+    "FV_UNN_Codigo_DIAN": "CLF"
+  },
+  {
+    "FV_UNN_id_Unidades": 551,
+    "FV_UNN_Descripcion": "centilitro",
+    "FV_UNN_Codigo_DIAN": "CLT"
+  },
+  {
+    "FV_UNN_id_Unidades": 552,
+    "FV_UNN_Descripcion": "centímetro cuadrado",
+    "FV_UNN_Codigo_DIAN": "CMK"
+  },
+  {
+    "FV_UNN_id_Unidades": 553,
+    "FV_UNN_Descripcion": "centímetro cúbico",
+    "FV_UNN_Codigo_DIAN": "CMQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 554,
+    "FV_UNN_Descripcion": "centímetro",
+    "FV_UNN_Codigo_DIAN": "CMT"
+  },
+  {
+    "FV_UNN_id_Unidades": 555,
+    "FV_UNN_Descripcion": "paquete de cien",
+    "FV_UNN_Codigo_DIAN": "CNP"
+  },
+  {
+    "FV_UNN_id_Unidades": 556,
+    "FV_UNN_Descripcion": "Cental (Reino Unido)",
+    "FV_UNN_Codigo_DIAN": "CNT"
+  },
+  {
+    "FV_UNN_id_Unidades": 557,
+    "FV_UNN_Descripcion": "garrafón",
+    "FV_UNN_Codigo_DIAN": "CO"
+  },
+  {
+    "FV_UNN_id_Unidades": 558,
+    "FV_UNN_Descripcion": "culombio",
+    "FV_UNN_Codigo_DIAN": "COU"
+  },
+  {
+    "FV_UNN_id_Unidades": 559,
+    "FV_UNN_Descripcion": "cartucho",
+    "FV_UNN_Codigo_DIAN": "CQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 560,
+    "FV_UNN_Descripcion": "CR",
+    "FV_UNN_Codigo_DIAN": "caja"
+  },
+  {
+    "FV_UNN_id_Unidades": 561,
+    "FV_UNN_Descripcion": "CS",
+    "FV_UNN_Codigo_DIAN": "caso"
+  },
+  {
+    "FV_UNN_id_Unidades": 562,
+    "FV_UNN_Descripcion": "caja de cartón",
+    "FV_UNN_Codigo_DIAN": "CT"
+  },
+  {
+    "FV_UNN_id_Unidades": 563,
+    "FV_UNN_Descripcion": "quilate métrico",
+    "FV_UNN_Codigo_DIAN": "CTM"
+  },
+  {
+    "FV_UNN_id_Unidades": 564,
+    "FV_UNN_Descripcion": "CU",
+    "FV_UNN_Codigo_DIAN": "vaso"
+  },
+  {
+    "FV_UNN_id_Unidades": 565,
+    "FV_UNN_Descripcion": "curie",
+    "FV_UNN_Codigo_DIAN": "CUR"
+  },
+  {
+    "FV_UNN_id_Unidades": 566,
+    "FV_UNN_Descripcion": "cubrir",
+    "FV_UNN_Codigo_DIAN": "CV"
+  },
+  {
+    "FV_UNN_id_Unidades": 567,
+    "FV_UNN_Descripcion": "cien libras (quintales) / cien pesos (US)",
+    "FV_UNN_Codigo_DIAN": "CWA"
+  },
+  {
+    "FV_UNN_id_Unidades": 568,
+    "FV_UNN_Descripcion": "cien pesos (Reino Unido)",
+    "FV_UNN_Codigo_DIAN": "CWI"
+  },
+  {
+    "FV_UNN_id_Unidades": 569,
+    "FV_UNN_Descripcion": "cilindro",
+    "FV_UNN_Codigo_DIAN": "CY"
+  },
+  {
+    "FV_UNN_id_Unidades": 570,
+    "FV_UNN_Descripcion": "combo",
+    "FV_UNN_Codigo_DIAN": "CZ"
+  },
+  {
+    "FV_UNN_id_Unidades": 571,
+    "FV_UNN_Descripcion": "segundo recíproco por esteradiano",
+    "FV_UNN_Codigo_DIAN": "D1"
+  },
+  {
+    "FV_UNN_id_Unidades": 572,
+    "FV_UNN_Descripcion": "siemens por metro",
+    "FV_UNN_Codigo_DIAN": "D10"
+  },
+  {
+    "FV_UNN_id_Unidades": 573,
+    "FV_UNN_Descripcion": "siemens metro cuadrado por mol",
+    "FV_UNN_Codigo_DIAN": "D12"
+  },
+  {
+    "FV_UNN_id_Unidades": 574,
+    "FV_UNN_Descripcion": "sievert",
+    "FV_UNN_Codigo_DIAN": "D13"
+  },
+  {
+    "FV_UNN_id_Unidades": 575,
+    "FV_UNN_Descripcion": "mil yardas lineales",
+    "FV_UNN_Codigo_DIAN": "D14"
+  },
+  {
+    "FV_UNN_id_Unidades": 576,
+    "FV_UNN_Descripcion": "D15",
+    "FV_UNN_Codigo_DIAN": "sone"
+  },
+  {
+    "FV_UNN_id_Unidades": 577,
+    "FV_UNN_Descripcion": "centímetro cuadrado por ergio",
+    "FV_UNN_Codigo_DIAN": "D16"
+  },
+  {
+    "FV_UNN_id_Unidades": 578,
+    "FV_UNN_Descripcion": "centímetro cuadrado por erg esterlina",
+    "FV_UNN_Codigo_DIAN": "D17"
+  },
+  {
+    "FV_UNN_id_Unidades": 579,
+    "FV_UNN_Descripcion": "metro kelvin",
+    "FV_UNN_Codigo_DIAN": "D18"
+  },
+  {
+    "FV_UNN_id_Unidades": 580,
+    "FV_UNN_Descripcion": "kelvin metro cuadrado por vatio",
+    "FV_UNN_Codigo_DIAN": "D19"
+  },
+  {
+    "FV_UNN_id_Unidades": 581,
+    "FV_UNN_Descripcion": "segundo recíproco por metros cuadrados esteradianos",
+    "FV_UNN_Codigo_DIAN": "D2"
+  },
+  {
+    "FV_UNN_id_Unidades": 582,
+    "FV_UNN_Descripcion": "metro cuadrado por julio",
+    "FV_UNN_Codigo_DIAN": "D20"
+  },
+  {
+    "FV_UNN_id_Unidades": 583,
+    "FV_UNN_Descripcion": "metro cuadrado por kilogramo",
+    "FV_UNN_Codigo_DIAN": "D21"
+  },
+  {
+    "FV_UNN_id_Unidades": 584,
+    "FV_UNN_Descripcion": "metro cuadrado por mol",
+    "FV_UNN_Codigo_DIAN": "D22"
+  },
+  {
+    "FV_UNN_id_Unidades": 585,
+    "FV_UNN_Descripcion": "pluma gramo (proteína)",
+    "FV_UNN_Codigo_DIAN": "D23"
+  },
+  {
+    "FV_UNN_id_Unidades": 586,
+    "FV_UNN_Descripcion": "metro cuadrado por esterilizador",
+    "FV_UNN_Codigo_DIAN": "D24"
+  },
+  {
+    "FV_UNN_id_Unidades": 587,
+    "FV_UNN_Descripcion": "metro cuadrado por julios esteradianos",
+    "FV_UNN_Codigo_DIAN": "D25"
+  },
+  {
+    "FV_UNN_id_Unidades": 588,
+    "FV_UNN_Descripcion": "metro cuadrado por voltio segundo",
+    "FV_UNN_Codigo_DIAN": "D26"
+  },
+  {
+    "FV_UNN_id_Unidades": 589,
+    "FV_UNN_Descripcion": "esteradiano",
+    "FV_UNN_Codigo_DIAN": "D27"
+  },
+  {
+    "FV_UNN_id_Unidades": 590,
+    "FV_UNN_Descripcion": "sifón",
+    "FV_UNN_Codigo_DIAN": "D28"
+  },
+  {
+    "FV_UNN_id_Unidades": 591,
+    "FV_UNN_Descripcion": "terahercios",
+    "FV_UNN_Codigo_DIAN": "D29"
+  },
+  {
+    "FV_UNN_id_Unidades": 592,
+    "FV_UNN_Descripcion": "terajulio",
+    "FV_UNN_Codigo_DIAN": "D30"
+  },
+  {
+    "FV_UNN_id_Unidades": 593,
+    "FV_UNN_Descripcion": "teravatio",
+    "FV_UNN_Codigo_DIAN": "D31"
+  },
+  {
+    "FV_UNN_id_Unidades": 594,
+    "FV_UNN_Descripcion": "hora de teravatio",
+    "FV_UNN_Codigo_DIAN": "D32"
+  },
+  {
+    "FV_UNN_id_Unidades": 595,
+    "FV_UNN_Descripcion": "tesla",
+    "FV_UNN_Codigo_DIAN": "D33"
+  },
+  {
+    "FV_UNN_id_Unidades": 596,
+    "FV_UNN_Descripcion": "Texas",
+    "FV_UNN_Codigo_DIAN": "D34"
+  },
+  {
+    "FV_UNN_id_Unidades": 597,
+    "FV_UNN_Descripcion": "caloría termoquímica",
+    "FV_UNN_Codigo_DIAN": "D35"
+  },
+  {
+    "FV_UNN_id_Unidades": 598,
+    "FV_UNN_Descripcion": "caloría termoquímica por gramo kelvin",
+    "FV_UNN_Codigo_DIAN": "D37"
+  },
+  {
+    "FV_UNN_id_Unidades": 599,
+    "FV_UNN_Descripcion": "calorías termoquímicas por segundo centímetro kelvin",
+    "FV_UNN_Codigo_DIAN": "D38"
+  },
+  {
+    "FV_UNN_id_Unidades": 600,
+    "FV_UNN_Descripcion": "calorías termoquímicas por segundo centímetro cuadrado kelvin",
+    "FV_UNN_Codigo_DIAN": "D39"
+  },
+  {
+    "FV_UNN_id_Unidades": 601,
+    "FV_UNN_Descripcion": "mil litros",
+    "FV_UNN_Codigo_DIAN": "D40"
+  },
+  {
+    "FV_UNN_id_Unidades": 602,
+    "FV_UNN_Descripcion": "tonelada por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "D41"
+  },
+  {
+    "FV_UNN_id_Unidades": 603,
+    "FV_UNN_Descripcion": "año tropical",
+    "FV_UNN_Codigo_DIAN": "D42"
+  },
+  {
+    "FV_UNN_id_Unidades": 604,
+    "FV_UNN_Descripcion": "unidad de masa atómica unificada",
+    "FV_UNN_Codigo_DIAN": "D43"
+  },
+  {
+    "FV_UNN_id_Unidades": 605,
+    "FV_UNN_Descripcion": "D44",
+    "FV_UNN_Codigo_DIAN": "var"
+  },
+  {
+    "FV_UNN_id_Unidades": 606,
+    "FV_UNN_Descripcion": "voltios al cuadrado por kelvin al cuadrado",
+    "FV_UNN_Codigo_DIAN": "D45"
+  },
+  {
+    "FV_UNN_id_Unidades": 607,
+    "FV_UNN_Descripcion": "voltio – amperio",
+    "FV_UNN_Codigo_DIAN": "D46"
+  },
+  {
+    "FV_UNN_id_Unidades": 608,
+    "FV_UNN_Descripcion": "voltio por centímetro",
+    "FV_UNN_Codigo_DIAN": "D47"
+  },
+  {
+    "FV_UNN_id_Unidades": 609,
+    "FV_UNN_Descripcion": "voltio por kelvin",
+    "FV_UNN_Codigo_DIAN": "D48"
+  },
+  {
+    "FV_UNN_id_Unidades": 610,
+    "FV_UNN_Descripcion": "milivoltios por kelvin",
+    "FV_UNN_Codigo_DIAN": "D49"
+  },
+  {
+    "FV_UNN_id_Unidades": 611,
+    "FV_UNN_Descripcion": "kilogramo por centímetro cuadrado",
+    "FV_UNN_Codigo_DIAN": "D5"
+  },
+  {
+    "FV_UNN_id_Unidades": 612,
+    "FV_UNN_Descripcion": "voltios por metro",
+    "FV_UNN_Codigo_DIAN": "D50"
+  },
+  {
+    "FV_UNN_id_Unidades": 613,
+    "FV_UNN_Descripcion": "voltios por milímetro",
+    "FV_UNN_Codigo_DIAN": "D51"
+  },
+  {
+    "FV_UNN_id_Unidades": 614,
+    "FV_UNN_Descripcion": "vatios por kelvin",
+    "FV_UNN_Codigo_DIAN": "D52"
+  },
+  {
+    "FV_UNN_id_Unidades": 615,
+    "FV_UNN_Descripcion": "vatios por metro kelvin",
+    "FV_UNN_Codigo_DIAN": "D53"
+  },
+  {
+    "FV_UNN_id_Unidades": 616,
+    "FV_UNN_Descripcion": "vatios por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "D54"
+  },
+  {
+    "FV_UNN_id_Unidades": 617,
+    "FV_UNN_Descripcion": "vatios por metro cuadrado kelvin",
+    "FV_UNN_Codigo_DIAN": "D55"
+  },
+  {
+    "FV_UNN_id_Unidades": 618,
+    "FV_UNN_Descripcion": "vatios por metro cuadrado de kelvin a la cuarta potencia",
+    "FV_UNN_Codigo_DIAN": "D56"
+  },
+  {
+    "FV_UNN_id_Unidades": 619,
+    "FV_UNN_Descripcion": "vatios por steradian",
+    "FV_UNN_Codigo_DIAN": "D57"
+  },
+  {
+    "FV_UNN_id_Unidades": 620,
+    "FV_UNN_Descripcion": "vatios por metro cuadrado esterlino",
+    "FV_UNN_Codigo_DIAN": "D58"
+  },
+  {
+    "FV_UNN_id_Unidades": 621,
+    "FV_UNN_Descripcion": "weber por metro",
+    "FV_UNN_Codigo_DIAN": "D59"
+  },
+  {
+    "FV_UNN_id_Unidades": 622,
+    "FV_UNN_Descripcion": "röntgen por segundo",
+    "FV_UNN_Codigo_DIAN": "D6"
+  },
+  {
+    "FV_UNN_id_Unidades": 623,
+    "FV_UNN_Descripcion": "weber por milímetro",
+    "FV_UNN_Codigo_DIAN": "D60"
+  },
+  {
+    "FV_UNN_id_Unidades": 624,
+    "FV_UNN_Descripcion": "minuto",
+    "FV_UNN_Codigo_DIAN": "D61"
+  },
+  {
+    "FV_UNN_id_Unidades": 625,
+    "FV_UNN_Descripcion": "segundo",
+    "FV_UNN_Codigo_DIAN": "D62"
+  },
+  {
+    "FV_UNN_id_Unidades": 626,
+    "FV_UNN_Descripcion": "libro",
+    "FV_UNN_Codigo_DIAN": "D63"
+  },
+  {
+    "FV_UNN_id_Unidades": 627,
+    "FV_UNN_Descripcion": "bloquear",
+    "FV_UNN_Codigo_DIAN": "D64"
+  },
+  {
+    "FV_UNN_id_Unidades": 628,
+    "FV_UNN_Descripcion": "redondo",
+    "FV_UNN_Codigo_DIAN": "D65"
+  },
+  {
+    "FV_UNN_id_Unidades": 629,
+    "FV_UNN_Descripcion": "casete",
+    "FV_UNN_Codigo_DIAN": "D66"
+  },
+  {
+    "FV_UNN_id_Unidades": 630,
+    "FV_UNN_Descripcion": "dólar por hora",
+    "FV_UNN_Codigo_DIAN": "D67"
+  },
+  {
+    "FV_UNN_id_Unidades": 631,
+    "FV_UNN_Descripcion": "pulgada a la cuarta potencia",
+    "FV_UNN_Codigo_DIAN": "D69"
+  },
+  {
+    "FV_UNN_id_Unidades": 632,
+    "FV_UNN_Descripcion": "Sandwich",
+    "FV_UNN_Codigo_DIAN": "D7"
+  },
+  {
+    "FV_UNN_id_Unidades": 633,
+    "FV_UNN_Descripcion": "Tabla Internacional (IT) caloría",
+    "FV_UNN_Codigo_DIAN": "D70"
+  },
+  {
+    "FV_UNN_id_Unidades": 634,
+    "FV_UNN_Descripcion": "Tabla Internacional (IT) calorías por segundo centímetro kelvin",
+    "FV_UNN_Codigo_DIAN": "D71"
+  },
+  {
+    "FV_UNN_id_Unidades": 635,
+    "FV_UNN_Descripcion": "Tabla Internacional (IT) calorías por segundo centímetro cuadrado kelvin",
+    "FV_UNN_Codigo_DIAN": "D72"
+  },
+  {
+    "FV_UNN_id_Unidades": 636,
+    "FV_UNN_Descripcion": "joule metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "D73"
+  },
+  {
+    "FV_UNN_id_Unidades": 637,
+    "FV_UNN_Descripcion": "kilogramo por mol",
+    "FV_UNN_Codigo_DIAN": "D74"
+  },
+  {
+    "FV_UNN_id_Unidades": 638,
+    "FV_UNN_Descripcion": "Tabla Internacional (IT) calorías por gramo",
+    "FV_UNN_Codigo_DIAN": "D75"
+  },
+  {
+    "FV_UNN_id_Unidades": 639,
+    "FV_UNN_Descripcion": "Tabla Internacional (IT) calorías por gramo kelvin",
+    "FV_UNN_Codigo_DIAN": "D76"
+  },
+  {
+    "FV_UNN_id_Unidades": 640,
+    "FV_UNN_Descripcion": "megacoulomb",
+    "FV_UNN_Codigo_DIAN": "D77"
+  },
+  {
+    "FV_UNN_id_Unidades": 641,
+    "FV_UNN_Descripcion": "D79",
+    "FV_UNN_Codigo_DIAN": "haz"
+  },
+  {
+    "FV_UNN_id_Unidades": 642,
+    "FV_UNN_Descripcion": "puntaje de drenaje",
+    "FV_UNN_Codigo_DIAN": "D8"
+  },
+  {
+    "FV_UNN_id_Unidades": 643,
+    "FV_UNN_Descripcion": "microwatt",
+    "FV_UNN_Codigo_DIAN": "D80"
+  },
+  {
+    "FV_UNN_id_Unidades": 644,
+    "FV_UNN_Descripcion": "microtesla",
+    "FV_UNN_Codigo_DIAN": "D81"
+  },
+  {
+    "FV_UNN_id_Unidades": 645,
+    "FV_UNN_Descripcion": "microvoltio",
+    "FV_UNN_Codigo_DIAN": "D82"
+  },
+  {
+    "FV_UNN_id_Unidades": 646,
+    "FV_UNN_Descripcion": "medidor de millinewton",
+    "FV_UNN_Codigo_DIAN": "D83"
+  },
+  {
+    "FV_UNN_id_Unidades": 647,
+    "FV_UNN_Descripcion": "microwatt por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "D85"
+  },
+  {
+    "FV_UNN_id_Unidades": 648,
+    "FV_UNN_Descripcion": "Millicoulomb",
+    "FV_UNN_Codigo_DIAN": "D86"
+  },
+  {
+    "FV_UNN_id_Unidades": 649,
+    "FV_UNN_Descripcion": "milimol por kilogramo",
+    "FV_UNN_Codigo_DIAN": "D87"
+  },
+  {
+    "FV_UNN_id_Unidades": 650,
+    "FV_UNN_Descripcion": "millicoulomb por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "D88"
+  },
+  {
+    "FV_UNN_id_Unidades": 651,
+    "FV_UNN_Descripcion": "millicoulomb por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "D89"
+  },
+  {
+    "FV_UNN_id_Unidades": 652,
+    "FV_UNN_Descripcion": "dina por centímetro cuadrado",
+    "FV_UNN_Codigo_DIAN": "D9"
+  },
+  {
+    "FV_UNN_id_Unidades": 653,
+    "FV_UNN_Descripcion": "metro cúbico (neto)",
+    "FV_UNN_Codigo_DIAN": "D90"
+  },
+  {
+    "FV_UNN_id_Unidades": 654,
+    "FV_UNN_Descripcion": "movimiento rápido del ojo",
+    "FV_UNN_Codigo_DIAN": "D91"
+  },
+  {
+    "FV_UNN_id_Unidades": 655,
+    "FV_UNN_Descripcion": "banda",
+    "FV_UNN_Codigo_DIAN": "D92"
+  },
+  {
+    "FV_UNN_id_Unidades": 656,
+    "FV_UNN_Descripcion": "segundo por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "D93"
+  },
+  {
+    "FV_UNN_id_Unidades": 657,
+    "FV_UNN_Descripcion": "segundo por metro cúbico radianes",
+    "FV_UNN_Codigo_DIAN": "D94"
+  },
+  {
+    "FV_UNN_id_Unidades": 658,
+    "FV_UNN_Descripcion": "julios por gramo",
+    "FV_UNN_Codigo_DIAN": "D95"
+  },
+  {
+    "FV_UNN_id_Unidades": 659,
+    "FV_UNN_Descripcion": "libra bruta",
+    "FV_UNN_Codigo_DIAN": "D96"
+  },
+  {
+    "FV_UNN_id_Unidades": 660,
+    "FV_UNN_Descripcion": "carga de palet / unidad",
+    "FV_UNN_Codigo_DIAN": "D97"
+  },
+  {
+    "FV_UNN_id_Unidades": 661,
+    "FV_UNN_Descripcion": "libra de masa",
+    "FV_UNN_Codigo_DIAN": "D98"
+  },
+  {
+    "FV_UNN_id_Unidades": 662,
+    "FV_UNN_Descripcion": "manga",
+    "FV_UNN_Codigo_DIAN": "D99"
+  },
+  {
+    "FV_UNN_id_Unidades": 663,
+    "FV_UNN_Descripcion": "despreciar",
+    "FV_UNN_Codigo_DIAN": "DAA"
+  },
+  {
+    "FV_UNN_id_Unidades": 664,
+    "FV_UNN_Descripcion": "diez dias",
+    "FV_UNN_Codigo_DIAN": "DAD"
+  },
+  {
+    "FV_UNN_id_Unidades": 665,
+    "FV_UNN_Descripcion": "DAY",
+    "FV_UNN_Codigo_DIAN": "día"
+  },
+  {
+    "FV_UNN_id_Unidades": 666,
+    "FV_UNN_Descripcion": "libra seca",
+    "FV_UNN_Codigo_DIAN": "DB"
+  },
+  {
+    "FV_UNN_id_Unidades": 667,
+    "FV_UNN_Descripcion": "disco",
+    "FV_UNN_Codigo_DIAN": "DC"
+  },
+  {
+    "FV_UNN_id_Unidades": 668,
+    "FV_UNN_Descripcion": "la licenciatura",
+    "FV_UNN_Codigo_DIAN": "DD"
+  },
+  {
+    "FV_UNN_id_Unidades": 669,
+    "FV_UNN_Descripcion": "acuerdo",
+    "FV_UNN_Codigo_DIAN": "DE"
+  },
+  {
+    "FV_UNN_id_Unidades": 670,
+    "FV_UNN_Descripcion": "década",
+    "FV_UNN_Codigo_DIAN": "DEC"
+  },
+  {
+    "FV_UNN_id_Unidades": 671,
+    "FV_UNN_Descripcion": "decigramo",
+    "FV_UNN_Codigo_DIAN": "DG"
+  },
+  {
+    "FV_UNN_id_Unidades": 672,
+    "FV_UNN_Descripcion": "dispensador",
+    "FV_UNN_Codigo_DIAN": "DI"
+  },
+  {
+    "FV_UNN_id_Unidades": 673,
+    "FV_UNN_Descripcion": "decagramo",
+    "FV_UNN_Codigo_DIAN": "DJ"
+  },
+  {
+    "FV_UNN_id_Unidades": 674,
+    "FV_UNN_Descripcion": "decilitro",
+    "FV_UNN_Codigo_DIAN": "DLT"
+  },
+  {
+    "FV_UNN_id_Unidades": 675,
+    "FV_UNN_Descripcion": "263nformaci cuadrado",
+    "FV_UNN_Codigo_DIAN": "DMK"
+  },
+  {
+    "FV_UNN_id_Unidades": 676,
+    "FV_UNN_Descripcion": "decímetro cúbico",
+    "FV_UNN_Codigo_DIAN": "DMQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 677,
+    "FV_UNN_Descripcion": "decímetro",
+    "FV_UNN_Codigo_DIAN": "DMT"
+  },
+  {
+    "FV_UNN_id_Unidades": 678,
+    "FV_UNN_Descripcion": "medidor de decinewton",
+    "FV_UNN_Codigo_DIAN": "DN"
+  },
+  {
+    "FV_UNN_id_Unidades": 679,
+    "FV_UNN_Descripcion": "docena pieza",
+    "FV_UNN_Codigo_DIAN": "DPC"
+  },
+  {
+    "FV_UNN_id_Unidades": 680,
+    "FV_UNN_Descripcion": "docena par",
+    "FV_UNN_Codigo_DIAN": "DPR"
+  },
+  {
+    "FV_UNN_id_Unidades": 681,
+    "FV_UNN_Descripcion": "tonelaje de desplazamiento",
+    "FV_UNN_Codigo_DIAN": "DPT"
+  },
+  {
+    "FV_UNN_id_Unidades": 682,
+    "FV_UNN_Descripcion": "registro de datos",
+    "FV_UNN_Codigo_DIAN": "DQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 683,
+    "FV_UNN_Descripcion": "tambor",
+    "FV_UNN_Codigo_DIAN": "DR"
+  },
+  {
+    "FV_UNN_id_Unidades": 684,
+    "FV_UNN_Descripcion": "dram (US)",
+    "FV_UNN_Codigo_DIAN": "DRA"
+  },
+  {
+    "FV_UNN_id_Unidades": 685,
+    "FV_UNN_Descripcion": "dram (Reino Unido)",
+    "FV_UNN_Codigo_DIAN": "DRI"
+  },
+  {
+    "FV_UNN_id_Unidades": 686,
+    "FV_UNN_Descripcion": "docena rollo",
+    "FV_UNN_Codigo_DIAN": "DRL"
+  },
+  {
+    "FV_UNN_id_Unidades": 687,
+    "FV_UNN_Descripcion": "dracma (Reino Unido)",
+    "FV_UNN_Codigo_DIAN": "DRM"
+  },
+  {
+    "FV_UNN_id_Unidades": 688,
+    "FV_UNN_Descripcion": "monitor",
+    "FV_UNN_Codigo_DIAN": "DS"
+  },
+  {
+    "FV_UNN_id_Unidades": 689,
+    "FV_UNN_Descripcion": "tonelada seca",
+    "FV_UNN_Codigo_DIAN": "DT"
+  },
+  {
+    "FV_UNN_id_Unidades": 690,
+    "FV_UNN_Descripcion": "Decitonne",
+    "FV_UNN_Codigo_DIAN": "DTN"
+  },
+  {
+    "FV_UNN_id_Unidades": 691,
+    "FV_UNN_Descripcion": "DU",
+    "FV_UNN_Codigo_DIAN": "dina"
+  },
+  {
+    "FV_UNN_id_Unidades": 692,
+    "FV_UNN_Descripcion": "pennyweight",
+    "FV_UNN_Codigo_DIAN": "DWT"
+  },
+  {
+    "FV_UNN_id_Unidades": 693,
+    "FV_UNN_Descripcion": "dina por centímetro",
+    "FV_UNN_Codigo_DIAN": "DX"
+  },
+  {
+    "FV_UNN_id_Unidades": 694,
+    "FV_UNN_Descripcion": "libro de directorio",
+    "FV_UNN_Codigo_DIAN": "DY"
+  },
+  {
+    "FV_UNN_id_Unidades": 695,
+    "FV_UNN_Descripcion": "docena",
+    "FV_UNN_Codigo_DIAN": "DZN"
+  },
+  {
+    "FV_UNN_id_Unidades": 696,
+    "FV_UNN_Descripcion": "paquete de doce",
+    "FV_UNN_Codigo_DIAN": "DZP"
+  },
+  {
+    "FV_UNN_id_Unidades": 697,
+    "FV_UNN_Descripcion": "cinturón",
+    "FV_UNN_Codigo_DIAN": "E2"
+  },
+  {
+    "FV_UNN_id_Unidades": 698,
+    "FV_UNN_Descripcion": "remolque",
+    "FV_UNN_Codigo_DIAN": "E3"
+  },
+  {
+    "FV_UNN_id_Unidades": 699,
+    "FV_UNN_Descripcion": "kilogramo bruto",
+    "FV_UNN_Codigo_DIAN": "E4"
+  },
+  {
+    "FV_UNN_id_Unidades": 700,
+    "FV_UNN_Descripcion": "tonelada métrica larga",
+    "FV_UNN_Codigo_DIAN": "E5"
+  },
+  {
+    "FV_UNN_id_Unidades": 701,
+    "FV_UNN_Descripcion": "EA",
+    "FV_UNN_Codigo_DIAN": "cada"
+  },
+  {
+    "FV_UNN_id_Unidades": 702,
+    "FV_UNN_Descripcion": "casilla de correo electrónico",
+    "FV_UNN_Codigo_DIAN": "EB"
+  },
+  {
+    "FV_UNN_id_Unidades": 703,
+    "FV_UNN_Descripcion": "cada uno por mes",
+    "FV_UNN_Codigo_DIAN": "CE"
+  },
+  {
+    "FV_UNN_id_Unidades": 704,
+    "FV_UNN_Descripcion": "paquete de once",
+    "FV_UNN_Codigo_DIAN": "EP"
+  },
+  {
+    "FV_UNN_id_Unidades": 705,
+    "FV_UNN_Descripcion": "galón equivalente",
+    "FV_UNN_Codigo_DIAN": "EQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 706,
+    "FV_UNN_Descripcion": "sobre",
+    "FV_UNN_Codigo_DIAN": "EV"
+  },
+  {
+    "FV_UNN_id_Unidades": 707,
+    "FV_UNN_Descripcion": "mil pies cúbicos por día",
+    "FV_UNN_Codigo_DIAN": "F1"
+  },
+  {
+    "FV_UNN_id_Unidades": 708,
+    "FV_UNN_Descripcion": "Fibra por centímetro cúbico de aire",
+    "FV_UNN_Codigo_DIAN": "F9"
+  },
+  {
+    "FV_UNN_id_Unidades": 709,
+    "FV_UNN_Descripcion": "grado Fahrenheit",
+    "FV_UNN_Codigo_DIAN": "FAH"
+  },
+  {
+    "FV_UNN_id_Unidades": 710,
+    "FV_UNN_Descripcion": "faradio",
+    "FV_UNN_Codigo_DIAN": "FAR"
+  },
+  {
+    "FV_UNN_id_Unidades": 711,
+    "FV_UNN_Descripcion": "campo",
+    "FV_UNN_Codigo_DIAN": "FB"
+  },
+  {
+    "FV_UNN_id_Unidades": 712,
+    "FV_UNN_Descripcion": "mil pies cúbicos",
+    "FV_UNN_Codigo_DIAN": "FC"
+  },
+  {
+    "FV_UNN_id_Unidades": 713,
+    "FV_UNN_Descripcion": "millón de partículas por pie cúbico",
+    "FV_UNN_Codigo_DIAN": "FD"
+  },
+  {
+    "FV_UNN_id_Unidades": 714,
+    "FV_UNN_Descripcion": "pie de pista",
+    "FV_UNN_Codigo_DIAN": "FE"
+  },
+  {
+    "FV_UNN_id_Unidades": 715,
+    "FV_UNN_Descripcion": "cien metros cúbicos",
+    "FV_UNN_Codigo_DIAN": "FF"
+  },
+  {
+    "FV_UNN_id_Unidades": 716,
+    "FV_UNN_Descripcion": "parche transdérmico",
+    "FV_UNN_Codigo_DIAN": "FG"
+  },
+  {
+    "FV_UNN_id_Unidades": 717,
+    "FV_UNN_Descripcion": "micromol",
+    "FV_UNN_Codigo_DIAN": "FH"
+  },
+  {
+    "FV_UNN_id_Unidades": 718,
+    "FV_UNN_Descripcion": "tonelada en escamas",
+    "FV_UNN_Codigo_DIAN": "FL"
+  },
+  {
+    "FV_UNN_id_Unidades": 719,
+    "FV_UNN_Descripcion": "millones de pies cúbicos",
+    "FV_UNN_Codigo_DIAN": "FM"
+  },
+  {
+    "FV_UNN_id_Unidades": 720,
+    "FV_UNN_Descripcion": "FOT",
+    "FV_UNN_Codigo_DIAN": "pie"
+  },
+  {
+    "FV_UNN_id_Unidades": 721,
+    "FV_UNN_Descripcion": "libra por pie cuadrado",
+    "FV_UNN_Codigo_DIAN": "FP"
+  },
+  {
+    "FV_UNN_id_Unidades": 722,
+    "FV_UNN_Descripcion": "pie por minuto",
+    "FV_UNN_Codigo_DIAN": "FR"
+  },
+  {
+    "FV_UNN_id_Unidades": 723,
+    "FV_UNN_Descripcion": "pie por segundo",
+    "FV_UNN_Codigo_DIAN": "FS"
+  },
+  {
+    "FV_UNN_id_Unidades": 724,
+    "FV_UNN_Descripcion": "pie cuadrado",
+    "FV_UNN_Codigo_DIAN": "FTK"
+  },
+  {
+    "FV_UNN_id_Unidades": 725,
+    "FV_UNN_Descripcion": "pie cubico",
+    "FV_UNN_Codigo_DIAN": "FTQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 726,
+    "FV_UNN_Descripcion": "US galones por minuto",
+    "FV_UNN_Codigo_DIAN": "G2"
+  },
+  {
+    "FV_UNN_id_Unidades": 727,
+    "FV_UNN_Descripcion": "Galon imperial por minuto",
+    "FV_UNN_Codigo_DIAN": "G3"
+  },
+  {
+    "FV_UNN_id_Unidades": 728,
+    "FV_UNN_Descripcion": "hoja de microficha",
+    "FV_UNN_Codigo_DIAN": "G7"
+  },
+  {
+    "FV_UNN_id_Unidades": 729,
+    "FV_UNN_Descripcion": "galón (US) por día",
+    "FV_UNN_Codigo_DIAN": "GB"
+  },
+  {
+    "FV_UNN_id_Unidades": 730,
+    "FV_UNN_Descripcion": "gigabecquerel",
+    "FV_UNN_Codigo_DIAN": "GBQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 731,
+    "FV_UNN_Descripcion": "gramo por 100 gramo",
+    "FV_UNN_Codigo_DIAN": "GC"
+  },
+  {
+    "FV_UNN_id_Unidades": 732,
+    "FV_UNN_Descripcion": "barril bruto",
+    "FV_UNN_Codigo_DIAN": "GD"
+  },
+  {
+    "FV_UNN_id_Unidades": 733,
+    "FV_UNN_Descripcion": "libra por galón (US)",
+    "FV_UNN_Codigo_DIAN": "GE"
+  },
+  {
+    "FV_UNN_id_Unidades": 734,
+    "FV_UNN_Descripcion": "gramo por metro (gramo por 100 centímetros)",
+    "FV_UNN_Codigo_DIAN": "GF"
+  },
+  {
+    "FV_UNN_id_Unidades": 735,
+    "FV_UNN_Descripcion": "gramo de isótopo fisionable",
+    "FV_UNN_Codigo_DIAN": "GFI"
+  },
+  {
+    "FV_UNN_id_Unidades": 736,
+    "FV_UNN_Descripcion": "gramo",
+    "FV_UNN_Codigo_DIAN": "GGR"
+  },
+  {
+    "FV_UNN_id_Unidades": 737,
+    "FV_UNN_Descripcion": "medio galón (EE. UU.)",
+    "FV_UNN_Codigo_DIAN": "GH"
+  },
+  {
+    "FV_UNN_id_Unidades": 738,
+    "FV_UNN_Descripcion": "branquias",
+    "FV_UNN_Codigo_DIAN": "GIA"
+  },
+  {
+    "FV_UNN_id_Unidades": 739,
+    "FV_UNN_Descripcion": "Gill (Reino Unido)",
+    "FV_UNN_Codigo_DIAN": "GII"
+  },
+  {
+    "FV_UNN_id_Unidades": 740,
+    "FV_UNN_Descripcion": "gramo por mililitro",
+    "FV_UNN_Codigo_DIAN": "GJ"
+  },
+  {
+    "FV_UNN_id_Unidades": 741,
+    "FV_UNN_Descripcion": "gramo por kilogramo",
+    "FV_UNN_Codigo_DIAN": "G K"
+  },
+  {
+    "FV_UNN_id_Unidades": 742,
+    "FV_UNN_Descripcion": "gramo por litro",
+    "FV_UNN_Codigo_DIAN": "GL"
+  },
+  {
+    "FV_UNN_id_Unidades": 743,
+    "FV_UNN_Descripcion": "galón seco (EE. UU.)",
+    "FV_UNN_Codigo_DIAN": "GLD"
+  },
+  {
+    "FV_UNN_id_Unidades": 744,
+    "FV_UNN_Descripcion": "galón (Reino Unido)",
+    "FV_UNN_Codigo_DIAN": "GLI"
+  },
+  {
+    "FV_UNN_id_Unidades": 745,
+    "FV_UNN_Descripcion": "galón",
+    "FV_UNN_Codigo_DIAN": "GLL"
+  },
+  {
+    "FV_UNN_id_Unidades": 746,
+    "FV_UNN_Descripcion": "gramo por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "GM"
+  },
+  {
+    "FV_UNN_id_Unidades": 747,
+    "FV_UNN_Descripcion": "galón bruto",
+    "FV_UNN_Codigo_DIAN": "GN"
+  },
+  {
+    "FV_UNN_id_Unidades": 748,
+    "FV_UNN_Descripcion": "miligramos por metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "GO"
+  },
+  {
+    "FV_UNN_id_Unidades": 749,
+    "FV_UNN_Descripcion": "miligramo por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "GP"
+  },
+  {
+    "FV_UNN_id_Unidades": 750,
+    "FV_UNN_Descripcion": "microgramos por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "GQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 751,
+    "FV_UNN_Descripcion": "gramo",
+    "FV_UNN_Codigo_DIAN": "GRM"
+  },
+  {
+    "FV_UNN_id_Unidades": 752,
+    "FV_UNN_Descripcion": "grano",
+    "FV_UNN_Codigo_DIAN": "GRN"
+  },
+  {
+    "FV_UNN_id_Unidades": 753,
+    "FV_UNN_Descripcion": "bruto",
+    "FV_UNN_Codigo_DIAN": "GRO"
+  },
+  {
+    "FV_UNN_id_Unidades": 754,
+    "FV_UNN_Descripcion": "tonelada de registro bruto",
+    "FV_UNN_Codigo_DIAN": "GRT"
+  },
+  {
+    "FV_UNN_id_Unidades": 755,
+    "FV_UNN_Descripcion": "tonelada bruta",
+    "FV_UNN_Codigo_DIAN": "GT"
+  },
+  {
+    "FV_UNN_id_Unidades": 756,
+    "FV_UNN_Descripcion": "gigajoule",
+    "FV_UNN_Codigo_DIAN": "GV"
+  },
+  {
+    "FV_UNN_id_Unidades": 757,
+    "FV_UNN_Descripcion": "galón por mil pies cúbicos",
+    "FV_UNN_Codigo_DIAN": "GW"
+  },
+  {
+    "FV_UNN_id_Unidades": 758,
+    "FV_UNN_Descripcion": "hora de gigavatios",
+    "FV_UNN_Codigo_DIAN": "GWH"
+  },
+  {
+    "FV_UNN_id_Unidades": 759,
+    "FV_UNN_Descripcion": "patio bruto",
+    "FV_UNN_Codigo_DIAN": "GY"
+  },
+  {
+    "FV_UNN_id_Unidades": 760,
+    "FV_UNN_Descripcion": "sistema de medición",
+    "FV_UNN_Codigo_DIAN": "GZ"
+  },
+  {
+    "FV_UNN_id_Unidades": 761,
+    "FV_UNN_Descripcion": "media página – electrónica",
+    "FV_UNN_Codigo_DIAN": "H1"
+  },
+  {
+    "FV_UNN_id_Unidades": 762,
+    "FV_UNN_Descripcion": "medio litro",
+    "FV_UNN_Codigo_DIAN": "H2"
+  },
+  {
+    "FV_UNN_id_Unidades": 763,
+    "FV_UNN_Descripcion": "madeja",
+    "FV_UNN_Codigo_DIAN": "HA"
+  },
+  {
+    "FV_UNN_id_Unidades": 764,
+    "FV_UNN_Descripcion": "hectárea",
+    "FV_UNN_Codigo_DIAN": "HAR"
+  },
+  {
+    "FV_UNN_id_Unidades": 765,
+    "FV_UNN_Descripcion": "hectobar",
+    "FV_UNN_Codigo_DIAN": "HBA"
+  },
+  {
+    "FV_UNN_id_Unidades": 766,
+    "FV_UNN_Descripcion": "cien cajas",
+    "FV_UNN_Codigo_DIAN": "HBX"
+  },
+  {
+    "FV_UNN_id_Unidades": 767,
+    "FV_UNN_Descripcion": "cien cuentas",
+    "FV_UNN_Codigo_DIAN": "HC"
+  },
+  {
+    "FV_UNN_id_Unidades": 768,
+    "FV_UNN_Descripcion": "media docena",
+    "FV_UNN_Codigo_DIAN": "HD"
+  },
+  {
+    "FV_UNN_id_Unidades": 769,
+    "FV_UNN_Descripcion": "centésima de quilate",
+    "FV_UNN_Codigo_DIAN": "ÉL"
+  },
+  {
+    "FV_UNN_id_Unidades": 770,
+    "FV_UNN_Descripcion": "cien pies",
+    "FV_UNN_Codigo_DIAN": "HF"
+  },
+  {
+    "FV_UNN_id_Unidades": 771,
+    "FV_UNN_Descripcion": "hectogramo",
+    "FV_UNN_Codigo_DIAN": "HGM"
+  },
+  {
+    "FV_UNN_id_Unidades": 772,
+    "FV_UNN_Descripcion": "cien pies cúbicos",
+    "FV_UNN_Codigo_DIAN": "HH"
+  },
+  {
+    "FV_UNN_id_Unidades": 773,
+    "FV_UNN_Descripcion": "cien hojas",
+    "FV_UNN_Codigo_DIAN": "HI"
+  },
+  {
+    "FV_UNN_id_Unidades": 774,
+    "FV_UNN_Descripcion": "cien unidades internacionales",
+    "FV_UNN_Codigo_DIAN": "HIU"
+  },
+  {
+    "FV_UNN_id_Unidades": 775,
+    "FV_UNN_Descripcion": "caballo métrico",
+    "FV_UNN_Codigo_DIAN": "HJ"
+  },
+  {
+    "FV_UNN_id_Unidades": 776,
+    "FV_UNN_Descripcion": "cien kilogramos",
+    "FV_UNN_Codigo_DIAN": "HK"
+  },
+  {
+    "FV_UNN_id_Unidades": 777,
+    "FV_UNN_Descripcion": "cien pies (lineales)",
+    "FV_UNN_Codigo_DIAN": "HL"
+  },
+  {
+    "FV_UNN_id_Unidades": 778,
+    "FV_UNN_Descripcion": "hectolitro",
+    "FV_UNN_Codigo_DIAN": "HLT"
+  },
+  {
+    "FV_UNN_id_Unidades": 779,
+    "FV_UNN_Descripcion": "milla por hora",
+    "FV_UNN_Codigo_DIAN": "HM"
+  },
+  {
+    "FV_UNN_id_Unidades": 780,
+    "FV_UNN_Descripcion": "millones de metros cúbicos",
+    "FV_UNN_Codigo_DIAN": "HMQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 781,
+    "FV_UNN_Descripcion": "hectómetro",
+    "FV_UNN_Codigo_DIAN": "HMT"
+  },
+  {
+    "FV_UNN_id_Unidades": 782,
+    "FV_UNN_Descripcion": "milímetro convencional de mercurio",
+    "FV_UNN_Codigo_DIAN": "HN"
+  },
+  {
+    "FV_UNN_id_Unidades": 783,
+    "FV_UNN_Descripcion": "cien onzas troy",
+    "FV_UNN_Codigo_DIAN": "HO"
+  },
+  {
+    "FV_UNN_id_Unidades": 784,
+    "FV_UNN_Descripcion": "milímetro convencional de agua",
+    "FV_UNN_Codigo_DIAN": "HP"
+  },
+  {
+    "FV_UNN_id_Unidades": 785,
+    "FV_UNN_Descripcion": "hectolitro de alcohol puro",
+    "FV_UNN_Codigo_DIAN": "HPA"
+  },
+  {
+    "FV_UNN_id_Unidades": 786,
+    "FV_UNN_Descripcion": "cien pies cuadrados",
+    "FV_UNN_Codigo_DIAN": "HS"
+  },
+  {
+    "FV_UNN_id_Unidades": 787,
+    "FV_UNN_Descripcion": "media hora",
+    "FV_UNN_Codigo_DIAN": "HT"
+  },
+  {
+    "FV_UNN_id_Unidades": 788,
+    "FV_UNN_Descripcion": "hertz",
+    "FV_UNN_Codigo_DIAN": "HTZ"
+  },
+  {
+    "FV_UNN_id_Unidades": 789,
+    "FV_UNN_Descripcion": "HUR",
+    "FV_UNN_Codigo_DIAN": "hora"
+  },
+  {
+    "FV_UNN_id_Unidades": 790,
+    "FV_UNN_Descripcion": "cien yardas",
+    "FV_UNN_Codigo_DIAN": "HY"
+  },
+  {
+    "FV_UNN_id_Unidades": 791,
+    "FV_UNN_Descripcion": "pulgada libra",
+    "FV_UNN_Codigo_DIAN": "IA"
+  },
+  {
+    "FV_UNN_id_Unidades": 792,
+    "FV_UNN_Descripcion": "contar por pulgada",
+    "FV_UNN_Codigo_DIAN": "IC"
+  },
+  {
+    "FV_UNN_id_Unidades": 793,
+    "FV_UNN_Descripcion": "persona",
+    "FV_UNN_Codigo_DIAN": "IE"
+  },
+  {
+    "FV_UNN_id_Unidades": 794,
+    "FV_UNN_Descripcion": "pulgadas de agua",
+    "FV_UNN_Codigo_DIAN": "IF"
+  },
+  {
+    "FV_UNN_id_Unidades": 795,
+    "FV_UNN_Descripcion": "columna pulgada",
+    "FV_UNN_Codigo_DIAN": "II"
+  },
+  {
+    "FV_UNN_id_Unidades": 796,
+    "FV_UNN_Descripcion": "pulgada por minuto",
+    "FV_UNN_Codigo_DIAN": "IL"
+  },
+  {
+    "FV_UNN_id_Unidades": 797,
+    "FV_UNN_Descripcion": "impresión",
+    "FV_UNN_Codigo_DIAN": "IM"
+  },
+  {
+    "FV_UNN_id_Unidades": 798,
+    "FV_UNN_Descripcion": "pulgada",
+    "FV_UNN_Codigo_DIAN": "INH"
+  },
+  {
+    "FV_UNN_id_Unidades": 799,
+    "FV_UNN_Descripcion": "pulgada cuadrada",
+    "FV_UNN_Codigo_DIAN": "INK"
+  },
+  {
+    "FV_UNN_id_Unidades": 800,
+    "FV_UNN_Descripcion": "pulgada en cubos",
+    "FV_UNN_Codigo_DIAN": "INQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 801,
+    "FV_UNN_Descripcion": "póliza de seguros",
+    "FV_UNN_Codigo_DIAN": "IP"
+  },
+  {
+    "FV_UNN_id_Unidades": 802,
+    "FV_UNN_Descripcion": "conteo por centímetro",
+    "FV_UNN_Codigo_DIAN": "IT"
+  },
+  {
+    "FV_UNN_id_Unidades": 803,
+    "FV_UNN_Descripcion": "pulgada por segundo (velocidad lineal)",
+    "FV_UNN_Codigo_DIAN": "IU"
+  },
+  {
+    "FV_UNN_id_Unidades": 804,
+    "FV_UNN_Descripcion": "pulgada por segundo al cuadrado (aceleración)",
+    "FV_UNN_Codigo_DIAN": "IV"
+  },
+  {
+    "FV_UNN_id_Unidades": 805,
+    "FV_UNN_Descripcion": "julios por kilogramo",
+    "FV_UNN_Codigo_DIAN": "J2"
+  },
+  {
+    "FV_UNN_id_Unidades": 806,
+    "FV_UNN_Descripcion": "jumbo",
+    "FV_UNN_Codigo_DIAN": "JB"
+  },
+  {
+    "FV_UNN_id_Unidades": 807,
+    "FV_UNN_Descripcion": "joule por kelvin",
+    "FV_UNN_Codigo_DIAN": "JE"
+  },
+  {
+    "FV_UNN_id_Unidades": 808,
+    "FV_UNN_Descripcion": "jarra",
+    "FV_UNN_Codigo_DIAN": "JG"
+  },
+  {
+    "FV_UNN_id_Unidades": 809,
+    "FV_UNN_Descripcion": "megajulio por kilogramo",
+    "FV_UNN_Codigo_DIAN": "JK"
+  },
+  {
+    "FV_UNN_id_Unidades": 810,
+    "FV_UNN_Descripcion": "megajulio por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "JM"
+  },
+  {
+    "FV_UNN_id_Unidades": 811,
+    "FV_UNN_Descripcion": "articulación",
+    "FV_UNN_Codigo_DIAN": "JO"
+  },
+  {
+    "FV_UNN_id_Unidades": 812,
+    "FV_UNN_Descripcion": "joule",
+    "FV_UNN_Codigo_DIAN": "JOU"
+  },
+  {
+    "FV_UNN_id_Unidades": 813,
+    "FV_UNN_Descripcion": "tarro",
+    "FV_UNN_Codigo_DIAN": "JR"
+  },
+  {
+    "FV_UNN_id_Unidades": 814,
+    "FV_UNN_Descripcion": "demanda de kilovatios",
+    "FV_UNN_Codigo_DIAN": "K1"
+  },
+  {
+    "FV_UNN_id_Unidades": 815,
+    "FV_UNN_Descripcion": "kilovoltios amperios reactivos de demanda",
+    "FV_UNN_Codigo_DIAN": "K2"
+  },
+  {
+    "FV_UNN_id_Unidades": 816,
+    "FV_UNN_Descripcion": "kilovoltio amperio hora reactiva",
+    "FV_UNN_Codigo_DIAN": "K3"
+  },
+  {
+    "FV_UNN_id_Unidades": 817,
+    "FV_UNN_Descripcion": "amperios kilovoltios (reactivos)",
+    "FV_UNN_Codigo_DIAN": "K5"
+  },
+  {
+    "FV_UNN_id_Unidades": 818,
+    "FV_UNN_Descripcion": "kilolitro",
+    "FV_UNN_Codigo_DIAN": "K6"
+  },
+  {
+    "FV_UNN_id_Unidades": 819,
+    "FV_UNN_Descripcion": "pastel",
+    "FV_UNN_Codigo_DIAN": "KA"
+  },
+  {
+    "FV_UNN_id_Unidades": 820,
+    "FV_UNN_Descripcion": "kilocharacter",
+    "FV_UNN_Codigo_DIAN": "KB"
+  },
+  {
+    "FV_UNN_id_Unidades": 821,
+    "FV_UNN_Descripcion": "kilobar",
+    "FV_UNN_Codigo_DIAN": "KBA"
+  },
+  {
+    "FV_UNN_id_Unidades": 822,
+    "FV_UNN_Descripcion": "kilogramo decimal",
+    "FV_UNN_Codigo_DIAN": "KD"
+  },
+  {
+    "FV_UNN_id_Unidades": 823,
+    "FV_UNN_Descripcion": "kelvin",
+    "FV_UNN_Codigo_DIAN": "KEL"
+  },
+  {
+    "FV_UNN_id_Unidades": 824,
+    "FV_UNN_Descripcion": "kilopacket",
+    "FV_UNN_Codigo_DIAN": "KF"
+  },
+  {
+    "FV_UNN_id_Unidades": 825,
+    "FV_UNN_Descripcion": "barrilete",
+    "FV_UNN_Codigo_DIAN": "KG"
+  },
+  {
+    "FV_UNN_id_Unidades": 826,
+    "FV_UNN_Descripcion": "kilogramo",
+    "FV_UNN_Codigo_DIAN": "KGM"
+  },
+  {
+    "FV_UNN_id_Unidades": 827,
+    "FV_UNN_Descripcion": "kilogramo por segundo",
+    "FV_UNN_Codigo_DIAN": "KGS"
+  },
+  {
+    "FV_UNN_id_Unidades": 828,
+    "FV_UNN_Descripcion": "kilohercio",
+    "FV_UNN_Codigo_DIAN": "KHZ"
+  },
+  {
+    "FV_UNN_id_Unidades": 829,
+    "FV_UNN_Descripcion": "Kilogramo por milímetro de ancho",
+    "FV_UNN_Codigo_DIAN": "KI"
+  },
+  {
+    "FV_UNN_id_Unidades": 830,
+    "FV_UNN_Descripcion": "kilosegmento",
+    "FV_UNN_Codigo_DIAN": "KJ"
+  },
+  {
+    "FV_UNN_id_Unidades": 831,
+    "FV_UNN_Descripcion": "kilojoule",
+    "FV_UNN_Codigo_DIAN": "KJO"
+  },
+  {
+    "FV_UNN_id_Unidades": 832,
+    "FV_UNN_Descripcion": "kilogramo por metro",
+    "FV_UNN_Codigo_DIAN": "KL"
+  },
+  {
+    "FV_UNN_id_Unidades": 833,
+    "FV_UNN_Descripcion": "kilómetro por hora",
+    "FV_UNN_Codigo_DIAN": "KMH"
+  },
+  {
+    "FV_UNN_id_Unidades": 834,
+    "FV_UNN_Descripcion": "kilometro cuadrado",
+    "FV_UNN_Codigo_DIAN": "KMK"
+  },
+  {
+    "FV_UNN_id_Unidades": 835,
+    "FV_UNN_Descripcion": "kilogramo por metro cúbico",
+    "FV_UNN_Codigo_DIAN": "KMQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 836,
+    "FV_UNN_Descripcion": "kilogramo de nitrógeno",
+    "FV_UNN_Codigo_DIAN": "KNI"
+  },
+  {
+    "FV_UNN_id_Unidades": 837,
+    "FV_UNN_Descripcion": "kilogramo de sustancia nombrada",
+    "FV_UNN_Codigo_DIAN": "KNS"
+  },
+  {
+    "FV_UNN_id_Unidades": 838,
+    "FV_UNN_Descripcion": "KNT",
+    "FV_UNN_Codigo_DIAN": "nudo"
+  },
+  {
+    "FV_UNN_id_Unidades": 839,
+    "FV_UNN_Descripcion": "Milliequivalencia de potasa cáustica por gramo de producto.",
+    "FV_UNN_Codigo_DIAN": "KO"
+  },
+  {
+    "FV_UNN_id_Unidades": 840,
+    "FV_UNN_Descripcion": "kilopascal",
+    "FV_UNN_Codigo_DIAN": "KPA"
+  },
+  {
+    "FV_UNN_id_Unidades": 841,
+    "FV_UNN_Descripcion": "kilogramo de hidróxido de potasio (potasa cáustica)",
+    "FV_UNN_Codigo_DIAN": "KPH"
+  },
+  {
+    "FV_UNN_id_Unidades": 842,
+    "FV_UNN_Descripcion": "kilogramo de óxido de potasio",
+    "FV_UNN_Codigo_DIAN": "KPO"
+  },
+  {
+    "FV_UNN_id_Unidades": 843,
+    "FV_UNN_Descripcion": "kilogramo de pentóxido de fósforo (anhídrido fosfórico)",
+    "FV_UNN_Codigo_DIAN": "KPP"
+  },
+  {
+    "FV_UNN_id_Unidades": 844,
+    "FV_UNN_Descripcion": "KilorÃ¶ntgen",
+    "FV_UNN_Codigo_DIAN": "KR"
+  },
+  {
+    "FV_UNN_id_Unidades": 845,
+    "FV_UNN_Descripcion": "mil libras por pulgada cuadrada",
+    "FV_UNN_Codigo_DIAN": "KS"
+  },
+  {
+    "FV_UNN_id_Unidades": 846,
+    "FV_UNN_Descripcion": "kilogramo de sustancia 90% seca",
+    "FV_UNN_Codigo_DIAN": "KSD"
+  },
+  {
+    "FV_UNN_id_Unidades": 847,
+    "FV_UNN_Descripcion": "kilogramo de hidróxido de sodio (soda cáustica)",
+    "FV_UNN_Codigo_DIAN": "KSH"
+  },
+  {
+    "FV_UNN_id_Unidades": 848,
+    "FV_UNN_Descripcion": "equipo",
+    "FV_UNN_Codigo_DIAN": "KT"
+  },
+  {
+    "FV_UNN_id_Unidades": 849,
+    "FV_UNN_Descripcion": "kilómetro",
+    "FV_UNN_Codigo_DIAN": "KTM"
+  },
+  {
+    "FV_UNN_id_Unidades": 850,
+    "FV_UNN_Descripcion": "kilotonne",
+    "FV_UNN_Codigo_DIAN": "KTN"
+  },
+  {
+    "FV_UNN_id_Unidades": 851,
+    "FV_UNN_Descripcion": "kilogramo de uranio",
+    "FV_UNN_Codigo_DIAN": "KUR"
+  },
+  {
+    "FV_UNN_id_Unidades": 852,
+    "FV_UNN_Descripcion": "kilovoltio – ampere",
+    "FV_UNN_Codigo_DIAN": "KVA"
+  },
+  {
+    "FV_UNN_id_Unidades": 853,
+    "FV_UNN_Descripcion": "kilovar",
+    "FV_UNN_Codigo_DIAN": "KVR"
+  },
+  {
+    "FV_UNN_id_Unidades": 854,
+    "FV_UNN_Descripcion": "kilovoltio",
+    "FV_UNN_Codigo_DIAN": "KVT"
+  },
+  {
+    "FV_UNN_id_Unidades": 855,
+    "FV_UNN_Descripcion": "kilogramos por milímetro",
+    "FV_UNN_Codigo_DIAN": "KW"
+  },
+  {
+    "FV_UNN_id_Unidades": 856,
+    "FV_UNN_Descripcion": "kilovatios hora",
+    "FV_UNN_Codigo_DIAN": "KWH"
+  },
+  {
+    "FV_UNN_id_Unidades": 857,
+    "FV_UNN_Descripcion": "kilovatio",
+    "FV_UNN_Codigo_DIAN": "KWT"
+  },
+  {
+    "FV_UNN_id_Unidades": 858,
+    "FV_UNN_Descripcion": "mililitro por kilogramo",
+    "FV_UNN_Codigo_DIAN": "KX"
+  },
+  {
+    "FV_UNN_id_Unidades": 859,
+    "FV_UNN_Descripcion": "litro por minuto",
+    "FV_UNN_Codigo_DIAN": "L2"
+  },
+  {
+    "FV_UNN_id_Unidades": 860,
+    "FV_UNN_Descripcion": "libra por pulgada cúbica",
+    "FV_UNN_Codigo_DIAN": "LA"
+  },
+  {
+    "FV_UNN_id_Unidades": 861,
+    "FV_UNN_Descripcion": "libra",
+    "FV_UNN_Codigo_DIAN": "LBR"
+  },
+  {
+    "FV_UNN_id_Unidades": 862,
+    "FV_UNN_Descripcion": "libra troy",
+    "FV_UNN_Codigo_DIAN": "LBT"
+  },
+  {
+    "FV_UNN_id_Unidades": 863,
+    "FV_UNN_Descripcion": "centímetro lineal",
+    "FV_UNN_Codigo_DIAN": "LC"
+  },
+  {
+    "FV_UNN_id_Unidades": 864,
+    "FV_UNN_Descripcion": "litro por día",
+    "FV_UNN_Codigo_DIAN": "LD"
+  },
+  {
+    "FV_UNN_id_Unidades": 865,
+    "FV_UNN_Descripcion": "LE",
+    "FV_UNN_Codigo_DIAN": "lite"
+  },
+  {
+    "FV_UNN_id_Unidades": 866,
+    "FV_UNN_Descripcion": "LEF",
+    "FV_UNN_Codigo_DIAN": "hoja"
+  },
+  {
+    "FV_UNN_id_Unidades": 867,
+    "FV_UNN_Descripcion": "pie lineal",
+    "FV_UNN_Codigo_DIAN": "LF"
+  },
+  {
+    "FV_UNN_id_Unidades": 868,
+    "FV_UNN_Descripcion": "hora de trabajo",
+    "FV_UNN_Codigo_DIAN": "LH"
+  },
+  {
+    "FV_UNN_id_Unidades": 869,
+    "FV_UNN_Descripcion": "pulgada lineal",
+    "FV_UNN_Codigo_DIAN": "LI"
+  },
+  {
+    "FV_UNN_id_Unidades": 870,
+    "FV_UNN_Descripcion": "spray grande",
+    "FV_UNN_Codigo_DIAN": "LJ"
+  },
+  {
+    "FV_UNN_id_Unidades": 871,
+    "FV_UNN_Descripcion": "enlazar",
+    "FV_UNN_Codigo_DIAN": "LK"
+  },
+  {
+    "FV_UNN_id_Unidades": 872,
+    "FV_UNN_Descripcion": "metro lineal",
+    "FV_UNN_Codigo_DIAN": "LM"
+  },
+  {
+    "FV_UNN_id_Unidades": 873,
+    "FV_UNN_Descripcion": "longitud",
+    "FV_UNN_Codigo_DIAN": "LN"
+  },
+  {
+    "FV_UNN_id_Unidades": 874,
+    "FV_UNN_Descripcion": "mucho",
+    "FV_UNN_Codigo_DIAN": "LO"
+  },
+  {
+    "FV_UNN_id_Unidades": 875,
+    "FV_UNN_Descripcion": "libra liquida",
+    "FV_UNN_Codigo_DIAN": "LP"
+  },
+  {
+    "FV_UNN_id_Unidades": 876,
+    "FV_UNN_Descripcion": "litro de alcohol puro",
+    "FV_UNN_Codigo_DIAN": "LPA"
+  },
+  {
+    "FV_UNN_id_Unidades": 877,
+    "FV_UNN_Descripcion": "LR",
+    "FV_UNN_Codigo_DIAN": "capa"
+  },
+  {
+    "FV_UNN_id_Unidades": 878,
+    "FV_UNN_Descripcion": "Suma global",
+    "FV_UNN_Codigo_DIAN": "LS"
+  },
+  {
+    "FV_UNN_id_Unidades": 879,
+    "FV_UNN_Descripcion": "ton (Reino Unido) o longton (EE. UU.)",
+    "FV_UNN_Codigo_DIAN": "LTN"
+  },
+  {
+    "FV_UNN_id_Unidades": 880,
+    "FV_UNN_Descripcion": "litro",
+    "FV_UNN_Codigo_DIAN": "LTR"
+  },
+  {
+    "FV_UNN_id_Unidades": 881,
+    "FV_UNN_Descripcion": "lumen",
+    "FV_UNN_Codigo_DIAN": "LUM"
+  },
+  {
+    "FV_UNN_id_Unidades": 882,
+    "FV_UNN_Descripcion": "LUX",
+    "FV_UNN_Codigo_DIAN": "lux"
+  },
+  {
+    "FV_UNN_id_Unidades": 883,
+    "FV_UNN_Descripcion": "yarda lineal por libra",
+    "FV_UNN_Codigo_DIAN": "LX"
+  },
+  {
+    "FV_UNN_id_Unidades": 884,
+    "FV_UNN_Descripcion": "yarda lineal",
+    "FV_UNN_Codigo_DIAN": "LY"
+  },
+  {
+    "FV_UNN_id_Unidades": 885,
+    "FV_UNN_Descripcion": "cinta magnética",
+    "FV_UNN_Codigo_DIAN": "M0"
+  },
+  {
+    "FV_UNN_id_Unidades": 886,
+    "FV_UNN_Descripcion": "miligramos por litro",
+    "FV_UNN_Codigo_DIAN": "M1"
+  },
+  {
+    "FV_UNN_id_Unidades": 887,
+    "FV_UNN_Descripcion": "valor monetario",
+    "FV_UNN_Codigo_DIAN": "M4"
+  },
+  {
+    "FV_UNN_id_Unidades": 888,
+    "FV_UNN_Descripcion": "microcurie",
+    "FV_UNN_Codigo_DIAN": "M5"
+  },
+  {
+    "FV_UNN_id_Unidades": 889,
+    "FV_UNN_Descripcion": "micropulgada",
+    "FV_UNN_Codigo_DIAN": "M7"
+  },
+  {
+    "FV_UNN_id_Unidades": 890,
+    "FV_UNN_Descripcion": "millones de Btu por 1000 pies cúbicos",
+    "FV_UNN_Codigo_DIAN": "M9"
+  },
+  {
+    "FV_UNN_id_Unidades": 891,
+    "FV_UNN_Descripcion": "máquina por unidad",
+    "FV_UNN_Codigo_DIAN": "MA"
+  },
+  {
+    "FV_UNN_id_Unidades": 892,
+    "FV_UNN_Descripcion": "mega litro",
+    "FV_UNN_Codigo_DIAN": "MAL"
+  },
+  {
+    "FV_UNN_id_Unidades": 893,
+    "FV_UNN_Descripcion": "megametro",
+    "FV_UNN_Codigo_DIAN": "MAM"
+  },
+  {
+    "FV_UNN_id_Unidades": 894,
+    "FV_UNN_Descripcion": "megavatio",
+    "FV_UNN_Codigo_DIAN": "MAW"
+  },
+  {
+    "FV_UNN_id_Unidades": 895,
+    "FV_UNN_Descripcion": "mil equivalentes de ladrillo estándar",
+    "FV_UNN_Codigo_DIAN": "MBE"
+  },
+  {
+    "FV_UNN_id_Unidades": 896,
+    "FV_UNN_Descripcion": "mil pies de tabla",
+    "FV_UNN_Codigo_DIAN": "MBF"
+  },
+  {
+    "FV_UNN_id_Unidades": 897,
+    "FV_UNN_Descripcion": "milibar",
+    "FV_UNN_Codigo_DIAN": "MBR"
+  },
+  {
+    "FV_UNN_id_Unidades": 898,
+    "FV_UNN_Descripcion": "microgramo",
+    "FV_UNN_Codigo_DIAN": "MC"
+  },
+  {
+    "FV_UNN_id_Unidades": 899,
+    "FV_UNN_Descripcion": "milicurie",
+    "FV_UNN_Codigo_DIAN": "MCU"
+  },
+  {
+    "FV_UNN_id_Unidades": 900,
+    "FV_UNN_Descripcion": "aire seco tonelada métrica",
+    "FV_UNN_Codigo_DIAN": "MD"
+  },
+  {
+    "FV_UNN_id_Unidades": 901,
+    "FV_UNN_Descripcion": "miligramo por pie cuadrado por lado",
+    "FV_UNN_Codigo_DIAN": "MF"
+  },
+  {
+    "FV_UNN_id_Unidades": 902,
+    "FV_UNN_Descripcion": "miligramo",
+    "FV_UNN_Codigo_DIAN": "MGM"
+  },
+  {
+    "FV_UNN_id_Unidades": 903,
+    "FV_UNN_Descripcion": "megahercio",
+    "FV_UNN_Codigo_DIAN": "MGM"
+  },
+  {
+    "FV_UNN_id_Unidades": 904,
+    "FV_UNN_Descripcion": "milla cuadrada",
+    "FV_UNN_Codigo_DIAN": "MIK"
+  },
+  {
+    "FV_UNN_id_Unidades": 905,
+    "FV_UNN_Descripcion": "MIL",
+    "FV_UNN_Codigo_DIAN": "mil"
+  },
+  {
+    "FV_UNN_id_Unidades": 906,
+    "FV_UNN_Descripcion": "minuto",
+    "FV_UNN_Codigo_DIAN": "MIN"
+  },
+  {
+    "FV_UNN_id_Unidades": 907,
+    "FV_UNN_Descripcion": "millón",
+    "FV_UNN_Codigo_DIAN": "MIO"
+  },
+  {
+    "FV_UNN_id_Unidades": 908,
+    "FV_UNN_Descripcion": "millones de unidades internacionales",
+    "FV_UNN_Codigo_DIAN": "MIU"
+  },
+  {
+    "FV_UNN_id_Unidades": 909,
+    "FV_UNN_Descripcion": "miligramo por pulgada cuadrada",
+    "FV_UNN_Codigo_DIAN": "MK"
+  },
+  {
+    "FV_UNN_id_Unidades": 910,
+    "FV_UNN_Descripcion": "mil millones",
+    "FV_UNN_Codigo_DIAN": "MLD"
+  },
+  {
+    "FV_UNN_id_Unidades": 911,
+    "FV_UNN_Descripcion": "mililitro",
+    "FV_UNN_Codigo_DIAN": "MLT"
+  },
+  {
+    "FV_UNN_id_Unidades": 912,
+    "FV_UNN_Descripcion": "milímetro cuadrado",
+    "FV_UNN_Codigo_DIAN": "MMK"
+  },
+  {
+    "FV_UNN_id_Unidades": 913,
+    "FV_UNN_Descripcion": "milímetro cúbico",
+    "FV_UNN_Codigo_DIAN": "MMQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 914,
+    "FV_UNN_Descripcion": "milímetro",
+    "FV_UNN_Codigo_DIAN": "MMT"
+  },
+  {
+    "FV_UNN_id_Unidades": 915,
+    "FV_UNN_Descripcion": "LUN",
+    "FV_UNN_Codigo_DIAN": "mes"
+  },
+  {
+    "FV_UNN_id_Unidades": 916,
+    "FV_UNN_Descripcion": "megapascal",
+    "FV_UNN_Codigo_DIAN": "MPA"
+  },
+  {
+    "FV_UNN_id_Unidades": 917,
+    "FV_UNN_Descripcion": "mil metros",
+    "FV_UNN_Codigo_DIAN": "MQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 918,
+    "FV_UNN_Descripcion": "metro cúbico por hora",
+    "FV_UNN_Codigo_DIAN": "MQH"
+  },
+  {
+    "FV_UNN_id_Unidades": 919,
+    "FV_UNN_Descripcion": "metro cúbico por segundo",
+    "FV_UNN_Codigo_DIAN": "MQS"
+  },
+  {
+    "FV_UNN_id_Unidades": 920,
+    "FV_UNN_Descripcion": "metro por segundo al cuadrado",
+    "FV_UNN_Codigo_DIAN": "MSK"
+  },
+  {
+    "FV_UNN_id_Unidades": 921,
+    "FV_UNN_Descripcion": "estera",
+    "FV_UNN_Codigo_DIAN": "MT"
+  },
+  {
+    "FV_UNN_id_Unidades": 922,
+    "FV_UNN_Descripcion": "metro cuadrado",
+    "FV_UNN_Codigo_DIAN": "MTK"
+  },
+  {
+    "FV_UNN_id_Unidades": 923,
+    "FV_UNN_Descripcion": "Metro cúbico",
+    "FV_UNN_Codigo_DIAN": "MTQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 924,
+    "FV_UNN_Descripcion": "metro",
+    "FV_UNN_Codigo_DIAN": "MTR"
+  },
+  {
+    "FV_UNN_id_Unidades": 925,
+    "FV_UNN_Descripcion": "metro por segundo",
+    "FV_UNN_Codigo_DIAN": "MTS"
+  },
+  {
+    "FV_UNN_id_Unidades": 926,
+    "FV_UNN_Descripcion": "numero de mults",
+    "FV_UNN_Codigo_DIAN": "MV"
+  },
+  {
+    "FV_UNN_id_Unidades": 927,
+    "FV_UNN_Descripcion": "megavolt – ampere",
+    "FV_UNN_Codigo_DIAN": "MVA"
+  },
+  {
+    "FV_UNN_id_Unidades": 928,
+    "FV_UNN_Descripcion": "megavatios hora (1000 kW.h)",
+    "FV_UNN_Codigo_DIAN": "MWH"
+  },
+  {
+    "FV_UNN_id_Unidades": 929,
+    "FV_UNN_Descripcion": "calorías de la pluma",
+    "FV_UNN_Codigo_DIAN": "N1"
+  },
+  {
+    "FV_UNN_id_Unidades": 930,
+    "FV_UNN_Descripcion": "número de líneas",
+    "FV_UNN_Codigo_DIAN": "N2"
+  },
+  {
+    "FV_UNN_id_Unidades": 931,
+    "FV_UNN_Descripcion": "punto de impresión",
+    "FV_UNN_Codigo_DIAN": "N3"
+  },
+  {
+    "FV_UNN_id_Unidades": 932,
+    "FV_UNN_Descripcion": "miligramo por kilogramo",
+    "FV_UNN_Codigo_DIAN": "NA"
+  },
+  {
+    "FV_UNN_id_Unidades": 933,
+    "FV_UNN_Descripcion": "número de artículos",
+    "FV_UNN_Codigo_DIAN": "NAR"
+  },
+  {
+    "FV_UNN_id_Unidades": 934,
+    "FV_UNN_Descripcion": "barcaza",
+    "FV_UNN_Codigo_DIAN": "NB"
+  },
+  {
+    "FV_UNN_id_Unidades": 935,
+    "FV_UNN_Descripcion": "número de bobinas",
+    "FV_UNN_Codigo_DIAN": "NBB"
+  },
+  {
+    "FV_UNN_id_Unidades": 936,
+    "FV_UNN_Descripcion": "coche",
+    "FV_UNN_Codigo_DIAN": "NC"
+  },
+  {
+    "FV_UNN_id_Unidades": 937,
+    "FV_UNN_Descripcion": "número de celdas",
+    "FV_UNN_Codigo_DIAN": "NCL"
+  },
+  {
+    "FV_UNN_id_Unidades": 938,
+    "FV_UNN_Descripcion": "barril neto",
+    "FV_UNN_Codigo_DIAN": "ND"
+  },
+  {
+    "FV_UNN_id_Unidades": 939,
+    "FV_UNN_Descripcion": "litro neto",
+    "FV_UNN_Codigo_DIAN": "NE"
+  },
+  {
+    "FV_UNN_id_Unidades": 940,
+    "FV_UNN_Descripcion": "newton",
+    "FV_UNN_Codigo_DIAN": "NEW"
+  },
+  {
+    "FV_UNN_id_Unidades": 941,
+    "FV_UNN_Descripcion": "mensaje",
+    "FV_UNN_Codigo_DIAN": "NF"
+  },
+  {
+    "FV_UNN_id_Unidades": 942,
+    "FV_UNN_Descripcion": "galón neto (nosotros)",
+    "FV_UNN_Codigo_DIAN": "NG"
+  },
+  {
+    "FV_UNN_id_Unidades": 943,
+    "FV_UNN_Descripcion": "hora del mensaje",
+    "FV_UNN_Codigo_DIAN": "NH"
+  },
+  {
+    "FV_UNN_id_Unidades": 944,
+    "FV_UNN_Descripcion": "galón imperial neto",
+    "FV_UNN_Codigo_DIAN": "NI"
+  },
+  {
+    "FV_UNN_id_Unidades": 945,
+    "FV_UNN_Descripcion": "número de unidades internacionales",
+    "FV_UNN_Codigo_DIAN": "NIU"
+  },
+  {
+    "FV_UNN_id_Unidades": 946,
+    "FV_UNN_Descripcion": "número de pantallas",
+    "FV_UNN_Codigo_DIAN": "NJ"
+  },
+  {
+    "FV_UNN_id_Unidades": 947,
+    "FV_UNN_Descripcion": "carga",
+    "FV_UNN_Codigo_DIAN": "NL"
+  },
+  {
+    "FV_UNN_id_Unidades": 948,
+    "FV_UNN_Descripcion": "milla nautica",
+    "FV_UNN_Codigo_DIAN": "MNI"
+  },
+  {
+    "FV_UNN_id_Unidades": 949,
+    "FV_UNN_Descripcion": "número de paquetes",
+    "FV_UNN_Codigo_DIAN": "NMP"
+  },
+  {
+    "FV_UNN_id_Unidades": 950,
+    "FV_UNN_Descripcion": "entrenar",
+    "FV_UNN_Codigo_DIAN": "NN"
+  },
+  {
+    "FV_UNN_id_Unidades": 951,
+    "FV_UNN_Descripcion": "número de parcelas",
+    "FV_UNN_Codigo_DIAN": "NPL"
+  },
+  {
+    "FV_UNN_id_Unidades": 952,
+    "FV_UNN_Descripcion": "numero de pares",
+    "FV_UNN_Codigo_DIAN": "NPR"
+  },
+  {
+    "FV_UNN_id_Unidades": 953,
+    "FV_UNN_Descripcion": "numero de partes",
+    "FV_UNN_Codigo_DIAN": "TNP"
+  },
+  {
+    "FV_UNN_id_Unidades": 954,
+    "FV_UNN_Descripcion": "NQ",
+    "FV_UNN_Codigo_DIAN": "mho"
+  },
+  {
+    "FV_UNN_id_Unidades": 955,
+    "FV_UNN_Descripcion": "micromho",
+    "FV_UNN_Codigo_DIAN": "NR"
+  },
+  {
+    "FV_UNN_id_Unidades": 956,
+    "FV_UNN_Descripcion": "número de rollos",
+    "FV_UNN_Codigo_DIAN": "NRL"
+  },
+  {
+    "FV_UNN_id_Unidades": 957,
+    "FV_UNN_Descripcion": "tonelada neta",
+    "FV_UNN_Codigo_DIAN": "NT"
+  },
+  {
+    "FV_UNN_id_Unidades": 958,
+    "FV_UNN_Descripcion": "registro neto de toneladas",
+    "FV_UNN_Codigo_DIAN": "NTT"
+  },
+  {
+    "FV_UNN_id_Unidades": 959,
+    "FV_UNN_Descripcion": "medidor de newton",
+    "FV_UNN_Codigo_DIAN": "NU"
+  },
+  {
+    "FV_UNN_id_Unidades": 960,
+    "FV_UNN_Descripcion": "vehículo",
+    "FV_UNN_Codigo_DIAN": "NV"
+  },
+  {
+    "FV_UNN_id_Unidades": 961,
+    "FV_UNN_Descripcion": "parte por mil",
+    "FV_UNN_Codigo_DIAN": "NX"
+  },
+  {
+    "FV_UNN_id_Unidades": 962,
+    "FV_UNN_Descripcion": "libra por aire seco tonelada métrica",
+    "FV_UNN_Codigo_DIAN": "NY"
+  },
+  {
+    "FV_UNN_id_Unidades": 963,
+    "FV_UNN_Descripcion": "panel",
+    "FV_UNN_Codigo_DIAN": "OA"
+  },
+  {
+    "FV_UNN_id_Unidades": 964,
+    "FV_UNN_Descripcion": "OHM",
+    "FV_UNN_Codigo_DIAN": "ohm"
+  },
+  {
+    "FV_UNN_id_Unidades": 965,
+    "FV_UNN_Descripcion": "onza por yarda cuadrada",
+    "FV_UNN_Codigo_DIAN": "EN"
+  },
+  {
+    "FV_UNN_id_Unidades": 966,
+    "FV_UNN_Descripcion": "ONZ",
+    "FV_UNN_Codigo_DIAN": "onza"
+  },
+  {
+    "FV_UNN_id_Unidades": 967,
+    "FV_UNN_Descripcion": "Dos paquetes",
+    "FV_UNN_Codigo_DIAN": "OP"
+  },
+  {
+    "FV_UNN_id_Unidades": 968,
+    "FV_UNN_Descripcion": "hora extra",
+    "FV_UNN_Codigo_DIAN": "OT"
+  },
+  {
+    "FV_UNN_id_Unidades": 969,
+    "FV_UNN_Descripcion": "onza av",
+    "FV_UNN_Codigo_DIAN": "ONZ"
+  },
+  {
+    "FV_UNN_id_Unidades": 970,
+    "FV_UNN_Descripcion": "onza líquida (US)",
+    "FV_UNN_Codigo_DIAN": "OZA"
+  },
+  {
+    "FV_UNN_id_Unidades": 971,
+    "FV_UNN_Descripcion": "onza líquida (Reino Unido)",
+    "FV_UNN_Codigo_DIAN": "OZI"
+  },
+  {
+    "FV_UNN_id_Unidades": 972,
+    "FV_UNN_Descripcion": "pagina – electronica",
+    "FV_UNN_Codigo_DIAN": "P0"
+  },
+  {
+    "FV_UNN_id_Unidades": 973,
+    "FV_UNN_Descripcion": "por ciento",
+    "FV_UNN_Codigo_DIAN": "P1"
+  },
+  {
+    "FV_UNN_id_Unidades": 974,
+    "FV_UNN_Descripcion": "libra por pie",
+    "FV_UNN_Codigo_DIAN": "P2"
+  },
+  {
+    "FV_UNN_id_Unidades": 975,
+    "FV_UNN_Descripcion": "paquete de tres",
+    "FV_UNN_Codigo_DIAN": "P3"
+  },
+  {
+    "FV_UNN_id_Unidades": 976,
+    "FV_UNN_Descripcion": "paquete de cuatro",
+    "FV_UNN_Codigo_DIAN": "P4"
+  },
+  {
+    "FV_UNN_id_Unidades": 977,
+    "FV_UNN_Descripcion": "paquete de cinco",
+    "FV_UNN_Codigo_DIAN": "P5"
+  },
+  {
+    "FV_UNN_id_Unidades": 978,
+    "FV_UNN_Descripcion": "paquete de seis",
+    "FV_UNN_Codigo_DIAN": "P6"
+  },
+  {
+    "FV_UNN_id_Unidades": 979,
+    "FV_UNN_Descripcion": "paquete de siete",
+    "FV_UNN_Codigo_DIAN": "P7"
+  },
+  {
+    "FV_UNN_id_Unidades": 980,
+    "FV_UNN_Descripcion": "paquete de ocho",
+    "FV_UNN_Codigo_DIAN": "P8"
+  },
+  {
+    "FV_UNN_id_Unidades": 981,
+    "FV_UNN_Descripcion": "paquete de nueve",
+    "FV_UNN_Codigo_DIAN": "P9"
+  },
+  {
+    "FV_UNN_id_Unidades": 982,
+    "FV_UNN_Descripcion": "paquete",
+    "FV_UNN_Codigo_DIAN": "PA"
+  },
+  {
+    "FV_UNN_id_Unidades": 983,
+    "FV_UNN_Descripcion": "pascal",
+    "FV_UNN_Codigo_DIAN": "PAL"
+  },
+  {
+    "FV_UNN_id_Unidades": 984,
+    "FV_UNN_Descripcion": "par de pulgadas",
+    "FV_UNN_Codigo_DIAN": "PB"
+  },
+  {
+    "FV_UNN_id_Unidades": 985,
+    "FV_UNN_Descripcion": "almohadilla",
+    "FV_UNN_Codigo_DIAN": "PD"
+  },
+  {
+    "FV_UNN_id_Unidades": 986,
+    "FV_UNN_Descripcion": "equivalente en libras",
+    "FV_UNN_Codigo_DIAN": "PE"
+  },
+  {
+    "FV_UNN_id_Unidades": 987,
+    "FV_UNN_Descripcion": "palet (ascensor)",
+    "FV_UNN_Codigo_DIAN": "PF"
+  },
+  {
+    "FV_UNN_id_Unidades": 988,
+    "FV_UNN_Descripcion": "plato",
+    "FV_UNN_Codigo_DIAN": "PG"
+  },
+  {
+    "FV_UNN_id_Unidades": 989,
+    "FV_UNN_Descripcion": "galón de prueba",
+    "FV_UNN_Codigo_DIAN": "PGL"
+  },
+  {
+    "FV_UNN_id_Unidades": 990,
+    "FV_UNN_Descripcion": "Pi",
+    "FV_UNN_Codigo_DIAN": "tono"
+  },
+  {
+    "FV_UNN_id_Unidades": 991,
+    "FV_UNN_Descripcion": "paquete",
+    "FV_UNN_Codigo_DIAN": "PK"
+  },
+  {
+    "FV_UNN_id_Unidades": 992,
+    "FV_UNN_Descripcion": "PL",
+    "FV_UNN_Codigo_DIAN": "cubo"
+  },
+  {
+    "FV_UNN_id_Unidades": 993,
+    "FV_UNN_Descripcion": "porcentaje de libra",
+    "FV_UNN_Codigo_DIAN": "PM"
+  },
+  {
+    "FV_UNN_id_Unidades": 994,
+    "FV_UNN_Descripcion": "libra neta",
+    "FV_UNN_Codigo_DIAN": "PN"
+  },
+  {
+    "FV_UNN_id_Unidades": 995,
+    "FV_UNN_Descripcion": "libra por pulgada de longitud",
+    "FV_UNN_Codigo_DIAN": "PO"
+  },
+  {
+    "FV_UNN_id_Unidades": 996,
+    "FV_UNN_Descripcion": "página por pulgada",
+    "FV_UNN_Codigo_DIAN": "PQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 997,
+    "FV_UNN_Descripcion": "PR",
+    "FV_UNN_Codigo_DIAN": "par"
+  },
+  {
+    "FV_UNN_id_Unidades": 998,
+    "FV_UNN_Descripcion": "fuerza de libra por pulgada cuadrada",
+    "FV_UNN_Codigo_DIAN": "PD"
+  },
+  {
+    "FV_UNN_id_Unidades": 999,
+    "FV_UNN_Descripcion": "pinta",
+    "FV_UNN_Codigo_DIAN": "PT"
+  },
+  {
+    "FV_UNN_id_Unidades": 1000,
+    "FV_UNN_Descripcion": "pinta seca",
+    "FV_UNN_Codigo_DIAN": "PTD"
+  },
+  {
+    "FV_UNN_id_Unidades": 1001,
+    "FV_UNN_Descripcion": "pinta (Reino Unido)",
+    "FV_UNN_Codigo_DIAN": "PTI"
+  },
+  {
+    "FV_UNN_id_Unidades": 1002,
+    "FV_UNN_Descripcion": "pinta liquida (US)",
+    "FV_UNN_Codigo_DIAN": "PTL"
+  },
+  {
+    "FV_UNN_id_Unidades": 1003,
+    "FV_UNN_Descripcion": "bandeja / paquete de bandeja",
+    "FV_UNN_Codigo_DIAN": "PU"
+  },
+  {
+    "FV_UNN_id_Unidades": 1004,
+    "FV_UNN_Descripcion": "media pinta (US)",
+    "FV_UNN_Codigo_DIAN": "PV"
+  },
+  {
+    "FV_UNN_id_Unidades": 1005,
+    "FV_UNN_Descripcion": "libra por pulgada de ancho",
+    "FV_UNN_Codigo_DIAN": "PW"
+  },
+  {
+    "FV_UNN_id_Unidades": 1006,
+    "FV_UNN_Descripcion": "Peck Dry (US)",
+    "FV_UNN_Codigo_DIAN": "PY"
+  },
+  {
+    "FV_UNN_id_Unidades": 1007,
+    "FV_UNN_Descripcion": "Peck Dry (Reino Unido)",
+    "FV_UNN_Codigo_DIAN": "PZ"
+  },
+  {
+    "FV_UNN_id_Unidades": 1008,
+    "FV_UNN_Descripcion": "comida",
+    "FV_UNN_Codigo_DIAN": "Q3"
+  },
+  {
+    "FV_UNN_id_Unidades": 1009,
+    "FV_UNN_Descripcion": "página – facsímil",
+    "FV_UNN_Codigo_DIAN": "QA"
+  },
+  {
+    "FV_UNN_id_Unidades": 1010,
+    "FV_UNN_Descripcion": "cuarto (de un año)",
+    "FV_UNN_Codigo_DIAN": "QAN"
+  },
+  {
+    "FV_UNN_id_Unidades": 1011,
+    "FV_UNN_Descripcion": "página – copia impresa",
+    "FV_UNN_Codigo_DIAN": "QB"
+  },
+  {
+    "FV_UNN_id_Unidades": 1012,
+    "FV_UNN_Descripcion": "cuarto de docena",
+    "FV_UNN_Codigo_DIAN": "QD"
+  },
+  {
+    "FV_UNN_id_Unidades": 1013,
+    "FV_UNN_Descripcion": "un cuarto de hora",
+    "FV_UNN_Codigo_DIAN": "QH"
+  },
+  {
+    "FV_UNN_id_Unidades": 1014,
+    "FV_UNN_Descripcion": "cuarto de kilogramo",
+    "FV_UNN_Codigo_DIAN": "QK"
+  },
+  {
+    "FV_UNN_id_Unidades": 1015,
+    "FV_UNN_Descripcion": "mano de papel",
+    "FV_UNN_Codigo_DIAN": "QR"
+  },
+  {
+    "FV_UNN_id_Unidades": 1016,
+    "FV_UNN_Descripcion": "cuarto de galón (US)",
+    "FV_UNN_Codigo_DIAN": "QT"
+  },
+  {
+    "FV_UNN_id_Unidades": 1017,
+    "FV_UNN_Descripcion": "cuarto seco (EE. UU.)",
+    "FV_UNN_Codigo_DIAN": "QTD"
+  },
+  {
+    "FV_UNN_id_Unidades": 1018,
+    "FV_UNN_Descripcion": "cuarto de galón (Reino Unido)",
+    "FV_UNN_Codigo_DIAN": "QTI"
+  },
+  {
+    "FV_UNN_id_Unidades": 1019,
+    "FV_UNN_Descripcion": "cuarto líquido (US)",
+    "FV_UNN_Codigo_DIAN": "QTL"
+  },
+  {
+    "FV_UNN_id_Unidades": 1020,
+    "FV_UNN_Descripcion": "cuarto (UK)",
+    "FV_UNN_Codigo_DIAN": "QTR"
+  },
+  {
+    "FV_UNN_id_Unidades": 1021,
+    "FV_UNN_Descripcion": "R1",
+    "FV_UNN_Codigo_DIAN": "pica"
+  },
+  {
+    "FV_UNN_id_Unidades": 1022,
+    "FV_UNN_Descripcion": "caloría",
+    "FV_UNN_Codigo_DIAN": "R4"
+  },
+  {
+    "FV_UNN_id_Unidades": 1023,
+    "FV_UNN_Descripcion": "mil metros cúbicos",
+    "FV_UNN_Codigo_DIAN": "R9"
+  },
+  {
+    "FV_UNN_id_Unidades": 1024,
+    "FV_UNN_Descripcion": "estante",
+    "FV_UNN_Codigo_DIAN": "RA"
+  },
+  {
+    "FV_UNN_id_Unidades": 1025,
+    "FV_UNN_Descripcion": "barra",
+    "FV_UNN_Codigo_DIAN": "RD"
+  },
+  {
+    "FV_UNN_id_Unidades": 1026,
+    "FV_UNN_Descripcion": "anillo",
+    "FV_UNN_Codigo_DIAN": "RG"
+  },
+  {
+    "FV_UNN_id_Unidades": 1027,
+    "FV_UNN_Descripcion": "hora de funcionamiento o de funcionamiento",
+    "FV_UNN_Codigo_DIAN": "RH"
+  },
+  {
+    "FV_UNN_id_Unidades": 1028,
+    "FV_UNN_Descripcion": "medida métrica rollo",
+    "FV_UNN_Codigo_DIAN": "RK"
+  },
+  {
+    "FV_UNN_id_Unidades": 1029,
+    "FV_UNN_Descripcion": "carrete",
+    "FV_UNN_Codigo_DIAN": "RL"
+  },
+  {
+    "FV_UNN_id_Unidades": 1030,
+    "FV_UNN_Descripcion": "resma",
+    "FV_UNN_Codigo_DIAN": "RM"
+  },
+  {
+    "FV_UNN_id_Unidades": 1031,
+    "FV_UNN_Descripcion": "medida métrica de resma",
+    "FV_UNN_Codigo_DIAN": "RN"
+  },
+  {
+    "FV_UNN_id_Unidades": 1032,
+    "FV_UNN_Descripcion": "rodar",
+    "FV_UNN_Codigo_DIAN": "RO"
+  },
+  {
+    "FV_UNN_id_Unidades": 1033,
+    "FV_UNN_Descripcion": "libra por resma",
+    "FV_UNN_Codigo_DIAN": "RP"
+  },
+  {
+    "FV_UNN_id_Unidades": 1034,
+    "FV_UNN_Descripcion": "revoluciones por minuto",
+    "FV_UNN_Codigo_DIAN": "RPM"
+  },
+  {
+    "FV_UNN_id_Unidades": 1035,
+    "FV_UNN_Descripcion": "revoluciones por segundo",
+    "FV_UNN_Codigo_DIAN": "RPS"
+  },
+  {
+    "FV_UNN_id_Unidades": 1036,
+    "FV_UNN_Descripcion": "Reiniciar",
+    "FV_UNN_Codigo_DIAN": "RS"
+  },
+  {
+    "FV_UNN_id_Unidades": 1037,
+    "FV_UNN_Descripcion": "ingreso tonelada milla",
+    "FV_UNN_Codigo_DIAN": "RT"
+  },
+  {
+    "FV_UNN_id_Unidades": 1038,
+    "FV_UNN_Descripcion": "correr",
+    "FV_UNN_Codigo_DIAN": "RU"
+  },
+  {
+    "FV_UNN_id_Unidades": 1039,
+    "FV_UNN_Descripcion": "pie cuadrado por segundo",
+    "FV_UNN_Codigo_DIAN": "S3"
+  },
+  {
+    "FV_UNN_id_Unidades": 1040,
+    "FV_UNN_Descripcion": "metro cuadrado por segundo",
+    "FV_UNN_Codigo_DIAN": "S4"
+  },
+  {
+    "FV_UNN_id_Unidades": 1041,
+    "FV_UNN_Descripcion": "sesenta cuartos de pulgada",
+    "FV_UNN_Codigo_DIAN": "S5"
+  },
+  {
+    "FV_UNN_id_Unidades": 1042,
+    "FV_UNN_Descripcion": "sesión",
+    "FV_UNN_Codigo_DIAN": "S6"
+  },
+  {
+    "FV_UNN_id_Unidades": 1043,
+    "FV_UNN_Descripcion": "unidad de almacenamiento",
+    "FV_UNN_Codigo_DIAN": "S7"
+  },
+  {
+    "FV_UNN_id_Unidades": 1044,
+    "FV_UNN_Descripcion": "unidad de publicidad estándar",
+    "FV_UNN_Codigo_DIAN": "S8"
+  },
+  {
+    "FV_UNN_id_Unidades": 1045,
+    "FV_UNN_Descripcion": "SA",
+    "FV_UNN_Codigo_DIAN": "saco"
+  },
+  {
+    "FV_UNN_id_Unidades": 1046,
+    "FV_UNN_Descripcion": "medio año (6 meses)",
+    "FV_UNN_Codigo_DIAN": "SAN"
+  },
+  {
+    "FV_UNN_id_Unidades": 1047,
+    "FV_UNN_Descripcion": "Puntuación",
+    "FV_UNN_Codigo_DIAN": "OCS"
+  },
+  {
+    "FV_UNN_id_Unidades": 1048,
+    "FV_UNN_Descripcion": "escrúpulo",
+    "FV_UNN_Codigo_DIAN": "SCR"
+  },
+  {
+    "FV_UNN_id_Unidades": 1049,
+    "FV_UNN_Descripcion": "libra solida",
+    "FV_UNN_Codigo_DIAN": "SD"
+  },
+  {
+    "FV_UNN_id_Unidades": 1050,
+    "FV_UNN_Descripcion": "sección",
+    "FV_UNN_Codigo_DIAN": "SE"
+  },
+  {
+    "FV_UNN_id_Unidades": 1051,
+    "FV_UNN_Descripcion": "segundo",
+    "FV_UNN_Codigo_DIAN": "SEC"
+  },
+  {
+    "FV_UNN_id_Unidades": 1052,
+    "FV_UNN_Descripcion": "conjunto",
+    "FV_UNN_Codigo_DIAN": "SET"
+  },
+  {
+    "FV_UNN_id_Unidades": 1053,
+    "FV_UNN_Descripcion": "segmento",
+    "FV_UNN_Codigo_DIAN": "SG"
+  },
+  {
+    "FV_UNN_id_Unidades": 1054,
+    "FV_UNN_Descripcion": "tonelada de envío",
+    "FV_UNN_Codigo_DIAN": "SHT"
+  },
+  {
+    "FV_UNN_id_Unidades": 1055,
+    "FV_UNN_Descripcion": "siemens",
+    "FV_UNN_Codigo_DIAN": "SIE"
+  },
+  {
+    "FV_UNN_id_Unidades": 1056,
+    "FV_UNN_Descripcion": "camión cisterna dividido",
+    "FV_UNN_Codigo_DIAN": "SK"
+  },
+  {
+    "FV_UNN_id_Unidades": 1057,
+    "FV_UNN_Descripcion": "hoja de deslizamiento",
+    "FV_UNN_Codigo_DIAN": "SL"
+  },
+  {
+    "FV_UNN_id_Unidades": 1058,
+    "FV_UNN_Descripcion": "milla (milla estatutaria)",
+    "FV_UNN_Codigo_DIAN": "SMI"
+  },
+  {
+    "FV_UNN_id_Unidades": 1059,
+    "FV_UNN_Descripcion": "varilla cuadrada",
+    "FV_UNN_Codigo_DIAN": "SN"
+  },
+  {
+    "FV_UNN_id_Unidades": 1060,
+    "FV_UNN_Descripcion": "carrete",
+    "FV_UNN_Codigo_DIAN": "SO"
+  },
+  {
+    "FV_UNN_id_Unidades": 1061,
+    "FV_UNN_Descripcion": "paquete de estante",
+    "FV_UNN_Codigo_DIAN": "SP"
+  },
+  {
+    "FV_UNN_id_Unidades": 1062,
+    "FV_UNN_Descripcion": "cuadrado",
+    "FV_UNN_Codigo_DIAN": "SQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 1063,
+    "FV_UNN_Descripcion": "SR",
+    "FV_UNN_Codigo_DIAN": "tira"
+  },
+  {
+    "FV_UNN_id_Unidades": 1064,
+    "FV_UNN_Descripcion": "hoja métrica medida",
+    "FV_UNN_Codigo_DIAN": "SS"
+  },
+  {
+    "FV_UNN_id_Unidades": 1065,
+    "FV_UNN_Descripcion": "corto estándar (7200 partidos)",
+    "FV_UNN_Codigo_DIAN": "SST"
+  },
+  {
+    "FV_UNN_id_Unidades": 1066,
+    "FV_UNN_Descripcion": "ST",
+    "FV_UNN_Codigo_DIAN": "hoja"
+  },
+  {
+    "FV_UNN_id_Unidades": 1067,
+    "FV_UNN_Descripcion": "piedra (Reino Unido)",
+    "FV_UNN_Codigo_DIAN": "ITS"
+  },
+  {
+    "FV_UNN_id_Unidades": 1068,
+    "FV_UNN_Descripcion": "tonelada (US) o tonelada corta (UK / US)",
+    "FV_UNN_Codigo_DIAN": "STN"
+  },
+  {
+    "FV_UNN_id_Unidades": 1069,
+    "FV_UNN_Descripcion": "patinar",
+    "FV_UNN_Codigo_DIAN": "SV"
+  },
+  {
+    "FV_UNN_id_Unidades": 1070,
+    "FV_UNN_Descripcion": "madeja",
+    "FV_UNN_Codigo_DIAN": "SO"
+  },
+  {
+    "FV_UNN_id_Unidades": 1071,
+    "FV_UNN_Descripcion": "envío",
+    "FV_UNN_Codigo_DIAN": "SX"
+  },
+  {
+    "FV_UNN_id_Unidades": 1072,
+    "FV_UNN_Descripcion": "Línea de telecomunicaciones en servicio.",
+    "FV_UNN_Codigo_DIAN": "T0"
+  },
+  {
+    "FV_UNN_id_Unidades": 1073,
+    "FV_UNN_Descripcion": "mil libras brutas",
+    "FV_UNN_Codigo_DIAN": "T1"
+  },
+  {
+    "FV_UNN_id_Unidades": 1074,
+    "FV_UNN_Descripcion": "mil piezas",
+    "FV_UNN_Codigo_DIAN": "T3"
+  },
+  {
+    "FV_UNN_id_Unidades": 1075,
+    "FV_UNN_Descripcion": "bolsa de mil",
+    "FV_UNN_Codigo_DIAN": "T4"
+  },
+  {
+    "FV_UNN_id_Unidades": 1076,
+    "FV_UNN_Descripcion": "caja de mil",
+    "FV_UNN_Codigo_DIAN": "T5"
+  },
+  {
+    "FV_UNN_id_Unidades": 1077,
+    "FV_UNN_Descripcion": "mil galones (US)",
+    "FV_UNN_Codigo_DIAN": "T6"
+  },
+  {
+    "FV_UNN_id_Unidades": 1078,
+    "FV_UNN_Descripcion": "mil impresiones",
+    "FV_UNN_Codigo_DIAN": "T7"
+  },
+  {
+    "FV_UNN_id_Unidades": 1079,
+    "FV_UNN_Descripcion": "mil pulgadas lineales",
+    "FV_UNN_Codigo_DIAN": "T8"
+  },
+  {
+    "FV_UNN_id_Unidades": 1080,
+    "FV_UNN_Descripcion": "décimo pie cúbico",
+    "FV_UNN_Codigo_DIAN": "TA"
+  },
+  {
+    "FV_UNN_id_Unidades": 1081,
+    "FV_UNN_Descripcion": "Kiloampere hora (mil amperios hora)",
+    "FV_UNN_Codigo_DIAN": "TAH"
+  },
+  {
+    "FV_UNN_id_Unidades": 1082,
+    "FV_UNN_Descripcion": "camion",
+    "FV_UNN_Codigo_DIAN": "TC"
+  },
+  {
+    "FV_UNN_id_Unidades": 1083,
+    "FV_UNN_Descripcion": "termia",
+    "FV_UNN_Codigo_DIAN": "TD"
+  },
+  {
+    "FV_UNN_id_Unidades": 1084,
+    "FV_UNN_Descripcion": "totalizador",
+    "FV_UNN_Codigo_DIAN": "TE"
+  },
+  {
+    "FV_UNN_id_Unidades": 1085,
+    "FV_UNN_Descripcion": "diez metros cuadrados",
+    "FV_UNN_Codigo_DIAN": "TF"
+  },
+  {
+    "FV_UNN_id_Unidades": 1086,
+    "FV_UNN_Descripcion": "mil pulgadas cuadradas",
+    "FV_UNN_Codigo_DIAN": "TI"
+  },
+  {
+    "FV_UNN_id_Unidades": 1087,
+    "FV_UNN_Descripcion": "mil centímetros cuadrados",
+    "FV_UNN_Codigo_DIAN": "TJ"
+  },
+  {
+    "FV_UNN_id_Unidades": 1088,
+    "FV_UNN_Descripcion": "tanque, rectangular",
+    "FV_UNN_Codigo_DIAN": "TK"
+  },
+  {
+    "FV_UNN_id_Unidades": 1089,
+    "FV_UNN_Descripcion": "mil pies (lineales)",
+    "FV_UNN_Codigo_DIAN": "TL"
+  },
+  {
+    "FV_UNN_id_Unidades": 1090,
+    "FV_UNN_Descripcion": "estaño",
+    "FV_UNN_Codigo_DIAN": "TN"
+  },
+  {
+    "FV_UNN_id_Unidades": 1091,
+    "FV_UNN_Descripcion": "tonelada (tonelada métrica)",
+    "FV_UNN_Codigo_DIAN": "TNE"
+  },
+  {
+    "FV_UNN_id_Unidades": 1092,
+    "FV_UNN_Descripcion": "paquete de diez",
+    "FV_UNN_Codigo_DIAN": "TP"
+  },
+  {
+    "FV_UNN_id_Unidades": 1093,
+    "FV_UNN_Descripcion": "diez pares",
+    "FV_UNN_Codigo_DIAN": "TPR"
+  },
+  {
+    "FV_UNN_id_Unidades": 1094,
+    "FV_UNN_Descripcion": "mil pies",
+    "FV_UNN_Codigo_DIAN": "TQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 1095,
+    "FV_UNN_Descripcion": "mil metros cúbicos por día",
+    "FV_UNN_Codigo_DIAN": "TQD"
+  },
+  {
+    "FV_UNN_id_Unidades": 1096,
+    "FV_UNN_Descripcion": "diez pies cuadrados",
+    "FV_UNN_Codigo_DIAN": "TR"
+  },
+  {
+    "FV_UNN_id_Unidades": 1097,
+    "FV_UNN_Descripcion": "trillón (EUR)",
+    "FV_UNN_Codigo_DIAN": "TRL"
+  },
+  {
+    "FV_UNN_id_Unidades": 1098,
+    "FV_UNN_Descripcion": "mil pies cuadrados",
+    "FV_UNN_Codigo_DIAN": "TS"
+  },
+  {
+    "FV_UNN_id_Unidades": 1099,
+    "FV_UNN_Descripcion": "tonelada de sustancia 90% seca",
+    "FV_UNN_Codigo_DIAN": "TSD"
+  },
+  {
+    "FV_UNN_id_Unidades": 1100,
+    "FV_UNN_Descripcion": "tonelada de vapor por hora",
+    "FV_UNN_Codigo_DIAN": "TSH"
+  },
+  {
+    "FV_UNN_id_Unidades": 1101,
+    "FV_UNN_Descripcion": "mil metros lineales",
+    "FV_UNN_Codigo_DIAN": "TT"
+  },
+  {
+    "FV_UNN_id_Unidades": 1102,
+    "FV_UNN_Descripcion": "TU",
+    "FV_UNN_Codigo_DIAN": "tubo"
+  },
+  {
+    "FV_UNN_id_Unidades": 1103,
+    "FV_UNN_Descripcion": "mil kilogramos",
+    "FV_UNN_Codigo_DIAN": "TV"
+  },
+  {
+    "FV_UNN_id_Unidades": 1104,
+    "FV_UNN_Descripcion": "mil hojas",
+    "FV_UNN_Codigo_DIAN": "TW"
+  },
+  {
+    "FV_UNN_id_Unidades": 1105,
+    "FV_UNN_Descripcion": "tanque, cilíndrico",
+    "FV_UNN_Codigo_DIAN": "TY"
+  },
+  {
+    "FV_UNN_id_Unidades": 1106,
+    "FV_UNN_Descripcion": "tratamiento",
+    "FV_UNN_Codigo_DIAN": "U1"
+  },
+  {
+    "FV_UNN_id_Unidades": 1107,
+    "FV_UNN_Descripcion": "tableta",
+    "FV_UNN_Codigo_DIAN": "U2"
+  },
+  {
+    "FV_UNN_id_Unidades": 1108,
+    "FV_UNN_Descripcion": "UA",
+    "FV_UNN_Codigo_DIAN": "torr"
+  },
+  {
+    "FV_UNN_id_Unidades": 1109,
+    "FV_UNN_Descripcion": "Línea de telecomunicaciones en servicio promedio.",
+    "FV_UNN_Codigo_DIAN": "UB"
+  },
+  {
+    "FV_UNN_id_Unidades": 1110,
+    "FV_UNN_Descripcion": "puerto de telecomunicaciones",
+    "FV_UNN_Codigo_DIAN": "UC"
+  },
+  {
+    "FV_UNN_id_Unidades": 1111,
+    "FV_UNN_Descripcion": "décimo minuto",
+    "FV_UNN_Codigo_DIAN": "UD"
+  },
+  {
+    "FV_UNN_id_Unidades": 1112,
+    "FV_UNN_Descripcion": "décima hora",
+    "FV_UNN_Codigo_DIAN": "UE"
+  },
+  {
+    "FV_UNN_id_Unidades": 1113,
+    "FV_UNN_Descripcion": "uso por línea de telecomunicación promedio",
+    "FV_UNN_Codigo_DIAN": "UF"
+  },
+  {
+    "FV_UNN_id_Unidades": 1114,
+    "FV_UNN_Descripcion": "diez mil yardas",
+    "FV_UNN_Codigo_DIAN": "UH"
+  },
+  {
+    "FV_UNN_id_Unidades": 1115,
+    "FV_UNN_Descripcion": "millones de unidades",
+    "FV_UNN_Codigo_DIAN": "UM"
+  },
+  {
+    "FV_UNN_id_Unidades": 1116,
+    "FV_UNN_Descripcion": "voltio amperio por kilogramo",
+    "FV_UNN_Codigo_DIAN": "VA"
+  },
+  {
+    "FV_UNN_id_Unidades": 1117,
+    "FV_UNN_Descripcion": "frasco",
+    "FV_UNN_Codigo_DIAN": "VI"
+  },
+  {
+    "FV_UNN_id_Unidades": 1118,
+    "FV_UNN_Descripcion": "voltio",
+    "FV_UNN_Codigo_DIAN": "VLT"
+  },
+  {
+    "FV_UNN_id_Unidades": 1119,
+    "FV_UNN_Descripcion": "abultar",
+    "FV_UNN_Codigo_DIAN": "VQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 1120,
+    "FV_UNN_Descripcion": "visitar",
+    "FV_UNN_Codigo_DIAN": "VS"
+  },
+  {
+    "FV_UNN_id_Unidades": 1121,
+    "FV_UNN_Descripcion": "kilo mojado",
+    "FV_UNN_Codigo_DIAN": "W2"
+  },
+  {
+    "FV_UNN_id_Unidades": 1122,
+    "FV_UNN_Descripcion": "dos semanas",
+    "FV_UNN_Codigo_DIAN": "W4"
+  },
+  {
+    "FV_UNN_id_Unidades": 1123,
+    "FV_UNN_Descripcion": "vatio por kilogramo",
+    "FV_UNN_Codigo_DIAN": "WA"
+  },
+  {
+    "FV_UNN_id_Unidades": 1124,
+    "FV_UNN_Descripcion": "libra mojada",
+    "FV_UNN_Codigo_DIAN": "WB"
+  },
+  {
+    "FV_UNN_id_Unidades": 1125,
+    "FV_UNN_Descripcion": "cable",
+    "FV_UNN_Codigo_DIAN": "WCD"
+  },
+  {
+    "FV_UNN_id_Unidades": 1126,
+    "FV_UNN_Descripcion": "tonelada mojada",
+    "FV_UNN_Codigo_DIAN": "WE"
+  },
+  {
+    "FV_UNN_id_Unidades": 1127,
+    "FV_UNN_Descripcion": "weber",
+    "FV_UNN_Codigo_DIAN": "WEB"
+  },
+  {
+    "FV_UNN_id_Unidades": 1128,
+    "FV_UNN_Descripcion": "semana",
+    "FV_UNN_Codigo_DIAN": "WEE"
+  },
+  {
+    "FV_UNN_id_Unidades": 1129,
+    "FV_UNN_Descripcion": "galon de vino",
+    "FV_UNN_Codigo_DIAN": "WG"
+  },
+  {
+    "FV_UNN_id_Unidades": 1130,
+    "FV_UNN_Descripcion": "rueda",
+    "FV_UNN_Codigo_DIAN": "WH"
+  },
+  {
+    "FV_UNN_id_Unidades": 1131,
+    "FV_UNN_Descripcion": "vatios hora",
+    "FV_UNN_Codigo_DIAN": "WHR"
+  },
+  {
+    "FV_UNN_id_Unidades": 1132,
+    "FV_UNN_Descripcion": "peso por pulgada cuadrada",
+    "FV_UNN_Codigo_DIAN": "WI"
+  },
+  {
+    "FV_UNN_id_Unidades": 1133,
+    "FV_UNN_Descripcion": "mes de trabajo",
+    "FV_UNN_Codigo_DIAN": "WM"
+  },
+  {
+    "FV_UNN_id_Unidades": 1134,
+    "FV_UNN_Descripcion": "envolver",
+    "FV_UNN_Codigo_DIAN": "WR"
+  },
+  {
+    "FV_UNN_id_Unidades": 1135,
+    "FV_UNN_Descripcion": "estándar",
+    "FV_UNN_Codigo_DIAN": "WSD"
+  },
+  {
+    "FV_UNN_id_Unidades": 1136,
+    "FV_UNN_Descripcion": "vatio",
+    "FV_UNN_Codigo_DIAN": "WTT"
+  },
+  {
+    "FV_UNN_id_Unidades": 1137,
+    "FV_UNN_Descripcion": "mililitro de agua",
+    "FV_UNN_Codigo_DIAN": "WW"
+  },
+  {
+    "FV_UNN_id_Unidades": 1138,
+    "FV_UNN_Descripcion": "cadena",
+    "FV_UNN_Codigo_DIAN": "X1"
+  },
+  {
+    "FV_UNN_id_Unidades": 1139,
+    "FV_UNN_Descripcion": "yarda cuadrada",
+    "FV_UNN_Codigo_DIAN": "YDK"
+  },
+  {
+    "FV_UNN_id_Unidades": 1140,
+    "FV_UNN_Descripcion": "Yarda cúbica",
+    "FV_UNN_Codigo_DIAN": "YDQ"
+  },
+  {
+    "FV_UNN_id_Unidades": 1141,
+    "FV_UNN_Descripcion": "cien yardas lineales",
+    "FV_UNN_Codigo_DIAN": "YL"
+  },
+  {
+    "FV_UNN_id_Unidades": 1142,
+    "FV_UNN_Descripcion": "yarda",
+    "FV_UNN_Codigo_DIAN": "YRD"
+  },
+  {
+    "FV_UNN_id_Unidades": 1143,
+    "FV_UNN_Descripcion": "diez yardas",
+    "FV_UNN_Codigo_DIAN": "YT"
+  },
+  {
+    "FV_UNN_id_Unidades": 1144,
+    "FV_UNN_Descripcion": "van de elevación",
+    "FV_UNN_Codigo_DIAN": "Z1"
+  },
+  {
+    "FV_UNN_id_Unidades": 1145,
+    "FV_UNN_Descripcion": "pecho",
+    "FV_UNN_Codigo_DIAN": "Z2"
+  },
+  {
+    "FV_UNN_id_Unidades": 1146,
+    "FV_UNN_Descripcion": "barril",
+    "FV_UNN_Codigo_DIAN": "Z3"
+  },
+  {
+    "FV_UNN_id_Unidades": 1147,
+    "FV_UNN_Descripcion": "Z4",
+    "FV_UNN_Codigo_DIAN": "pipa"
+  },
+  {
+    "FV_UNN_id_Unidades": 1148,
+    "FV_UNN_Descripcion": "arrastrar",
+    "FV_UNN_Codigo_DIAN": "Z5"
+  },
+  {
+    "FV_UNN_id_Unidades": 1149,
+    "FV_UNN_Descripcion": "punto de conferencia",
+    "FV_UNN_Codigo_DIAN": "Z6"
+  },
+  {
+    "FV_UNN_id_Unidades": 1150,
+    "FV_UNN_Descripcion": "línea de noticias de ágata",
+    "FV_UNN_Codigo_DIAN": "Z8"
+  },
+  {
+    "FV_UNN_id_Unidades": 1151,
+    "FV_UNN_Descripcion": "página",
+    "FV_UNN_Codigo_DIAN": "ZP"
+  },
+  {
+    "FV_UNN_id_Unidades": 1152,
+    "FV_UNN_Descripcion": "mutuamente definido",
+    "FV_UNN_Codigo_DIAN": "ZZ"
+  }
+]
