@@ -1,0 +1,57 @@
+[
+  {
+    "FV_INC_id_Incoterms": 1,
+    "FV_INC_Codigo_DIAN": "CFR",
+    "FV_INC_Descripcion": "Costo y flete"
+  },
+  {
+    "FV_INC_id_Incoterms": 2,
+    "FV_INC_Codigo_DIAN": "CIF",
+    "FV_INC_Descripcion": "Costo, flete y seguro"
+  },
+  {
+    "FV_INC_id_Incoterms": 3,
+    "FV_INC_Codigo_DIAN": "CIP",
+    "FV_INC_Descripcion": "Transporte y Seguro Pagados hasta"
+  },
+  {
+    "FV_INC_id_Incoterms": 4,
+    "FV_INC_Codigo_DIAN": "CPT",
+    "FV_INC_Descripcion": "Transporte Pagado Hasta"
+  },
+  {
+    "FV_INC_id_Incoterms": 5,
+    "FV_INC_Codigo_DIAN": "DAP",
+    "FV_INC_Descripcion": "Entregado en un Lugar"
+  },
+  {
+    "FV_INC_id_Incoterms": 6,
+    "FV_INC_Codigo_DIAN": "DAT",
+    "FV_INC_Descripcion": "Entregado en Terminal"
+  },
+  {
+    "FV_INC_id_Incoterms": 7,
+    "FV_INC_Codigo_DIAN": "DDP",
+    "FV_INC_Descripcion": "Entregado con Pago de Derechos"
+  },
+  {
+    "FV_INC_id_Incoterms": 8,
+    "FV_INC_Codigo_DIAN": "EXW",
+    "FV_INC_Descripcion": "En Fábrica"
+  },
+  {
+    "FV_INC_id_Incoterms": 9,
+    "FV_INC_Codigo_DIAN": "FAS",
+    "FV_INC_Descripcion": "Franco al costado del buque"
+  },
+  {
+    "FV_INC_id_Incoterms": 10,
+    "FV_INC_Codigo_DIAN": "FCA",
+    "FV_INC_Descripcion": "Franco transportista"
+  },
+  {
+    "FV_INC_id_Incoterms": 11,
+    "FV_INC_Codigo_DIAN": "FOB",
+    "FV_INC_Descripcion": "Franco a bordo"
+  }
+]
