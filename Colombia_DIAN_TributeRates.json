@@ -1,0 +1,296 @@
+[
+  {
+    "FV_TXT_Id_TarifaXTributo": 1,
+    "FV_TRB_Id_Tributos": 1,
+    "FV_TXT_Concepto_TarifaXTributo": "Exento",
+    "FV_TXT_Tarifa_TarifaXTributo": 0
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 2,
+    "FV_TRB_Id_Tributos": 1,
+    "FV_TXT_Concepto_TarifaXTributo": "Bienes / Servicios al 5",
+    "FV_TXT_Tarifa_TarifaXTributo": 5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 3,
+    "FV_TRB_Id_Tributos": 1,
+    "FV_TXT_Concepto_TarifaXTributo": "Contratos firmados con el estado antes de ley 1819",
+    "FV_TXT_Tarifa_TarifaXTributo": 16
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 4,
+    "FV_TRB_Id_Tributos": 1,
+    "FV_TXT_Concepto_TarifaXTributo": "Tarifa general",
+    "FV_TXT_Tarifa_TarifaXTributo": 19
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 5,
+    "FV_TRB_Id_Tributos": 1,
+    "FV_TXT_Concepto_TarifaXTributo": "Especial vehículos",
+    "FV_TXT_Tarifa_TarifaXTributo": 20
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 6,
+    "FV_TRB_Id_Tributos": 1,
+    "FV_TXT_Concepto_TarifaXTributo": "Especial vehículos",
+    "FV_TXT_Tarifa_TarifaXTributo": 35
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 7,
+    "FV_TRB_Id_Tributos": 4,
+    "FV_TXT_Concepto_TarifaXTributo": "Tarifa general",
+    "FV_TXT_Tarifa_TarifaXTributo": 8
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 8,
+    "FV_TRB_Id_Tributos": 4,
+    "FV_TXT_Concepto_TarifaXTributo": "Tarifa especial",
+    "FV_TXT_Tarifa_TarifaXTributo": 4
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 9,
+    "FV_TRB_Id_Tributos": 5,
+    "FV_TXT_Concepto_TarifaXTributo": "ReteIVA",
+    "FV_TXT_Tarifa_TarifaXTributo": 15
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 10,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Compras generales (declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 2.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 11,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Compras generales (no declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 3.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 12,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Compras con tarjeta débito o crédito",
+    "FV_TXT_Tarifa_TarifaXTributo": 1.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 13,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Compras de bienes o productos agrícolas o pecuarios sin procesamiento industrial",
+    "FV_TXT_Tarifa_TarifaXTributo": 1.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 14,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Compras de bienes o productos agrícolas o pecuarios con procesamiento industrial (declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 2.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 15,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Arrendamiento de bienes inmuebles (declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 3.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 16,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Arrendamiento de bienes inmuebles (no declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 3.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 17,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Arrendamiento de bienes muebles",
+    "FV_TXT_Tarifa_TarifaXTributo": 4
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 18,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Compras de bienes o productos agrícolas o pecuarios con procesamiento industrial declarantes (no declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 3.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 19,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Compras de bienes raíces cuya destinación y uso sea distinto a vivienda de habitación",
+    "FV_TXT_Tarifa_TarifaXTributo": 2.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 20,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Compras de bienes raíces cuya destinación y uso sea vivienda de habitación (exceso de las primeras 20.000 UVT, es decir superior a $637.780.000)",
+    "FV_TXT_Tarifa_TarifaXTributo": 2.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 21,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Compras de bienes raíces cuya destinación y uso sea vivienda de habitación (por las primeras 20.000 UVT, es decir hasta $637.780.000)",
+    "FV_TXT_Tarifa_TarifaXTributo": 1
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 22,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Compras de café pergamino o cereza",
+    "FV_TXT_Tarifa_TarifaXTributo": 0.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 23,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Compras de combustibles derivados del petróleo",
+    "FV_TXT_Tarifa_TarifaXTributo": 0.1
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 24,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Compras de vehículos",
+    "FV_TXT_Tarifa_TarifaXTributo": 1
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 25,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Enajenación de activos fijos de personas naturales (notarías y tránsito son agentes retenedores)",
+    "FV_TXT_Tarifa_TarifaXTributo": 1
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 26,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Honorarios y comisiones (no declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 10
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 27,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Honorarios y comisiones (personas jurídicas)",
+    "FV_TXT_Tarifa_TarifaXTributo": 11
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 28,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Honorarios y comisiones personas naturales que suscriban contrato o cuya sumatoria de los pagos o abonos en cuenta superen las 3.300 UVT ($105.135.000)",
+    "FV_TXT_Tarifa_TarifaXTributo": 11
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 29,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Intereses o rendimientos financieros",
+    "FV_TXT_Tarifa_TarifaXTributo": 7
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 30,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Otros ingresos tributarios (declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 2.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 31,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Otros ingresos tributarios (no declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 3.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 32,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Por emolumentos eclesiásticos (declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 4
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 33,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Por emolumentos eclesiásticos (no declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 3.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 34,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Rendimientos financieros provenientes de títulos de renta fija",
+    "FV_TXT_Tarifa_TarifaXTributo": 4
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 35,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Servicios de hoteles y restaurantes (declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 3.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 36,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Servicios de hoteles y restaurantes (no declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 3.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 37,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Servicios de licenciamiento o derecho de uso de software",
+    "FV_TXT_Tarifa_TarifaXTributo": 3.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 38,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Servicios de transporte de carga",
+    "FV_TXT_Tarifa_TarifaXTributo": 1
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 39,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Servicios de transporte nacional de pasajeros por vía aérea o marítima",
+    "FV_TXT_Tarifa_TarifaXTributo": 1
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 40,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Servicios de transporte nacional de pasajeros por vía terrestre (declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 3.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 41,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Servicios de transporte nacional de pasajeros por vía terrestre (no declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 3.5
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 42,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Servicios generales (declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 4
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 43,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Servicios generales (no declarantes)",
+    "FV_TXT_Tarifa_TarifaXTributo": 6
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 44,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Servicios integrales de salud prestados por IPS",
+    "FV_TXT_Tarifa_TarifaXTributo": 2
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 45,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Servicios prestados por empresas de servicios temporales (sobre AIU)",
+    "FV_TXT_Tarifa_TarifaXTributo": 1
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 46,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Servicios prestados por empresas de vigilancia y aseo (sobre AIU)",
+    "FV_TXT_Tarifa_TarifaXTributo": 2
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 47,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Loterías, rifas, apuestas y similares",
+    "FV_TXT_Tarifa_TarifaXTributo": 20
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 48,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Retención en colocación independiente de juegos de suerte y azar",
+    "FV_TXT_Tarifa_TarifaXTributo": 3
+  },
+  {
+    "FV_TXT_Id_TarifaXTributo": 49,
+    "FV_TRB_Id_Tributos": 6,
+    "FV_TXT_Concepto_TarifaXTributo": "Contratos de construcción y urbanización",
+    "FV_TXT_Tarifa_TarifaXTributo": 2
+  }
+]
