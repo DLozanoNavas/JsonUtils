@@ -1,0 +1,654 @@
+[
+  {
+    "Codigo ISO": "COP",
+    "Nombre Moneda": "PESOS COLOMBIANOS"
+  },
+  {
+    "Codigo ISO": "USD",
+    "Nombre Moneda": "USD DOLARES"
+  },
+  {
+    "Codigo ISO": "EUR",
+    "Nombre Moneda": "EUROS"
+  },
+  {
+    "Codigo ISO": "ARS",
+    "Nombre Moneda": "Peso argentino"
+  },
+  {
+    "Codigo ISO": "AUD",
+    "Nombre Moneda": "Dólar australiano"
+  },
+  {
+    "Codigo ISO": "BOB",
+    "Nombre Moneda": "Boliviano"
+  },
+  {
+    "Codigo ISO": "BRL",
+    "Nombre Moneda": "Real brasileño"
+  },
+  {
+    "Codigo ISO": "CLP",
+    "Nombre Moneda": "Peso chileno"
+  },
+  {
+    "Codigo ISO": "CRC",
+    "Nombre Moneda": "Colón costarricense"
+  },
+  {
+    "Codigo ISO": "DOP",
+    "Nombre Moneda": "Peso dominicano"
+  },
+  {
+    "Codigo ISO": "GTQ",
+    "Nombre Moneda": "Quetzal guatemalteco"
+  },
+  {
+    "Codigo ISO": "HNL",
+    "Nombre Moneda": "Lempira hondureño"
+  },
+  {
+    "Codigo ISO": "MXN",
+    "Nombre Moneda": "Peso mexicano"
+  },
+  {
+    "Codigo ISO": "PAB",
+    "Nombre Moneda": "Balboa panameña"
+  },
+  {
+    "Codigo ISO": "PEN",
+    "Nombre Moneda": "Nuevo sol peruano"
+  },
+  {
+    "Codigo ISO": "PYG",
+    "Nombre Moneda": "Guaraní paraguayo"
+  },
+  {
+    "Codigo ISO": "UYU",
+    "Nombre Moneda": "Peso uruguayo"
+  },
+  {
+    "Codigo ISO": "VEF",
+    "Nombre Moneda": "Bolívar fuerte venezolano"
+  },
+  {
+    "Codigo ISO": "AED",
+    "Nombre Moneda": "UAE Dirham"
+  },
+  {
+    "Codigo ISO": "AFN",
+    "Nombre Moneda": "Afghani"
+  },
+  {
+    "Codigo ISO": "ALL",
+    "Nombre Moneda": "Albanian Lek"
+  },
+  {
+    "Codigo ISO": "AMD",
+    "Nombre Moneda": "Armenian Dram"
+  },
+  {
+    "Codigo ISO": "ANG",
+    "Nombre Moneda": "Netherlands Antillean Guilder"
+  },
+  {
+    "Codigo ISO": "AOA",
+    "Nombre Moneda": "Kwanza"
+  },
+  {
+    "Codigo ISO": "AWG",
+    "Nombre Moneda": "Aruban Florin"
+  },
+  {
+    "Codigo ISO": "AZN",
+    "Nombre Moneda": "Azerbaijan Manat"
+  },
+  {
+    "Codigo ISO": "BAM",
+    "Nombre Moneda": "Convertible Mark Bosnia & Herzegovina"
+  },
+  {
+    "Codigo ISO": "BBD",
+    "Nombre Moneda": "Barbados Dollar"
+  },
+  {
+    "Codigo ISO": "BDT",
+    "Nombre Moneda": "Bangladesh Taka"
+  },
+  {
+    "Codigo ISO": "BGN",
+    "Nombre Moneda": "Bulgarian Lev"
+  },
+  {
+    "Codigo ISO": "BHD",
+    "Nombre Moneda": "Bahraini Dinar"
+  },
+  {
+    "Codigo ISO": "BIF",
+    "Nombre Moneda": "Burundi Franc"
+  },
+  {
+    "Codigo ISO": "BMD",
+    "Nombre Moneda": "Bermudian Dollar"
+  },
+  {
+    "Codigo ISO": "BND",
+    "Nombre Moneda": "Brunei Dollar"
+  },
+  {
+    "Codigo ISO": "BOV",
+    "Nombre Moneda": "Mvdol"
+  },
+  {
+    "Codigo ISO": "BSD",
+    "Nombre Moneda": "Bahamian Dollar"
+  },
+  {
+    "Codigo ISO": "BTN",
+    "Nombre Moneda": "Buthan Ngultrum"
+  },
+  {
+    "Codigo ISO": "BWP",
+    "Nombre Moneda": "Pula"
+  },
+  {
+    "Codigo ISO": "BYN",
+    "Nombre Moneda": "Belarusian Ruble"
+  },
+  {
+    "Codigo ISO": "BZD",
+    "Nombre Moneda": "Belize Dollar"
+  },
+  {
+    "Codigo ISO": "CAD",
+    "Nombre Moneda": "Canadian Dollar"
+  },
+  {
+    "Codigo ISO": "CDF",
+    "Nombre Moneda": "Congolese Franc"
+  },
+  {
+    "Codigo ISO": "CHE",
+    "Nombre Moneda": "WIR Euro"
+  },
+  {
+    "Codigo ISO": "CHF",
+    "Nombre Moneda": "Swiss Franc"
+  },
+  {
+    "Codigo ISO": "CHW",
+    "Nombre Moneda": "WIR Franc"
+  },
+  {
+    "Codigo ISO": "CLF",
+    "Nombre Moneda": "Unidad de Fomento"
+  },
+  {
+    "Codigo ISO": "CNY",
+    "Nombre Moneda": "Yuan Renminbi"
+  },
+  {
+    "Codigo ISO": "CUP",
+    "Nombre Moneda": "Cuban Peso"
+  },
+  {
+    "Codigo ISO": "CUC",
+    "Nombre Moneda": "Peso Convertible"
+  },
+  {
+    "Codigo ISO": "CVE",
+    "Nombre Moneda": "Cabo Verde Escudo"
+  },
+  {
+    "Codigo ISO": "CZK",
+    "Nombre Moneda": "Czech Koruna"
+  },
+  {
+    "Codigo ISO": "DJF",
+    "Nombre Moneda": "Djibouti Franc"
+  },
+  {
+    "Codigo ISO": "DKK",
+    "Nombre Moneda": "Danish Krone"
+  },
+  {
+    "Codigo ISO": "DZD",
+    "Nombre Moneda": "Algerian Dinar"
+  },
+  {
+    "Codigo ISO": "EGP",
+    "Nombre Moneda": "Egyptian Pound"
+  },
+  {
+    "Codigo ISO": "ERN",
+    "Nombre Moneda": "Nakfa"
+  },
+  {
+    "Codigo ISO": "ETB",
+    "Nombre Moneda": "Ethiopian Birr"
+  },
+  {
+    "Codigo ISO": "FJD",
+    "Nombre Moneda": "Fiji Dollar"
+  },
+  {
+    "Codigo ISO": "FKP",
+    "Nombre Moneda": "Falkland Islands Pound"
+  },
+  {
+    "Codigo ISO": "GBP",
+    "Nombre Moneda": "Pound Sterling"
+  },
+  {
+    "Codigo ISO": "GEL",
+    "Nombre Moneda": "Lari"
+  },
+  {
+    "Codigo ISO": "GHS",
+    "Nombre Moneda": "Ghana Cedi"
+  },
+  {
+    "Codigo ISO": "GIP",
+    "Nombre Moneda": "Gibraltar Pound"
+  },
+  {
+    "Codigo ISO": "GMD",
+    "Nombre Moneda": "Dalasi"
+  },
+  {
+    "Codigo ISO": "GNF",
+    "Nombre Moneda": "Guinean Franc"
+  },
+  {
+    "Codigo ISO": "GYD",
+    "Nombre Moneda": "Guyana Dollar"
+  },
+  {
+    "Codigo ISO": "HKD",
+    "Nombre Moneda": "Hong Kong Dollar"
+  },
+  {
+    "Codigo ISO": "HRK",
+    "Nombre Moneda": "Kuna"
+  },
+  {
+    "Codigo ISO": "HTG",
+    "Nombre Moneda": "Gourde"
+  },
+  {
+    "Codigo ISO": "HUF",
+    "Nombre Moneda": "Forint"
+  },
+  {
+    "Codigo ISO": "IDR",
+    "Nombre Moneda": "Rupiah"
+  },
+  {
+    "Codigo ISO": "ILS",
+    "Nombre Moneda": "New Israeli Sheqel"
+  },
+  {
+    "Codigo ISO": "INR",
+    "Nombre Moneda": "Indian Rupee"
+  },
+  {
+    "Codigo ISO": "IQD",
+    "Nombre Moneda": "Iraqi Dinar"
+  },
+  {
+    "Codigo ISO": "IRR",
+    "Nombre Moneda": "Iranian Rial"
+  },
+  {
+    "Codigo ISO": "ISK",
+    "Nombre Moneda": "Iceland Krona"
+  },
+  {
+    "Codigo ISO": "JMD",
+    "Nombre Moneda": "Jamaican Dollar"
+  },
+  {
+    "Codigo ISO": "JOD",
+    "Nombre Moneda": "Jordanian Dinar"
+  },
+  {
+    "Codigo ISO": "JPY",
+    "Nombre Moneda": "Yen"
+  },
+  {
+    "Codigo ISO": "KES",
+    "Nombre Moneda": "Kenyan Shilling"
+  },
+  {
+    "Codigo ISO": "KGS",
+    "Nombre Moneda": "Som"
+  },
+  {
+    "Codigo ISO": "KHR",
+    "Nombre Moneda": "Riel"
+  },
+  {
+    "Codigo ISO": "KMF",
+    "Nombre Moneda": "Comorian Franc"
+  },
+  {
+    "Codigo ISO": "KPW",
+    "Nombre Moneda": "North Korean Won"
+  },
+  {
+    "Codigo ISO": "KRW",
+    "Nombre Moneda": "Won"
+  },
+  {
+    "Codigo ISO": "KWD",
+    "Nombre Moneda": "Kuwaiti Dinar"
+  },
+  {
+    "Codigo ISO": "KYD",
+    "Nombre Moneda": "Cayman Islands Dollar"
+  },
+  {
+    "Codigo ISO": "KZT",
+    "Nombre Moneda": "Tenge"
+  },
+  {
+    "Codigo ISO": "LAK",
+    "Nombre Moneda": "Lao Kip"
+  },
+  {
+    "Codigo ISO": "LBP",
+    "Nombre Moneda": "Lebanese Pound"
+  },
+  {
+    "Codigo ISO": "LKR",
+    "Nombre Moneda": "Sri Lanka Rupee"
+  },
+  {
+    "Codigo ISO": "LRD",
+    "Nombre Moneda": "Liberian Dollar"
+  },
+  {
+    "Codigo ISO": "LSL",
+    "Nombre Moneda": "Loti"
+  },
+  {
+    "Codigo ISO": "LYD",
+    "Nombre Moneda": "Libyan Dinar"
+  },
+  {
+    "Codigo ISO": "MAD",
+    "Nombre Moneda": "Moroccan Dirham"
+  },
+  {
+    "Codigo ISO": "MDL",
+    "Nombre Moneda": "Moldovan Leu"
+  },
+  {
+    "Codigo ISO": "MGA",
+    "Nombre Moneda": "Malagasy Ariary"
+  },
+  {
+    "Codigo ISO": "MKD",
+    "Nombre Moneda": "Denar"
+  },
+  {
+    "Codigo ISO": "MMK",
+    "Nombre Moneda": "Kyat"
+  },
+  {
+    "Codigo ISO": "MNT",
+    "Nombre Moneda": "Tugrik"
+  },
+  {
+    "Codigo ISO": "MOP",
+    "Nombre Moneda": "Pataca"
+  },
+  {
+    "Codigo ISO": "MRO",
+    "Nombre Moneda": "Ouguiya"
+  },
+  {
+    "Codigo ISO": "MUR",
+    "Nombre Moneda": "Mauritius Rupee"
+  },
+  {
+    "Codigo ISO": "MVR",
+    "Nombre Moneda": "Rufiyaa"
+  },
+  {
+    "Codigo ISO": "MWK",
+    "Nombre Moneda": "Malawi Kwacha"
+  },
+  {
+    "Codigo ISO": "MXV",
+    "Nombre Moneda": "Mexican Unidad de Inversion (UDI)"
+  },
+  {
+    "Codigo ISO": "MYR",
+    "Nombre Moneda": "Malaysian Ringgit"
+  },
+  {
+    "Codigo ISO": "MZN",
+    "Nombre Moneda": "Mozambique Metical"
+  },
+  {
+    "Codigo ISO": "NAD",
+    "Nombre Moneda": "Namibia Dollar"
+  },
+  {
+    "Codigo ISO": "NGN",
+    "Nombre Moneda": "Naira"
+  },
+  {
+    "Codigo ISO": "NIO",
+    "Nombre Moneda": "Cordoba Oro"
+  },
+  {
+    "Codigo ISO": "NOK",
+    "Nombre Moneda": "Norwegian Krone"
+  },
+  {
+    "Codigo ISO": "NPR",
+    "Nombre Moneda": "Nepalese Rupee"
+  },
+  {
+    "Codigo ISO": "NZD",
+    "Nombre Moneda": "New Zealand Dollar"
+  },
+  {
+    "Codigo ISO": "OMR",
+    "Nombre Moneda": "Rial Omani"
+  },
+  {
+    "Codigo ISO": "PGK",
+    "Nombre Moneda": "Kina"
+  },
+  {
+    "Codigo ISO": "PHP",
+    "Nombre Moneda": "Philippine Peso"
+  },
+  {
+    "Codigo ISO": "PKR",
+    "Nombre Moneda": "Pakistan Rupee"
+  },
+  {
+    "Codigo ISO": "PLN",
+    "Nombre Moneda": "Zloty"
+  },
+  {
+    "Codigo ISO": "QAR",
+    "Nombre Moneda": "Qatari Rial"
+  },
+  {
+    "Codigo ISO": "RON",
+    "Nombre Moneda": "Romanian Leu"
+  },
+  {
+    "Codigo ISO": "RSD",
+    "Nombre Moneda": "Serbian Dinar"
+  },
+  {
+    "Codigo ISO": "RWF",
+    "Nombre Moneda": "Rwanda Franc"
+  },
+  {
+    "Codigo ISO": "SAR",
+    "Nombre Moneda": "Saudi Riyal"
+  },
+  {
+    "Codigo ISO": "SBD",
+    "Nombre Moneda": "Solomon Islands Dollar"
+  },
+  {
+    "Codigo ISO": "SCR",
+    "Nombre Moneda": "Seychelles Rupee"
+  },
+  {
+    "Codigo ISO": "SDG",
+    "Nombre Moneda": "Sudanese Pound"
+  },
+  {
+    "Codigo ISO": "SEK",
+    "Nombre Moneda": "Swedish Krona"
+  },
+  {
+    "Codigo ISO": "SGD",
+    "Nombre Moneda": "Singapore Dollar"
+  },
+  {
+    "Codigo ISO": "SHP",
+    "Nombre Moneda": "Saint Helena Pound"
+  },
+  {
+    "Codigo ISO": "SLL",
+    "Nombre Moneda": "Leone"
+  },
+  {
+    "Codigo ISO": "SOS",
+    "Nombre Moneda": "Somali Shilling"
+  },
+  {
+    "Codigo ISO": "SRD",
+    "Nombre Moneda": "Surinam Dollar"
+  },
+  {
+    "Codigo ISO": "SSP",
+    "Nombre Moneda": "South Sudanese Pound"
+  },
+  {
+    "Codigo ISO": "STD",
+    "Nombre Moneda": "Dobra"
+  },
+  {
+    "Codigo ISO": "SVC",
+    "Nombre Moneda": "El Salvador Colon"
+  },
+  {
+    "Codigo ISO": "SYP",
+    "Nombre Moneda": "Syrian Pound"
+  },
+  {
+    "Codigo ISO": "SZL",
+    "Nombre Moneda": "Lilangeni"
+  },
+  {
+    "Codigo ISO": "THB",
+    "Nombre Moneda": "Baht"
+  },
+  {
+    "Codigo ISO": "TJS",
+    "Nombre Moneda": "Somoni"
+  },
+  {
+    "Codigo ISO": "TMT",
+    "Nombre Moneda": "Turkmenistan New Manat"
+  },
+  {
+    "Codigo ISO": "TND",
+    "Nombre Moneda": "Tunisian Dinar"
+  },
+  {
+    "Codigo ISO": "TOP",
+    "Nombre Moneda": "Pa’anga"
+  },
+  {
+    "Codigo ISO": "TRY",
+    "Nombre Moneda": "Turkish Lira"
+  },
+  {
+    "Codigo ISO": "TTD",
+    "Nombre Moneda": "Trinidad and Tobago Dollar"
+  },
+  {
+    "Codigo ISO": "TWD",
+    "Nombre Moneda": "New Taiwan Dollar"
+  },
+  {
+    "Codigo ISO": "TZS",
+    "Nombre Moneda": "Tanzanian Shilling"
+  },
+  {
+    "Codigo ISO": "UAH",
+    "Nombre Moneda": "Hryvnia"
+  },
+  {
+    "Codigo ISO": "UGX",
+    "Nombre Moneda": "Uganda Shilling"
+  },
+  {
+    "Codigo ISO": "UYI",
+    "Nombre Moneda": "Uruguay Peso en Unidades Indexadas (URUIURUI)"
+  },
+  {
+    "Codigo ISO": "UZS",
+    "Nombre Moneda": "Uzbekistan Sum"
+  },
+  {
+    "Codigo ISO": "VND",
+    "Nombre Moneda": "Dong"
+  },
+  {
+    "Codigo ISO": "VUV",
+    "Nombre Moneda": "Vatu"
+  },
+  {
+    "Codigo ISO": "WST",
+    "Nombre Moneda": "Tala"
+  },
+  {
+    "Codigo ISO": "XAF",
+    "Nombre Moneda": "CFA Franc BEAC"
+  },
+  {
+    "Codigo ISO": "XCD",
+    "Nombre Moneda": "East Caribbean Dollar"
+  },
+  {
+    "Codigo ISO": "XOF",
+    "Nombre Moneda": "CFA Franc BCEAO"
+  },
+  {
+    "Codigo ISO": "XPF",
+    "Nombre Moneda": "CFP Franc"
+  },
+  {
+    "Codigo ISO": "XSU",
+    "Nombre Moneda": "Sucre"
+  },
+  {
+    "Codigo ISO": "YER",
+    "Nombre Moneda": "Yemeni Rial"
+  },
+  {
+    "Codigo ISO": "ZAR",
+    "Nombre Moneda": "Rand"
+  },
+  {
+    "Codigo ISO": "ZMW",
+    "Nombre Moneda": "Zambian Kwacha"
+  },
+  {
+    "Codigo ISO": "ZWL",
+    "Nombre Moneda": "Zimbabwe Dollar"
+  }
+]
