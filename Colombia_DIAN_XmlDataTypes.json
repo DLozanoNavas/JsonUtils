@@ -1,0 +1,30 @@
+[
+  {
+    "TDX_id_tipoDatoXml": "A",
+    "TDX_descripcion_tipoDatoXml": "Alfanumérico"
+  },
+  {
+    "TDX_id_tipoDatoXml": "B",
+    "TDX_descripcion_tipoDatoXml": "Booleano (true, false)"
+  },
+  {
+    "TDX_id_tipoDatoXml": "F",
+    "TDX_descripcion_tipoDatoXml": "Fecha, AAAA-MM-DD (ISO8601-2)"
+  },
+  {
+    "TDX_id_tipoDatoXml": "H",
+    "TDX_descripcion_tipoDatoXml": "Hora, HH:mm:ss-dhh:mm (d: + -)"
+  },
+  {
+    "TDX_id_tipoDatoXml": "I",
+    "TDX_descripcion_tipoDatoXml": "Intervalo de tiempo (fechaInical/FechaFinal: AAAA-MM-DD/AAAA-MM-DD)"
+  },
+  {
+    "TDX_id_tipoDatoXml": "N",
+    "TDX_descripcion_tipoDatoXml": "Numérico  (0-9 . + -)"
+  },
+  {
+    "TDX_id_tipoDatoXml": "X",
+    "TDX_descripcion_tipoDatoXml": "Documento XML"
+  }
+]
