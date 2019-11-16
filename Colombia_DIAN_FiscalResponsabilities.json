@@ -1,0 +1,97 @@
+[
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 1,
+    "FV_RPF_Descripcion": "Ingresos y patrimonio",
+    "FV_RPF_Codigo_DIAN": "O-06"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 2,
+    "FV_RPF_Descripcion": "Retención en la fuente a título de renta",
+    "FV_RPF_Codigo_DIAN": "O-07"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 3,
+    "FV_RPF_Descripcion": "Retención timbre nacional",
+    "FV_RPF_Codigo_DIAN": "O-08"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 5,
+    "FV_RPF_Descripcion": "Ventas régimen común",
+    "FV_RPF_Codigo_DIAN": "O-11"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 6,
+    "FV_RPF_Descripcion": "Ventas régimen simplificado",
+    "FV_RPF_Codigo_DIAN": "O-12"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 7,
+    "FV_RPF_Descripcion": "Gran contribuyente",
+    "FV_RPF_Codigo_DIAN": "O-13"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 8,
+    "FV_RPF_Descripcion": "Informante de exógena",
+    "FV_RPF_Codigo_DIAN": "O-14"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 9,
+    "FV_RPF_Descripcion": "Autorretenedor",
+    "FV_RPF_Codigo_DIAN": "O-15"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 11,
+    "FV_RPF_Descripcion": "Profesionales de compra y venta de divisas",
+    "FV_RPF_Codigo_DIAN": "O-17"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 12,
+    "FV_RPF_Descripcion": "Productor y/o exportador de bienes exentos",
+    "FV_RPF_Codigo_DIAN": "O-19"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 15,
+    "FV_RPF_Descripcion": "Impuesto Nacional a la Gasolina y al ACPM",
+    "FV_RPF_Codigo_DIAN": "O-32"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 16,
+    "FV_RPF_Descripcion": "Impuesto Nacional al consumo",
+    "FV_RPF_Codigo_DIAN": "O-33"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 18,
+    "FV_RPF_Descripcion": "Establecimiento Permanente",
+    "FV_RPF_Codigo_DIAN": "O-36"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 19,
+    "FV_RPF_Descripcion": "Obligado a Facturar Electrónicamente Modelo 2242",
+    "FV_RPF_Codigo_DIAN": "O-37"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 20,
+    "FV_RPF_Descripcion": "Facturación Electrónica Voluntaria Modelo 2242",
+    "FV_RPF_Codigo_DIAN": "O-38"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 22,
+    "FV_RPF_Descripcion": "Otro tipo de obligado",
+    "FV_RPF_Codigo_DIAN": "O-99"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 31,
+    "FV_RPF_Descripcion": "Agente de carga internacional",
+    "FV_RPF_Codigo_DIAN": "A-01"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 32,
+    "FV_RPF_Descripcion": "Agente marítimo",
+    "FV_RPF_Codigo_DIAN": "A-02"
+  },
+  {
+    "FV_RPF_id_ResponsbilidadesFiscales": 33,
+    "FV_RPF_Descripcion": "Almacén general de depósito",
+    "FV_RPF_Codigo_DIAN": "A-03"
+  }
+]
