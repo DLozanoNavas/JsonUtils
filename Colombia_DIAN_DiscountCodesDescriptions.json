@@ -1,0 +1,62 @@
+[
+  {
+    "FV_CDE_Id_Codigos_descuento": 1,
+    "FV_CDE_Codigo_Codigos_Descuento": "00",
+    "FV_CDE_Descripcion_Codigos_descuento": "Descuento por impuesto asumido"
+  },
+  {
+    "FV_CDE_Id_Codigos_descuento": 2,
+    "FV_CDE_Codigo_Codigos_Descuento": "01",
+    "FV_CDE_Descripcion_Codigos_descuento": "Pague uno lleve otro"
+  },
+  {
+    "FV_CDE_Id_Codigos_descuento": 3,
+    "FV_CDE_Codigo_Codigos_Descuento": "02",
+    "FV_CDE_Descripcion_Codigos_descuento": "Descuentos contractulales"
+  },
+  {
+    "FV_CDE_Id_Codigos_descuento": 4,
+    "FV_CDE_Codigo_Codigos_Descuento": "03",
+    "FV_CDE_Descripcion_Codigos_descuento": "Descuento por pronto pago"
+  },
+  {
+    "FV_CDE_Id_Codigos_descuento": 5,
+    "FV_CDE_Codigo_Codigos_Descuento": "04",
+    "FV_CDE_Descripcion_Codigos_descuento": "Envío gratis"
+  },
+  {
+    "FV_CDE_Id_Codigos_descuento": 6,
+    "FV_CDE_Codigo_Codigos_Descuento": "05",
+    "FV_CDE_Descripcion_Codigos_descuento": "Descuentos escpecíficos por inventarios"
+  },
+  {
+    "FV_CDE_Id_Codigos_descuento": 7,
+    "FV_CDE_Codigo_Codigos_Descuento": "06",
+    "FV_CDE_Descripcion_Codigos_descuento": "Descuento por monto de compras"
+  },
+  {
+    "FV_CDE_Id_Codigos_descuento": 8,
+    "FV_CDE_Codigo_Codigos_Descuento": "07",
+    "FV_CDE_Descripcion_Codigos_descuento": "Descuento de temporada"
+  },
+  {
+    "FV_CDE_Id_Codigos_descuento": 9,
+    "FV_CDE_Codigo_Codigos_Descuento": "08",
+    "FV_CDE_Descripcion_Codigos_descuento": "Descuento por acturalización de productos / servicios"
+  },
+  {
+    "FV_CDE_Id_Codigos_descuento": 10,
+    "FV_CDE_Codigo_Codigos_Descuento": "09",
+    "FV_CDE_Descripcion_Codigos_descuento": "Descuento general"
+  },
+  {
+    "FV_CDE_Id_Codigos_descuento": 11,
+    "FV_CDE_Codigo_Codigos_Descuento": 10,
+    "FV_CDE_Descripcion_Codigos_descuento": "Descuento por volumen"
+  },
+  {
+    "FV_CDE_Id_Codigos_descuento": 12,
+    "FV_CDE_Codigo_Codigos_Descuento": 11,
+    "FV_CDE_Descripcion_Codigos_descuento": "Otro descuento"
+  }
+]
