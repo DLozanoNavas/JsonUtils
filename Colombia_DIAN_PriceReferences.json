@@ -1,0 +1,14 @@
+[
+  {
+    "Código": 1,
+    "Significado": "Valor comercial"
+  },
+  {
+    "Código": 2,
+    "Significado": "Valor en inventarios"
+  },
+  {
+    "Código": 3,
+    "Significado": "Otro valor"
+  }
+]
