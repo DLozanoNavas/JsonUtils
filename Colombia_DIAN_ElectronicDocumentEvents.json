@@ -1,0 +1,92 @@
+[
+  {
+    "FV_EDO_id_EventosDocElectronico": 1,
+    "FV_EDO_Descripcion": "Uso Autorizado por PA",
+    "FV_EDO_Codigo_DIAN": "001",
+    "FV_EDO_Responsable_Registro": "PA"
+  },
+  {
+    "FV_EDO_id_EventosDocElectronico": 2,
+    "FV_EDO_Descripcion": "Uso Autorizado por la DIAN",
+    "FV_EDO_Codigo_DIAN": "002",
+    "FV_EDO_Responsable_Registro": "DIAN"
+  },
+  {
+    "FV_EDO_id_EventosDocElectronico": 3,
+    "FV_EDO_Descripcion": "Documento Electrónico Validado por PA, y que Debería Haber Sido Rechazado",
+    "FV_EDO_Codigo_DIAN": "003",
+    "FV_EDO_Responsable_Registro": "DIAN"
+  },
+  {
+    "FV_EDO_id_EventosDocElectronico": 4,
+    "FV_EDO_Descripcion": "Documento Electrónico Referenciado por Otro Documento Electrónico",
+    "FV_EDO_Codigo_DIAN": "010",
+    "FV_EDO_Responsable_Registro": "DIAN"
+  },
+  {
+    "FV_EDO_id_EventosDocElectronico": 5,
+    "FV_EDO_Descripcion": "Documento Referenciado no Existe en la Base de Datos de la DIAN",
+    "FV_EDO_Codigo_DIAN": "011",
+    "FV_EDO_Responsable_Registro": "DIAN"
+  },
+  {
+    "FV_EDO_id_EventosDocElectronico": 6,
+    "FV_EDO_Descripcion": "Anulación de Efecto de Evento",
+    "FV_EDO_Codigo_DIAN": "012",
+    "FV_EDO_Responsable_Registro": "DIAN"
+  },
+  {
+    "FV_EDO_id_EventosDocElectronico": 7,
+    "FV_EDO_Descripcion": "Anotación de Oficio por la DIAN",
+    "FV_EDO_Codigo_DIAN": "015",
+    "FV_EDO_Responsable_Registro": "DIAN"
+  },
+  {
+    "FV_EDO_id_EventosDocElectronico": 8,
+    "FV_EDO_Descripcion": "Anulación de Negocio",
+    "FV_EDO_Codigo_DIAN": "020",
+    "FV_EDO_Responsable_Registro": "Emisor de una Factura Electrónica"
+  },
+  {
+    "FV_EDO_id_EventosDocElectronico": 9,
+    "FV_EDO_Descripcion": "Anulación de Documento",
+    "FV_EDO_Codigo_DIAN": "021",
+    "FV_EDO_Responsable_Registro": "Emisor de un Documento Electrónico"
+  },
+  {
+    "FV_EDO_id_EventosDocElectronico": 10,
+    "FV_EDO_Descripcion": "Solicitación de Corrección en Documento",
+    "FV_EDO_Codigo_DIAN": "030",
+    "FV_EDO_Responsable_Registro": "Receptor de una Factura Electrónica"
+  },
+  {
+    "FV_EDO_id_EventosDocElectronico": 11,
+    "FV_EDO_Descripcion": "Rechazo de Documento",
+    "FV_EDO_Codigo_DIAN": "031",
+    "FV_EDO_Responsable_Registro": "Receptor de una Factura Electrónica"
+  },
+  {
+    "FV_EDO_id_EventosDocElectronico": 12,
+    "FV_EDO_Descripcion": "Recibimiento de los Bienes",
+    "FV_EDO_Codigo_DIAN": "032",
+    "FV_EDO_Responsable_Registro": "Receptor de una Factura Electrónica"
+  },
+  {
+    "FV_EDO_id_EventosDocElectronico": 13,
+    "FV_EDO_Descripcion": "Aceptación de Documento",
+    "FV_EDO_Codigo_DIAN": "033",
+    "FV_EDO_Responsable_Registro": "Receptor de una Factura Electrónica"
+  },
+  {
+    "FV_EDO_id_EventosDocElectronico": 14,
+    "FV_EDO_Descripcion": "Factura Ofrecida para Negociación como Título Valor",
+    "FV_EDO_Codigo_DIAN": "040",
+    "FV_EDO_Responsable_Registro": "Emisor de una Factura Electrónica o adquirente de los derechos de crédito de una Factura Electrónica"
+  },
+  {
+    "FV_EDO_id_EventosDocElectronico": 15,
+    "FV_EDO_Descripcion": "Factura Negociada como Título Valor",
+    "FV_EDO_Codigo_DIAN": "041",
+    "FV_EDO_Responsable_Registro": "Emisor de una Factura Electrónica o adquirente de los derechos de crédito de una Factura Electrónica"
+  }
+]
